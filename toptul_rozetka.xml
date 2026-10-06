@@ -2485,14 +2485,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013891663" available="true">
+      <offer id="1013891663" available="false">
         <price>1040</price>
         <currencyId>UAH</currencyId>
         <categoryId>132</categoryId>
         <picture>https://images.prom.ua/1924853973_shlang-poliuretanovyj-50m.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>PU8</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Шланг поліуретановий 50 м 5 5x8 мм для компресора в бухті Airkraft (PU8)</name_ua>
         <name>Шланг поліуретановий 50 м 5 5x8 мм для компресора в бухті Airkraft (PU8)</name>
         <description>Поліуретановий шланг PU8 Використовується для подачі повітря в стандартних пневматичних системах. Шланг не піддається гідролізу та має добру стійкість до впливу озону й мікроорганізмів. ХАРАКТЕРИСТИКИ: Матеріал: поліуретан Максимальний тиск: 20 бар Внутрішній діаметр: 5,5 мм Зовнішній діаметр: 8 мм Довжина: 50 м Без швидкороз&amp;rsquo;ємних з&amp;rsquo;єднань Особливі властивості: Стійкість до атмосферних умов, стирання, ультрафіолетового випромінювання та багатьох агресивних хімічних середовищ; Широкий діапазон робочих температур. Під брендом AIRKRAFT виробляється широкий асортимент пневматичного обладнання та інструментів &amp;mdash; від повітряних компресорів до з&amp;rsquo;єднувальних елементів. Продукція AIRKRAFT виготовляється в різних країнах залежно від типу асортименту, зокрема в Італії, Туреччині, Китаї та Україні. Продукція AIRKRAFT відзначається високою якістю, безпекою, комфортом використання та простотою обслуговування. Надійність і довговічність виробів цього бренду були високо оцінені нашими партнерами.</description>
@@ -3112,14 +3112,14 @@
         <param name="Розмір посадкового квадрата" paramid="229057" valueid="3481813">3/8</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013891702" available="false">
+      <offer id="1013891702" available="true">
         <price>161</price>
         <currencyId>UAH</currencyId>
         <categoryId>44</categoryId>
         <picture>https://images.prom.ua/1923157276_klyuch-rozhkovo-nakidnoj-toptul.jpg</picture>
         <vendor>Toptul</vendor>
         <article>AAEX1717</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Ключ ріжково-накидний 17 мм Hi-Performance Toptul (AAEX1717)</name_ua>
         <name>Ключ ріжково-накидний 17 мм Hi-Performance Toptul (AAEX1717)</name>
         <description>Ключ ріжково-накидний TOPTUL 17 мм Hi-Performance AAEX1717</description>
@@ -3993,14 +3993,14 @@
         <param name="Тип" paramid="25938" valueid="4186573">Сопла</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013891759" available="false">
-        <price>61</price>
+      <offer id="1013891759" available="true">
+        <price>65</price>
         <currencyId>UAH</currencyId>
         <categoryId>63</categoryId>
         <picture>https://images.prom.ua/1924939490_napilnik-ploskij-150.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>MFF0150</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Напилок плоский 150 мм Стандарт (MFF0150)</name_ua>
         <name>Напилок плоский 150 мм Стандарт (MFF0150)</name>
         <description>Напилок плоский 150 мм СТАНДАРТ MFF0150</description>
@@ -4174,7 +4174,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013891767" available="true">
-        <price>264</price>
+        <price>160</price>
         <currencyId>UAH</currencyId>
         <categoryId>21</categoryId>
         <picture>https://images.prom.ua/7084482588_treschotka-reversivnaya-14.jpg</picture>
@@ -4213,14 +4213,14 @@
         <param name="Тип" paramid="25938" valueid="21757">Фарбопульти</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013891769" available="false">
-        <price>477</price>
+      <offer id="1013891769" available="true">
+        <price>506</price>
         <currencyId>UAH</currencyId>
         <categoryId>59</categoryId>
         <picture>https://images.prom.ua/1924956808_nabor-metchikov-i.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>TDS2001</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Набір мітчиків і плашок 20ед Стандарт (TDS2001)</name_ua>
         <name>Набір мітчиків і плашок 20ед Стандарт (TDS2001)</name>
         <description>Набір мітчиків і плашок 20ед СТАНДАРТ TDS2001 &amp;nbsp; Кількість одиниць: 20 од. Розміри: М3x0.5, М4x0.7, М5x0.8, М6x1.0, М7x1.0, М8x1.25, М9x1.25, М10x1.5, М12x1.75</description>
@@ -6130,14 +6130,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013891965" available="false">
-        <price>225</price>
+      <offer id="1013891965" available="true">
+        <price>301</price>
         <currencyId>UAH</currencyId>
         <categoryId>98</categoryId>
         <picture>https://images.prom.ua/1895063585_uroven-stroitelnyj-60.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>LWH0060</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Рівень будівельний 60 см Стандарт (LWH0060)</name_ua>
         <name>Рівень будівельний 60 см Стандарт (LWH0060)</name>
         <description>Рівень будівельний 60 см СТАНДАРТ LWH0060.</description>
@@ -8762,8 +8762,8 @@
         <param name="Вид" paramid="243838" valueid="3867823">Свічкові</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013892114" available="false">
-        <price>146</price>
+      <offer id="1013892114" available="true">
+        <price>164</price>
         <currencyId>UAH</currencyId>
         <categoryId>71</categoryId>
         <picture>https://images.prom.ua/1924939826_udlinyonnye-izognutye-passatizhi.jpg</picture>
@@ -8774,7 +8774,7 @@
         <picture>https://images.prom.ua/7083505319_udlinyonnye-izognutye-passatizhi.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>PLBN0108</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Подовжені вигнуті плоскогубці 200 мм Стандарт (PLBN0108)</name_ua>
         <name>Подовжені вигнуті плоскогубці 200 мм Стандарт (PLBN0108)</name>
         <description>Подовжені вигнуті плоскогубці 8&amp;quot; 200 мм Характеристики: Довжина: 200 мм Матеріал: CR-V Матеріал рукоятки: комбінований (PP+TPR) Під час ремонтних робіт, майстрування чи монтажу часто виникає потреба у використанні інструментів, що дозволяють виконувати точні операції у важкодоступних місцях. Подовжені вигнуті плоскогубці 8&amp;quot; (200 мм) &amp;mdash; ідеальне рішення для таких завдань. Завдяки універсальності вони добре підходять для роботи в майстерні, гаражі або вдома. Незамінні під час монтажу, формування елементів, затискання, різання дроту та маніпуляцій у вузьких просторах, де інші інструменти мають обмежений доступ. Плоскогубці виготовлені з міцної хромово-ванадієвої сталі (CR-V), що забезпечує тривалий термін служби та стійкість до пошкоджень. Рифлена захоплювальна поверхня гарантує надійне утримання як плоских, так і круглих предметів, а бокова ріжуча кромка дозволяє точно підрізати матеріали. Рукоятка виконана з комбінації PP+TPR, що забезпечує надійний антиковзкий хват і комфорт навіть під час тривалої роботи. Ці плоскогубці є незамінним інструментом у будь-якій ситуації, що потребує точності та міцності. STANDART &amp;mdash; бренд ручних інструментів і монтажного обладнання, який виробляється в країнах Східної та Південної Азії з 2011 року.</description>
@@ -10714,7 +10714,7 @@
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013892521" available="true">
+      <offer id="1013892521" available="false">
         <price>121000</price>
         <currencyId>UAH</currencyId>
         <categoryId>88</categoryId>
@@ -10726,7 +10726,7 @@
         <picture>https://images.prom.ua/1924918379_dvuhstoechnyj-elektrogidravlicheskij-podemnik.jpg</picture>
         <vendor>Launch</vendor>
         <article>TLT-240SBA-380</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Двостійковий електрогідравлічний підіймач 4 т 380 В TLT-240SBA Launch (TLT-240SBA-380)</name_ua>
         <name>Двостійковий електрогідравлічний підіймач 4 т 380 В TLT-240SBA Launch (TLT-240SBA-380)</name>
         <description>Підіймач світового класу &amp;nbsp;LAUNCH TLT-240SBA з нижньою синхронізацією вантажністю на 4 тонни, висотою підйому 1880 мм. З автоматичним розблокуванням захисних стопорів. Чудовий варіант для автосервісів із великим потоком автомобілів. 2-стійковий електрогідравлічний, асиметричний підіймач із підлоговою рамою для СТО з обмеженою висотою стель (нижня синхронізація). Особливості: Нижній конектор гарантує безпеку, нагадуючи про потребу перевірити простір під автомобілем, що опускається, починаючи з відстані 200 мм від підлоги (за потреби можливе встановлення на іншу висоту або вимкнення). Верхній автоматичний конектор унеможливлює роботу гідростанції «в упор», продовжуючи термін експлуатації та можливість пошкодження манжет. За потреби опустити підіймач — механік просто натискає кнопку «Вниз», і система сама піднімає каретки, знімає їх зі стопорів і, утримуючи стопора, опускає автомобіль до рівня 20 см від підлоги, після чого попереджає механіка звуковим сигналом про близькість поставлення автомобіля та кареток на підлогу. У разі аварійної ситуації досить відпустити кнопку, і стопора прийдуть в активоване положення. Також доступний повністю ручний режим керування руху каретки та стопорами. Автоматичне (електромпгнітне) розблокування механізму безпеки. Вантажність — 4-тонни. Напруга живлення 380 В, потужність 2,2 кВт. На підіймач надається 36 місяців гарантії. Також є можливість скористатися послугами наших установників, які встановлюють підіймач на підготовлені заздалегідь поли. На встановлення також надається гарантія!</description>
@@ -11676,7 +11676,7 @@
         <param name="Тип" paramid="230095" valueid="3955048">Знімач</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013892573" available="true">
+      <offer id="1013892573" available="false">
         <price>931</price>
         <currencyId>UAH</currencyId>
         <categoryId>127</categoryId>
@@ -11684,7 +11684,7 @@
         <picture>https://images.prom.ua/7081135754_pnevmokraskopult-hvlp-25mm.jpg</picture>
         <vendor>Auarita</vendor>
         <article>H-827B-2.5</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Пневмокраскопульт HVLP 2 5 мм верх. п/б 600мл Auarita (H-827B-2.5)</name_ua>
         <name>Пневмокраскопульт HVLP 2 5 мм верх. п/б 600мл Auarita (H-827B-2.5)</name>
         <description>Фарбувальний пістолет AUARITA підходить для використання з акриловими, водорозчинними та іншими лакофарбовими матеріалами. Характеристики: Модель: H-827B-2.5 Діаметр форсунки: 2,5 мм Об&amp;rsquo;єм бачка: 600 мл Вхід повітря: 1/4&amp;quot; Витрата повітря: 70&amp;ndash;110 л/хв Робочий тиск: 3,5 бар Пістолет має такі налаштування: Регулювання форми факела &amp;mdash; можна обрати форму розпилення між круглою та овальною. Регулювання тиску та інтенсивності натискання &amp;mdash; тиск можна налаштувати за допомогою регулятора в нижній частині рукоятки. Регулювання подачі фарби &amp;mdash; дозволяє налаштувати подачу повітря та кількість матеріалу. Головна перевага &amp;mdash; значне зменшення витрати лакофарбових матеріалів завдяки зниженню об&amp;rsquo;єму утворюваного аерозольного туману. Фарбувальний пістолет AUARITA має ергономічну рукоятку та ідеально гладке покриття без шорсткостей, що полегшує очищення від залишків фарби. Пістолет оснащений бачком для фарби об&amp;rsquo;ємом 600 мл. Технічні характеристики: Тип: HVLP (Великий потік повітря, низький тиск) Розташування бачка: верхнє Обсяг бачка: 600 мл Матеріал бачка: пластик Оптимальне робоче тиск: 3,5 бар (50 PSI) Ширина факела розпилення: 25 см Змінні форсунки(опціонально): 1,3, 1,4, 1,7, 2,0 мм Витрата повітря: 70-110 л/хв Діаметр форсунки: 2,5 мм Подача повітря: Швидкороз&amp;#39;ємне з&amp;#39;єднання &amp;laquo;тато&amp;raquo; &amp;frac14; (можливість заміни на різьбове з&amp;#39;єднання з зовнішньою різьбою&amp;frac14;) AUARITA &amp;mdash; один із найбільших виробників професійних фарбувальних пістолетів і пневматичних інструментів у Китаї та світі. Стабільні технології високої якості, інноваційні виробничі потужності та регулярний контроль якості гарантують надійність продукції та успіх бренду на світових ринках.</description>
@@ -12926,14 +12926,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013892649" available="true">
+      <offer id="1013892649" available="false">
         <price>494</price>
         <currencyId>UAH</currencyId>
         <categoryId>122</categoryId>
         <picture>https://images.prom.ua/1923159957_klyuch-nakidnoj-s.jpg</picture>
         <vendor>Toptul</vendor>
         <article>AEAT1010</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ключ накидний із тріскачкою що розкривається 10 мм Toptul (AEAT1010)</name_ua>
         <name>Ключ накидний із тріскачкою що розкривається 10 мм Toptul (AEAT1010)</name>
         <description>Ключ накидний із тріскачкою, що розкривається TOPTUL 10 мм AEAT1010</description>
@@ -14459,14 +14459,14 @@
         <param name="Вид" paramid="252457" valueid="4298107">Розгортки</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013892937" available="false">
+      <offer id="1013892937" available="true">
         <price>81</price>
         <currencyId>UAH</currencyId>
         <categoryId>96</categoryId>
         <picture>https://images.prom.ua/1924956667_ruletka-stroitelnaya-5m19mm.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SMT-0519</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Рулетка будівельна 5 м*19 мм Стандарт (SMT-0519)</name_ua>
         <name>Рулетка будівельна 5 м*19 мм Стандарт (SMT-0519)</name>
         <description>Рулетка професійна 5 мх19мм</description>
@@ -15393,8 +15393,8 @@
         <param name="Особливості" paramid="61927" valueid="4185781">З шарніром</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013892989" available="false">
-        <price>113</price>
+      <offer id="1013892989" available="true">
+        <price>129</price>
         <currencyId>UAH</currencyId>
         <categoryId>48</categoryId>
         <picture>https://images.prom.ua/7084397045_kruglogubtsy-dlya-snyatiya.jpg</picture>
@@ -15402,7 +15402,7 @@
         <picture>https://images.prom.ua/7084397047_kruglogubtsy-dlya-snyatiya.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>CPIB0107</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Круглогубці для зняття стопорних кілець 7" стискання загнуті Стандарт (CPIB0107)</name_ua>
         <name>Круглогубці для зняття стопорних кілець 7" стискання загнуті Стандарт (CPIB0107)</name>
         <description>Характеристика: Довжина: 175 мм Матеріал: CR-V Матеріал рукояток: комбінований (PP+TPR) Форма губок: вигнуті Робочий діапазон: 19&amp;ndash;60 мм Діаметр губок: 1,8 мм STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, що виробляється в країнах Східної та Південної Азії з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на довгі роки.</description>
@@ -16984,7 +16984,7 @@
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013893074" available="true">
-        <price>5323</price>
+        <price>3099</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1925175425_nabor-golovok-s.jpg</picture>
@@ -17447,7 +17447,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013893413" available="true">
-        <price>3707</price>
+        <price>2145</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7084508487_nabor-instrumentov-dlya.jpg</picture>
@@ -19319,7 +19319,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013893519" available="true">
-        <price>414</price>
+        <price>250</price>
         <currencyId>UAH</currencyId>
         <categoryId>21</categoryId>
         <picture>https://images.prom.ua/7084483567_treschotka-reversivnaya-12.jpg</picture>
@@ -19462,14 +19462,14 @@
         <param name="Бренд">Launch</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013893528" available="true">
+      <offer id="1013893528" available="false">
         <price>28072</price>
         <currencyId>UAH</currencyId>
         <categoryId>37</categoryId>
         <picture>https://images.prom.ua/1924904006_spotter-dlya-tochechnoj.jpg</picture>
         <vendor>G.I.Kraft</vendor>
         <article>GI12115-220</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Спотер для точкового зварювання 220 V 4000A G.I.Kraft (GI12115-220)</name_ua>
         <name>Спотер для точкового зварювання 220 V 4000A G.I.Kraft (GI12115-220)</name>
         <description>Найзручнішим обладнанням для кузовних робіт є спотер. Це невеликий апарат, функціонально трохи схожий на зварювальний. Основна функція його — спотер слугує для приварювання спеціального пістолета (стадера) з будь-якою насадкою і витягування вм'ятин. Приварившись спотером зовні деталі, заощаджується маса часу на розбирання і зняття личок і дверних карток, якби здійснювалася рихтування старим способом зсередини. Таким методом приварювання метал не перегрівається і, отже, не деформується. На пістолет можуть одягатися насадки для точкового зварювання, для приварювання ОТ-шайб, для приварювання шпильок, зворотний молоток під трикутники, пулер для плавного витягування та інші. Додаткові пристосування — гребінці, витяжні упори різної конфігурації, зворотні молотки — неабияк розширюють функціональні можливості спотера. Тому, чим більша кількість пристосувань буде в комплекті або ж докуплено окремо до споттера, тим простіше майстерові-ритхтувальнику буде в наступній роботі.</description>
@@ -19911,14 +19911,14 @@
         <param name="Вид" paramid="243838" valueid="3867828">Стандартні</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013893549" available="true">
+      <offer id="1013893549" available="false">
         <price>1011</price>
         <currencyId>UAH</currencyId>
         <categoryId>43</categoryId>
         <picture>https://images.prom.ua/1923225611_kleschi-dlya-svarki.jpg</picture>
         <vendor>Toptul</vendor>
         <article>DMAK1A09</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Кліщі для зварювання з фіксатором 215мм Toptul (DMAK1A09)</name_ua>
         <name>Кліщі для зварювання з фіксатором 215мм Toptul (DMAK1A09)</name>
         <description>Кліщі для зварювання з фіксатором TOPTUL 215мм DMAK1A09. На сьогоднішній час у світі розроблено новаторами і зроблено величезну кількість різноманітного інструментарію для зварних і рихтувальних робіт. У кожного майстра з ремонту у своєму особистому арсеналі повинен знаходиться інструмент для фіксації різних деталей при різноманітних видах обробки. Для такого виду роботи з деталями необхідно придбати такий інструмент, як кліщі з фіксатором. Фіксатор спускового механізму кліщів запобігає випадкове відкриття. Інструменти даного призначення надають величезну різноманітність моделей як професійного, так і користувальницького призначення. Вибираючи кліщі слід звернути свою увагу на якість інструменту і матеріал з якого він був виготовлений. Адже інструмент виготовлений з неякісного матеріалу швидко приходить в непридатність. У виготовленні інструментарію виробництва TOPTUL (Тайвань) використовуються багатокомпонентні марки сталі з використанням стійкого до окислення сполук хром - ванадій. Ручка інструмента виготовлена з хроммолибденового сплаву з нікельованої обробкою і термообробкою. Кліщі з фіксатором - це вірний вибір на користь надійності, довговічності, якості та ергономічної функціональності.</description>
@@ -20398,7 +20398,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013893576" available="true">
-        <price>3537</price>
+        <price>1999</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/1925158645_kombinirovannyj-nabor-instrumentov.jpg</picture>
@@ -23215,14 +23215,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013897488" available="true">
+      <offer id="1013897488" available="false">
         <price>206</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1923197393_nasadka-shestigrannik-hex.jpg</picture>
         <vendor>Toptul</vendor>
         <article>BCSA1608</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Насадка шестигранник HEX 8 мм 140 мм 1/2" з кулею Toptul (BCSA1608)</name_ua>
         <name>Насадка шестигранник HEX 8 мм 140 мм 1/2" з кулею Toptul (BCSA1608)</name>
         <description>Насадка шестигранник HEX TOPTUL 8 мм 140 мм 1/2" з кулею BCSA1608</description>
@@ -23311,7 +23311,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013897492" available="true">
-        <price>5406</price>
+        <price>3415</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/1925159188_nabor-instrumentov-kombinirovannyj.jpg</picture>
@@ -23617,14 +23617,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013897511" available="true">
+      <offer id="1013897511" available="false">
         <price>132</price>
         <currencyId>UAH</currencyId>
         <categoryId>127</categoryId>
         <picture>https://images.prom.ua/1924896816_bachok-dlya-kraskopulta.jpg</picture>
         <vendor>Auarita</vendor>
         <article>PC-600GPB</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Бачок для фарбопульта зовнішня різьба 600 мл Auarita (PC-600GPB)</name_ua>
         <name>Бачок для фарбопульта зовнішня різьба 600 мл Auarita (PC-600GPB)</name>
         <description>Характеристики: Матеріал бачка: пластик Об&amp;rsquo;єм бачка: 600 мл Різьба бачка: зовнішня Пластиковий бачок для фарбопультів бренду AUARITA об&amp;rsquo;ємом 600 мл виготовлений із високоякісного пластику, що дозволяє використовувати більшість лакофарбових матеріалів. Через напівпрозорі стінки бачка можна легко контролювати рівень фарби, що спрощує керування її витратою. Бачок оснащений з&amp;rsquo;єднанням із зовнішньою різьбою діаметром 3/8&amp;quot;, що робить його ідеальним як змінний або додатковий бачок для фарборозпилювачів. AUARITA &amp;mdash; найбільший виробник професійних фарбопультів і пневматичних інструментів у Китаї та світі. Стабільні технології високої якості, інноваційні виробничі потужності та регулярний контроль якості фахівцями забезпечують високий рівень продукції та успіх бренду на світових ринках.</description>
@@ -23911,14 +23911,14 @@
         <param name="Розмір посадкового квадрата" paramid="229057" valueid="3553276">1</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013897529" available="true">
+      <offer id="1013897529" available="false">
         <price>160</price>
         <currencyId>UAH</currencyId>
         <categoryId>13</categoryId>
         <picture>https://images.prom.ua/1924939241_bokorezy-izolirovannye-6.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>IDC0106</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Бокорізи ізольовані 6" 1000 В Стандарт (IDC0106)</name_ua>
         <name>Бокорізи ізольовані 6" 1000 В Стандарт (IDC0106)</name>
         <description>Бокорізи 6&amp;quot; з ізольованими рукоятками 1000V Специфікація: Довжина: 150 мм Матеріал: CR-V (хромо-ванадієва сталь) Матеріал рукояток: комбінований (PP+TPR) Діелектричне покриття: так Бокорізи з ізольованими рукоятками 1000V &amp;mdash; це спеціалізований ручний інструмент, призначений для роботи в електротехнічній сфері. Оснащені ізольованими рукоятками з діелектричним покриттям, що забезпечує захист до 1000 В і дозволяє безпечно виконувати електромонтажні роботи. Інструмент призначений для точного різання проводів, дроту та кріпильних елементів, а також для зняття ізоляції. Високоякісна сталь CR-V гарантує довговічність і міцність, а ергономічні рукоятки (PP+TPR) забезпечують зручний і надійний хват під час роботи. STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, що виробляється в країнах Східної та Південної Азії з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на багато років.</description>
@@ -26887,14 +26887,14 @@
         <param name="Вид" paramid="232441" valueid="3521251">Довгогубці</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013898042" available="false">
+      <offer id="1013898042" available="true">
         <price>44</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/1924943913_otvertka-sl-50.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SDSL0515</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка SL 5.0 x 150 мм Стандарт (SDSL0515)</name_ua>
         <name>Викрутка SL 5.0 x 150 мм Стандарт (SDSL0515)</name>
         <description>Викрутка SL 5.0 x 150 мм СТАНДАРТ SDSL0515</description>
@@ -27263,7 +27263,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013898059" available="true">
-        <price>6288</price>
+        <price>3770</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7084510061_nabor-instrumenta-kombinirovannyj.jpg</picture>
@@ -27621,14 +27621,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013898081" available="true">
+      <offer id="1013898081" available="false">
         <price>594</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/1923229263_reversivnaya-otvertka-bitoderzhatel-toptul.jpg</picture>
         <vendor>Toptul</vendor>
         <article>FTED1421</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Реверсивна викрутка-бітотримач 1/4 5/16 7/16 Toptul (FTED1421)</name_ua>
         <name>Реверсивна викрутка-бітотримач 1/4 5/16 7/16 Toptul (FTED1421)</name>
         <description>Тріскачкова викрутка-бітотримач 1/4, 5/16, 7/16</description>
@@ -27882,7 +27882,7 @@
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013898100" available="true">
-        <price>754</price>
+        <price>455</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1925175422_nabor-instrumenta-standart.jpg</picture>
@@ -30425,14 +30425,14 @@
         <param name="Вид" paramid="243838" valueid="3867818">Ударні</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013898252" available="true">
+      <offer id="1013898252" available="false">
         <price>358</price>
         <currencyId>UAH</currencyId>
         <categoryId>122</categoryId>
         <picture>https://images.prom.ua/1923172261_klyuch-treschotochnyj-kombinirovannyj.jpg</picture>
         <vendor>Toptul</vendor>
         <article>AOAF1313</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ключ тріскачковий комбінований 13 мм Toptul (AOAF1313)</name_ua>
         <name>Ключ тріскачковий комбінований 13 мм Toptul (AOAF1313)</name>
         <description>Ключ тріскачковий комбінований TOPTUL 13 мм AOAF1313</description>
@@ -31127,14 +31127,14 @@
         <param name="Вид" paramid="243838" valueid="3867828">Стандартні</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013898579" available="false">
+      <offer id="1013898579" available="true">
         <price>358</price>
         <currencyId>UAH</currencyId>
         <categoryId>66</categoryId>
         <picture>https://images.prom.ua/1924939240_nozhovka-po-metallu.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>HSP0300</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Ножівка для металу професійна 300 мм Стандарт (HSP0300)</name_ua>
         <name>Ножівка для металу професійна 300 мм Стандарт (HSP0300)</name>
         <description>Ножівка для металу професійна 300 мм СТАНДАРТ HSP0300</description>
@@ -32923,7 +32923,7 @@
         <param name="Тип" paramid="25938" valueid="21757">Фарбопульти</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013898683" available="true">
+      <offer id="1013898683" available="false">
         <price>208</price>
         <currencyId>UAH</currencyId>
         <categoryId>43</categoryId>
@@ -32932,7 +32932,7 @@
         <picture>https://images.prom.ua/7083506101_kleschi-perestavnye-dlya.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>PLWP0110</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Кліщі переставні для труб 10" 250 мм Стандарт (PLWP0110)</name_ua>
         <name>Кліщі переставні для труб 10" 250 мм Стандарт (PLWP0110)</name>
         <description>Переставні плоскогубці 10&amp;quot; 250 мм (трубний ключ гідравлічний) COBRA STANDART Характеристики: Довжина: 250 мм Матеріал: CR-V (хромово-ванадієва сталь) Матеріал рукоятки: пластик (PVC) Плоскогубці COBRA STANDART &amp;mdash; універсальний інструмент широкого застосування, який чудово підходить для різноманітних монтажних і сантехнічних робіт, забезпечуючи точність і зручність у використанні. Переставні плоскогубці COBRA STANDART довжиною 250 мм &amp;mdash; багатофункціональний інструмент, ідеальний для сантехнічних і сервісних робіт. Завдяки точно продуманому механізму регулювання розкриття губок інструмент забезпечує надійне та міцне захоплення труб та інших елементів різного діаметра. Виготовлені з міцної хромово-ванадієвої сталі (CR-V), що гарантує тривалу стійкість до зношування та корозії. Ергономічні рукоятки з PVC забезпечують комфорт і надійний хват, підвищуючи зручність роботи навіть під час тривалого використання. Міцна конструкція та висока якість виготовлення роблять цей інструмент незамінним як для професіоналів, так і для домашніх майстрів. STANDART &amp;mdash; бренд ручних інструментів і монтажного обладнання, що виробляється в країнах Східної та Південної Азії з 2011 року.</description>
@@ -33144,7 +33144,7 @@
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013898693" available="true">
-        <price>163</price>
+        <price>174</price>
         <currencyId>UAH</currencyId>
         <categoryId>66</categoryId>
         <picture>https://images.prom.ua/1924939239_pila-luchkovaya-po.jpg</picture>
@@ -33441,14 +33441,14 @@
         <param name="Вид" paramid="243838" valueid="3867828">Стандартні</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013898711" available="false">
+      <offer id="1013898711" available="true">
         <price>61</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/1924943913_otvertka-shlitsevaya-8x200.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SDSL0820</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка шліцьова 8x200 мм Стандарт (SDSL0820)</name_ua>
         <name>Викрутка шліцьова 8x200 мм Стандарт (SDSL0820)</name>
         <description>Викрутка шліцьова 8x200 мм СТАНДАРТ SDSL0820</description>
@@ -33734,14 +33734,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013898726" available="false">
-        <price>311</price>
+      <offer id="1013898726" available="true">
+        <price>388</price>
         <currencyId>UAH</currencyId>
         <categoryId>98</categoryId>
         <picture>https://images.prom.ua/1895063585_stroitelnyj-uroven-100sm.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>LWH0100</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Будівельний рівень 100 см Стандарт (LWH0100)</name_ua>
         <name>Будівельний рівень 100 см Стандарт (LWH0100)</name>
         <description>Рівень будівельний 100 см СТАНДАРТ LWH0100.</description>
@@ -34919,14 +34919,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013898784" available="false">
+      <offer id="1013898784" available="true">
         <price>34</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/1924943913_otvertka-ploskaya-shlitsevaya.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SDSL0510</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка плоска шліцьова 5x100 мм Стандарт (SDSL0510)</name_ua>
         <name>Викрутка плоска шліцьова 5x100 мм Стандарт (SDSL0510)</name>
         <description>Викрутка плоска шліцьова 5x100 мм СТАНДАРТ SDSL0510</description>
@@ -35238,7 +35238,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013898803" available="true">
-        <price>159</price>
+        <price>181</price>
         <currencyId>UAH</currencyId>
         <categoryId>34</categoryId>
         <picture>https://images.prom.ua/1924944159_zaklepochnik-dlya-vytyazhnyh.jpg</picture>
@@ -36516,7 +36516,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013899519" available="true">
-        <price>7081</price>
+        <price>4235</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/1925159190_professionalnyj-nabor-instrumenta.jpg</picture>
@@ -37719,14 +37719,14 @@
         <param name="Вид" paramid="243838" valueid="3867813">Подовжені</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013899588" available="true">
+      <offer id="1013899588" available="false">
         <price>34</price>
         <currencyId>UAH</currencyId>
         <categoryId>99</categoryId>
         <picture>https://images.prom.ua/7084121804_klyuch-rozhkovyj-dvustoronnij.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>KR0810</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ключ ріжковий двосторонній 8х10мм Стандарт (KR0810)</name_ua>
         <name>Ключ ріжковий двосторонній 8х10мм Стандарт (KR0810)</name>
         <description>Ключ ріжковий двосторонній STANDART KR0810 Характеристика: Довжина: 108 мм Матеріал: CR-V Розмір: 8&amp;times;10 мм Форма ключа: ріжковий STANDART &amp;mdash; це не просто інструмент, а також гарантія спокою для водіїв, які цінують надійність і якість. Без зайвих доповнень цей ключ зосереджений на головному &amp;mdash; ефективності та простоті використання, що особливо важливо в непередбачених ситуаціях на дорозі. Простий, але потужний &amp;mdash; ключ STANDART є ідеальним інструментом для кожного, хто очікує від свого обладнання максимальної продуктивності без компромісів. Сталь Cr-V Виготовлений із хромо-ванадієвої сталі, ключ відзначається стійкістю до механічних пошкоджень, корозії та деформацій. Універсальне застосування Завдяки міцній конструкції та використанню довговічних матеріалів ключ забезпечує ефективне закручування й відкручування болтів, гайок та інших елементів відповідного розміру. Простий у використанні та добре збалансований Цей ключ є незамінним інструментом для різноманітних монтажних і сервісних робіт, забезпечуючи користувачеві комфорт і точність роботи. STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, що виробляється в країнах Східної та Південної Азії з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на багато років.</description>
@@ -37860,14 +37860,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013899597" available="true">
+      <offer id="1013899597" available="false">
         <price>95</price>
         <currencyId>UAH</currencyId>
         <categoryId>130</categoryId>
         <picture>https://images.prom.ua/1924857079_soedinenie-tsangovoe-pryamoe.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>SHVFF08</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>З'єднання цангове пряме з краном 8 мм Airkraft (SHVFF08)</name_ua>
         <name>З'єднання цангове пряме з краном 8 мм Airkraft (SHVFF08)</name>
         <description>З'єднання цангове для поліуретанових шлангів PU/PR з регулюванням подавання повітря (пряме, шланг) 8 мм AIRKRAFT SHVFF08</description>
@@ -39242,14 +39242,14 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013899675" available="true">
+      <offer id="1013899675" available="false">
         <price>517</price>
         <currencyId>UAH</currencyId>
         <categoryId>122</categoryId>
         <picture>https://images.prom.ua/1923172060_klyuch-rozhkovo-nakidnoj-s.jpg</picture>
         <vendor>Toptul</vendor>
         <article>AOAB1919</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ключ рожково-накидний з тріскачкою укорочений 19мм Toptul (AOAB1919)</name_ua>
         <name>Ключ рожково-накидний з тріскачкою укорочений 19мм Toptul (AOAB1919)</name>
         <description>Ключ рожково-накидний з тріскачкою укорочений TOPTUL 19мм AOAB1919</description>
@@ -41317,14 +41317,14 @@ SQ</param>
         <param name="Вид" paramid="243838" valueid="3867813, 3867818">Подовжені, Ударні</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013900059" available="false">
+      <offer id="1013900059" available="true">
         <price>149</price>
         <currencyId>UAH</currencyId>
         <categoryId>63</categoryId>
         <picture>https://images.prom.ua/1924939805_napilnik-ploskij-300mm.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>MFF0300</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Напилок плоский 300 мм Стандарт (MFF0300)</name_ua>
         <name>Напилок плоский 300 мм Стандарт (MFF0300)</name>
         <description>Напилок плоский 300 мм СТАНДАРТ MFF0300</description>
@@ -42277,7 +42277,7 @@ SQ</param>
         <param name="Вид" paramid="243838" valueid="3867828">Стандартні</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013900111" available="true">
+      <offer id="1013900111" available="false">
         <price>330000</price>
         <currencyId>UAH</currencyId>
         <categoryId>88</categoryId>
@@ -42287,7 +42287,7 @@ SQ</param>
         <picture>https://images.prom.ua/1924919300_avtomobilnyj-chetyrehstoechnyj-podemnik.jpg</picture>
         <vendor>Launch</vendor>
         <article>TLT455W</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Автомобільний чотиристійковий підіймач 5.5т Launch (TLT455W)</name_ua>
         <name>Автомобільний чотиристійковий підіймач 5.5т Launch (TLT455W)</name>
         <description>Чотиристометровий підіймач вантажністю 5,5&amp;nbsp;та з висотою підіймання 1900 мм.&amp;nbsp; Комплект містить: додатковий підіймач (траверсу), обертальні диски (поворотні круги) та рухомі платформи для проведення вимірювання геометрії та розвал-сходження. Особливості: Високий рівень надійності 2 роки гарантії захист від пошкодження кабелю під час підіймання захисне блокування в робочій позиції захист від перевантаження захист від пошкоджень електропроводки&amp;nbsp; регулювання ширини колії Вантажність дод. траверси: 2 тонни Висота підйому дод. траверси: 220-450 мм Загальна висота: 2172 мм Загальна ширина: 3445 мм Довжина платформ: 4555 мм Ширина платформ: 500 мм Загальна довжина: 5490 мм Ширина колії 3045 кг &amp;nbsp; &amp;nbsp;</description>
@@ -42777,14 +42777,14 @@ SQ</param>
         <param name="Бренд">TORIN</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013900135" available="true">
+      <offer id="1013900135" available="false">
         <price>31</price>
         <currencyId>UAH</currencyId>
         <categoryId>130</categoryId>
         <picture>https://images.prom.ua/1924853950_shtutser-soedinitel-elochka.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>HRC05-05</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Штуцер з'єднувач ялинка 8*8 мм Airkraft (HRC05-05)</name_ua>
         <name>Штуцер з'єднувач ялинка 8*8 мм Airkraft (HRC05-05)</name>
         <description>ПНЕВМАТИЧНИЙ З&amp;rsquo;ЄДНУВАЧ ДЛЯ ШЛАНГІВ 8 ММ &amp;mdash; ЛАТУННИЙ Пневматичний з&amp;rsquo;єднувач марки AIRKRAFT призначений для швидкого та надійного з&amp;rsquo;єднання пневматичних шлангів діаметром 8 мм. Виготовлений із високоякісної латуні, стійкої до високих температур і хімічних впливів, що забезпечує довготривалу та стабільну роботу в різних умовах експлуатації. Основні характеристики: Матеріал: латунь підвищеної міцності Діаметр з&amp;rsquo;єднання: 8 мм / 8 мм Тип з&amp;rsquo;єднання: &amp;laquo;ялинка&amp;raquo; &amp;mdash; наконечники з насічками, що підвищують зчеплення та запобігають послабленню з&amp;rsquo;єднання Призначення: з&amp;rsquo;єднання силіконових, гумових, гелевих шлангів, паливних магістралей, систем охолодження, тиску та вакууму Застосування: Пневматичні з&amp;rsquo;єднувачі AIRKRAFT є незамінними елементами в різноманітних пневматичних і промислових системах. Використовуються в: обладнанні, що працює під тиском робототехніці та пакувальних машинах стоматології та медицині системах змащування та вимірювальних системах хімічній промисловості та лабораторіях промислових і високонапірних установках машинобудуванні та оснащенні виробничих підприємств З&amp;rsquo;єднувачі відзначаються високою міцністю та широким спектром застосування. Завдяки точній обробці забезпечують надійне з&amp;rsquo;єднання в будь-яких умовах. Під маркою AIRKRAFT виробляється широкий асортимент пневматичного обладнання та інструментів &amp;mdash; від повітряних компресорів до з&amp;rsquo;єднувальних елементів. Продукція AIRKRAFT виготовляється в різних країнах залежно від типу асортименту, зокрема в Італії, Туреччині, Китаї та Україні. Продукція AIRKRAFT відзначається високою якістю, безпекою, комфортом використання та простотою обслуговування . Надійність і довговічність виробів цього бренду високо оцінені нашими партнерами.</description>
@@ -43133,14 +43133,14 @@ SQ</param>
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013900154" available="false">
-        <price>433</price>
+      <offer id="1013900154" available="true">
+        <price>693</price>
         <currencyId>UAH</currencyId>
         <categoryId>98</categoryId>
         <picture>https://images.prom.ua/1895063585_uroven-stroitelnyj-professionalnyj.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>LWH0200</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Рівень будівельний професійний 200 см Стандарт (LWH0200)</name_ua>
         <name>Рівень будівельний професійний 200 см Стандарт (LWH0200)</name>
         <description>Рівень будівельний 200 см СТАНДАРТ LWH0200.</description>
@@ -44531,14 +44531,14 @@ SQ</param>
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013900411" available="false">
-        <price>100</price>
+      <offer id="1013900411" available="true">
+        <price>111</price>
         <currencyId>UAH</currencyId>
         <categoryId>96</categoryId>
         <picture>https://images.prom.ua/1924957304_ruletka-s-magnitom.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>WMT-0525M</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Рулетка з магнітом професійна 5 м*25 мм Стандарт (WMT-0525M)</name_ua>
         <name>Рулетка з магнітом професійна 5 м*25 мм Стандарт (WMT-0525M)</name>
         <description>Рулетка професійна, магнітний зачіп 5 м*25 мм СТАНДАРТ WMT-0525M</description>
@@ -46168,14 +46168,14 @@ SQ</param>
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013900801" available="false">
+      <offer id="1013900801" available="true">
         <price>43</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/1924943913_otvertka-shlits-6x100.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SDSL0610</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка шліц 6x100 мм Стандарт (SDSL0610)</name_ua>
         <name>Викрутка шліц 6x100 мм Стандарт (SDSL0610)</name>
         <description>Викрутка шліц 6x100 мм СТАНДАРТ SDSL0610</description>
@@ -46367,7 +46367,7 @@ SQ</param>
         <param name="Робочий розмір" paramid="229027" valueid="3668171">17</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013900815" available="false">
+      <offer id="1013900815" available="true">
         <price>802</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
@@ -46375,7 +46375,7 @@ SQ</param>
         <picture>https://images.prom.ua/7082563884_nabor-golovok-tortsevyh.jpg</picture>
         <vendor>Toptul</vendor>
         <article>GAAQ1201U</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Набір головок торцевих на планці 3/8" 16ед. 6-22мм Toptul (GAAQ1201U)</name_ua>
         <name>Набір головок торцевих на планці 3/8" 16ед. 6-22мм Toptul (GAAQ1201U)</name>
         <description>Комплект 6-гранних торцевих насадок TOPTUL на планці рекомендований для професійних автосервісів і механіків. Ідеально поєднується з тріскачками, забезпечуючи точність і надійність навіть під час виконання складних робіт. У комплект входять насадки 3/8&amp;quot; розмірів: 6 мм 7 мм 8 мм 9 мм 10 мм 11 мм 12 мм 13 мм 14 мм 15 мм 16 мм 17 мм 18 мм 19 мм 21 мм 22 мм Торцеві ключі виготовлені з міцної інструментальної хромо-ванадієвої сталі Cr-V . Набір призначений для виконання робіт, що потребують високих навантажень і точності, та підходить для відкручування й закручування різьбових з&amp;rsquo;єднань різних розмірів. Користуючись інструментами TOPTUL, ти відчуваєш себе майстром найвищого класу. Робота з професійними інструментами високої якості &amp;mdash; це впевненість у довговічності, точності виготовлення та універсальності. Професійні інструменти TOPTUL створені професіоналами для професіоналів &amp;mdash; це гарантія успіху.</description>
@@ -47810,7 +47810,7 @@ SQ</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013900895" available="true">
-        <price>4355</price>
+        <price>2485</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7081925329_kombinirovannyj-nabor-instrumentov.jpg</picture>
@@ -49426,14 +49426,14 @@ Torx
         <param name="Тип" paramid="230095" valueid="3955048">Знімач</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013901272" available="true">
+      <offer id="1013901272" available="false">
         <price>1285</price>
         <currencyId>UAH</currencyId>
         <categoryId>51</categoryId>
         <picture>https://images.prom.ua/1923277202_montirovka-s-rezinovoj.jpg</picture>
         <vendor>Toptul</vendor>
         <article>JCCB2025</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Монтування з гумовою ручкою 75° 640мм Toptul (JCCB2025)</name_ua>
         <name>Монтування з гумовою ручкою 75° 640мм Toptul (JCCB2025)</name>
         <description>Монтування з гумовою ручкою TOPTUL (75°, 640мм) JCCB2025 виготовлена з хром-молібденовий сталі; стрижень квадратного прифиля прямий; ергономічна ручка забезпечує зручний захоплення і запобігає ковзанню руки; застосовується під час робіт з обслуговування двигунів, ГБЦ, коробки передач, трансмісії, ходової частини, і т. д.; вигнутий наконечник.</description>
@@ -50051,14 +50051,14 @@ Torx
         <param name="Тип" paramid="25938" valueid="21757">Фарбопульти</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013901321" available="true">
+      <offer id="1013901321" available="false">
         <price>49</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1923191850_tortsevaya-nasadka-hex.jpg</picture>
         <vendor>Toptul</vendor>
         <article>BCDA0808</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Торцева насадка HEX 8 мм 1/4" Toptul (BCDA0808)</name_ua>
         <name>Торцева насадка HEX 8 мм 1/4" Toptul (BCDA0808)</name>
         <description>Торцева насадка HEX TOPTUL 8 мм 1/4" BCDA0808</description>
@@ -50747,14 +50747,14 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013901368" available="false">
+      <offer id="1013901368" available="true">
         <price>132</price>
         <currencyId>UAH</currencyId>
         <categoryId>63</categoryId>
         <picture>https://images.prom.ua/1924939805_napilnik-ploskij-250.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>MFF0250</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Напилок плоский 250 мм Стандарт (MFF0250)</name_ua>
         <name>Напилок плоский 250 мм Стандарт (MFF0250)</name>
         <description>Напилок плоский 250 мм СТАНДАРТ MFF0250</description>
@@ -51841,14 +51841,14 @@ Torx
         <param name="Вид" paramid="200403" valueid="2240055">Лампа інспекційна</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013901429" available="true">
+      <offer id="1013901429" available="false">
         <price>28072</price>
         <currencyId>UAH</currencyId>
         <categoryId>37</categoryId>
         <picture>https://images.prom.ua/1924904006_spotter-dlya-rihtovki.jpg</picture>
         <vendor>G.I.Kraft</vendor>
         <article>GI12115-380</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Спотер для рихтування кузова 380V 4000A G.I.Kraft (GI12115-380)</name_ua>
         <name>Спотер для рихтування кузова 380V 4000A G.I.Kraft (GI12115-380)</name>
         <description>Найзручнішим обладнанням для кузовних робіт є спотер. Це невеликий апарат, функціонально трохи схожий на зварювальний. Основна функція його — спотер слугує для приварювання спеціального пістолета (стадера) з будь-якою насадкою і витягування вм'ятин. Приварившись спотером зовні деталі, заощаджується маса часу на розбирання і зняття личок і дверних карток, якби виконалося рихтування старим способом зсередини. Таким методом приварювання метал не перегрівається і, отже, не деформується. На пістолет можуть одягатися насадки для точкового зварювання, для приварювання ОТ-шайб, для приварювання шпильок, зворотний молоток під трикутники, пулер для плавного витягування та інші. Додаткові пристосування — гребінці, витяжні упори різної конфігурації, зворотні молотки — неабияк розширюють функціональні можливості спотера. Тому, чим більша кількість пристосувань буде в комплекті або ж докуплено окремо до споттера, тим простіше майстру-ритхтувальнику буде в наступній роботі.</description>
@@ -51932,7 +51932,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013901433" available="true">
-        <price>113</price>
+        <price>129</price>
         <currencyId>UAH</currencyId>
         <categoryId>48</categoryId>
         <picture>https://images.prom.ua/1924923374_semnik-dlya-stopornyh.jpg</picture>
@@ -52348,14 +52348,14 @@ Torx
         <param name="Розмір посадкового квадрата" paramid="243848" valueid="3868048">1/4</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013901453" available="true">
+      <offer id="1013901453" available="false">
         <price>256</price>
         <currencyId>UAH</currencyId>
         <categoryId>94</categoryId>
         <picture>https://images.prom.ua/1924922892_klyuch-razvodnoj-santehnicheskij.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>AW-1250</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ключ розвідний сантехнічний 250 мм Стандарт (AW-1250)</name_ua>
         <name>Ключ розвідний сантехнічний 250 мм Стандарт (AW-1250)</name>
         <description>Розвідний ключ регульований 10&amp;quot; (250 мм) 0&amp;ndash;30 мм Специфікація: Довжина: 250 мм Матеріал: CR-V Матеріал рукоятки: метал Максимальна відстань між губками: 30 мм STANDART &amp;mdash; це бренд ручного інструменту та монтажного обладнання, що виробляється в країнах Східної та Південної Азії, починаючи з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на багато років.</description>
@@ -52906,7 +52906,7 @@ Torx
         <param name="Вид" paramid="250327" valueid="4187986">Кутовий</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013901484" available="true">
+      <offer id="1013901484" available="false">
         <price>236</price>
         <currencyId>UAH</currencyId>
         <categoryId>69</categoryId>
@@ -52914,7 +52914,7 @@ Torx
         <picture>https://images.prom.ua/7082350297_udlinitel-plavayuschij-12.jpg</picture>
         <vendor>Toptul</vendor>
         <article>CAAF1610</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Подовжувач плаваючий 1/2" 250мм Toptul (CAAF1610)</name_ua>
         <name>Подовжувач плаваючий 1/2" 250мм Toptul (CAAF1610)</name>
         <description>Інструменти марки Toptul &amp;mdash; це професійні інструменти, здатні витримувати великі навантаження. Вони стануть надійними помічниками як для автолюбителів, так і для найбільших автомобільних майстерень. Карданний подовжувач 1/2&amp;quot; стане вашим помічником під час роботи у важкодоступних місцях. виготовлений із хромо-ванадієвої сталі CR-V; для торцевих головок із приводом 1/2&amp;quot;; довжина: 250 мм; тип подовжувача: карданний (шарнірний). Виготовлений із високоміцної хромо-ванадієвої сталі (CR-V). Повна конфігурація забезпечує високу функціональність і робить інструмент незамінним помічником як для автолюбителів, так і для професіоналів. Його універсальність дозволяє використовувати інструмент як для легкових, так і для вантажних автомобілів, а також у багатьох інших галузях. Точне виготовлення робить інструмент універсальним і дозволяє відкручувати або закручувати кріпильні елементи практично в будь-якій частині автомобіля. Користуючись інструментами TOPTUL, ви відчуваєте себе майстром найвищого класу. Робота з високоякісними професійними інструментами завжди приносить задоволення &amp;mdash; ви завжди впевнені в їх довговічності, точності виготовлення та універсальності. Професійні інструменти TOPTUL створені професіоналами для професіоналів &amp;mdash; це гарантія успіху.</description>
@@ -53516,7 +53516,7 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013901812" available="true">
+      <offer id="1013901812" available="false">
         <price>7468</price>
         <currencyId>UAH</currencyId>
         <categoryId>56</categoryId>
@@ -53524,7 +53524,7 @@ Torx
         <picture>https://images.prom.ua/1923242902_nabor-rihtovochnyh-molotkov.jpg</picture>
         <vendor>Toptul</vendor>
         <article>GAAI0702</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Набір рихтувальних молотків 7 од. Toptul (GAAI0702)</name_ua>
         <name>Набір рихтувальних молотків 7 од. Toptul (GAAI0702)</name>
         <description>Набір рихтувальних молотків TOPTUL 7 од. GAAI0702. Набір рихтувальних пристосувань 7 од. В комплект входять 3 рихтувальних металевих молотка і 4 рихтувальні оправки.</description>
@@ -53695,14 +53695,14 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013901823" available="false">
+      <offer id="1013901823" available="true">
         <price>54</price>
         <currencyId>UAH</currencyId>
         <categoryId>96</categoryId>
         <picture>https://images.prom.ua/1924956665_ruletka-izmeritelnaya-3m16mm.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SMT-0316</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Рулетка вимірювальна 3 м*16 мм Стандарт (SMT-0316)</name_ua>
         <name>Рулетка вимірювальна 3 м*16 мм Стандарт (SMT-0316)</name>
         <description>Рулетка вимірювальна 3 м*16 мм СТАНДАРТ SMT-0316</description>
@@ -54548,7 +54548,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013901872" available="true">
-        <price>841</price>
+        <price>525</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1925175423_nabor-instrumenta-standart.jpg</picture>
@@ -55233,7 +55233,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013901910" available="true">
-        <price>48</price>
+        <price>51</price>
         <currencyId>UAH</currencyId>
         <categoryId>65</categoryId>
         <picture>https://images.prom.ua/7084908098_nozh-s-vydvizhnym.jpg</picture>
@@ -59758,14 +59758,14 @@ Torx
         <param name="Тип" paramid="230095" valueid="3955048">Знімач</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013902479" available="true">
+      <offer id="1013902479" available="false">
         <price>17247</price>
         <currencyId>UAH</currencyId>
         <categoryId>103</categoryId>
         <picture>https://images.prom.ua/1923362599_metallicheskij-instrumentalnyj-yaschik.jpg</picture>
         <vendor>Toptul</vendor>
         <article>TBAD0301</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Металевий інструментальний ящик 3 секції Pro-Line Toptul (TBAD0301)</name_ua>
         <name>Металевий інструментальний ящик 3 секції Pro-Line Toptul (TBAD0301)</name>
         <description>Ящик для інструмента 3 секції TOPTUL TBAD0301 металевий 687х459х360 мм. Оснащений 3 ящиками 578х378х75, серія Pro-Line здатна витримувати вагу на ящику до 680 кг. Переваги Pro-Line серії: - Високофункціональний стіл для матеріалу ABS; - Гладкі висувні ящики з куляними підшипниками з функцією автоматичного повернення (повні висувні ящики на 100%); - Одновременно відкривається тільки один ящик; - Навантаження на ящик 45 кг; - Статична вантажопідйомність 680 кг; - Смарт-складний ключ; - Пластмасова ручка нового стилю; - Електропорошкова забарвлення для захисту від подряпини і маркування розчинників; - Важкі 5 x2 протиковзкі та протиударні TPR ролики з замком (2 фіксованих ролика і 2 поворотних ролика з замком).</description>
@@ -60125,7 +60125,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013902502" available="true">
-        <price>3350</price>
+        <price>1999</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7081919276_nabor-instrumentov-dlya.jpg</picture>
@@ -60434,14 +60434,14 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013902517" available="true">
+      <offer id="1013902517" available="false">
         <price>113740</price>
         <currencyId>UAH</currencyId>
         <categoryId>37</categoryId>
         <picture>https://images.prom.ua/1894965966_spotter-po-alyuminiyu.jpg</picture>
         <vendor>G.I.Kraft</vendor>
         <article>GI12111</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Спотер з алюмінію G.I.Kraft (GI12111)</name_ua>
         <name>Спотер з алюмінію G.I.Kraft (GI12111)</name>
         <description>Спотер GI12111 G.I.Kraft — спотер для точкового рихтування і роботи з алюмінію. Спотерети практично незамінні під час встановлення невеликих вм'ятин кузовних панелей, особливо у випадках, ускладненого доступу до зворотного боку зони деформацій. У таких випадках рихтувальне зусилля можна докласти з зовнішнього боку панелі. Для цього за допомогою спотера в зоні деформації тимчасово приварюють низку штучних кріпильних елементів (цвяхів, шпильок, шайб, гачків тощо) Тимчасові елементи відіграють роль точок застосунка витягувального зусилля. Воно може бути ударним, що характерне під час застосування інерційного (зворотного) молотка, або плавним у разі використання важільних пристроїв. Після випрямлення дефекту тимчасові елементи видаляються. Призначення Призначений для ремонту алюмінієвих панелей BMW, Mercedes-Benz, Audi, Volvo та ін. Попри те, що розроблений для ремонтних робіт в алюмінієвому корпусі, він також підходить для використання на інших металах, як-от сталь, мідь і залізо. Особливості Мікропроцесорна система керування оптимізує параметри зварювання. Завдяки вдосконаленій цифровій технології керування та дружнього користувацького дизайну все, що від вас необхідно, це вибрати струм зварювання, що відповідає товщині заготівки для досягнення кращого зварного з'єднання; Надійний трансформатор із гайкою з кремнієвої сталі, 100% мідних обмоток; Високої якості реле; Високоточна система керування живленням; Розсувний тип молотка; У комплекті "Crossbar Lifter" для виконання будь-яких завдань із ремонту всього алюмінієвого автомобіля кузова; Підходить для вм'ятин з алюмінію та різних видів автомобільних сталей; Висока зварювальна міцність без шкоди для металевих покриттів і лакофарбових поверхонь; Простий і&amp;nbsp;зручний в експлуатації цифровий дисплей; Болти діаметром 4-8 мм. &amp;nbsp;</description>
@@ -61867,7 +61867,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013902599" available="true">
-        <price>4344</price>
+        <price>2750</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/1925159180_nabor-ruchnogo-instrumenta.jpg</picture>
@@ -62208,7 +62208,7 @@ Torx
         <param name="Особливості" paramid="61927" valueid="4185781">З шарніром</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013902887" available="false">
+      <offer id="1013902887" available="true">
         <price>113</price>
         <currencyId>UAH</currencyId>
         <categoryId>48</categoryId>
@@ -62218,7 +62218,7 @@ Torx
         <picture>https://images.prom.ua/7084398883_kruglogubtsy-dlya-snyatiya.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>CPES0107</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Круглогубці для зняття стопорних кілець 7" розтискання прямі Стандарт (CPES0107)</name_ua>
         <name>Круглогубці для зняття стопорних кілець 7" розтискання прямі Стандарт (CPES0107)</name>
         <description>Характеристика: Довжина: 175 мм Матеріал: CR-V Матеріал рукояток: комбінований (PP+TPR) Форма губок: пряма Робочий діапазон: 19&amp;ndash;60 мм Діаметр губок: 1,8 мм STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, що виробляється в країнах Східної та Південної Азії з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на довгі роки.</description>
@@ -63292,14 +63292,14 @@ Torx
         <param name="Тип" paramid="250312" valueid="4187818">Регулятори тиску</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013902956" available="true">
+      <offer id="1013902956" available="false">
         <price>1687</price>
         <currencyId>UAH</currencyId>
         <categoryId>38</categoryId>
         <picture>https://images.prom.ua/7084735792_semnik-dizelnyh-forsunok.jpg</picture>
         <vendor>ХЗСО</vendor>
         <article>CDRT0601</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Знімач дизельних форсунок CDI з витяжним шпинделем MB-Sprinter Vito ХЗСО (CDRT0601)</name_ua>
         <name>Знімач дизельних форсунок CDI з витяжним шпинделем MB-Sprinter Vito ХЗСО (CDRT0601)</name>
         <description>ЗНІМАЧ ФОРСУНОК CDI З ВИТЯЖНИМ ШПИНДЕЛЕМ (MB SPRINTER, VITO) KPSE CDRT0601 Характеристики: Тип приводу: механічний Застосування: Mercedes-Benz Sprinter, Vito Професійний знімач форсунок CDI з витяжним шпинделем призначений для демонтажу форсунок у автомобілях Mercedes-Benz Sprinter і Vito з паливною системою Common Rail. Інструмент забезпечує ефективне видалення прикипілих форсунок без ризику пошкодження головки блока циліндрів або самої форсунки. Переваги та застосування: Спеціальна конструкція з витяжним шпинделем &amp;mdash; забезпечує точний і контрольований демонтаж форсунок. Безпечне видалення прикипілих форсунок &amp;mdash; мінімізує ризик пошкодження посадкового місця форсунки. Сумісність із двигунами CDI &amp;mdash; призначений для паливних систем Common Rail автомобілів Mercedes-Benz. Знімач KPSE CDRT0601 &amp;mdash; незамінний інструмент для майстерень, що спеціалізуються на ремонті дизельних двигунів, забезпечує швидку та безпечну роботу під час демонтажу форсунок. Kharkiv Plant of Special Equipment, LLC &amp;laquo;KPSE&amp;raquo; Продукція бренду KPSE відзначається високою надійністю та відмінною якістю. Обладнання, на якому виготовляється продукція KPSE, використовується більшістю лідерів ринку виробництва оснащення для автомобільного сегмента. Це найсучасніші технології обробки металу, доступні у світі. Продукція KPSE застосовується на станціях технічного обслуговування, у комунальних підприємствах, а також у приватних автомайстернях.</description>
@@ -63310,7 +63310,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013902957" available="true">
-        <price>1864</price>
+        <price>1099</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/1925159192_nabor-golovok-s.jpg</picture>
@@ -63599,7 +63599,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013949151" available="true">
-        <price>472</price>
+        <price>352</price>
         <currencyId>UAH</currencyId>
         <categoryId>47</categoryId>
         <picture>https://images.prom.ua/7085978847_semnik-izolyatsii-avtomaticheskij.jpg</picture>
@@ -64272,14 +64272,14 @@ Torx
         <param name="Робочий розмір" paramid="229027" valueid="3668146">12</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013949183" available="false">
+      <offer id="1013949183" available="true">
         <price>113</price>
         <currencyId>UAH</currencyId>
         <categoryId>71</categoryId>
         <picture>https://images.prom.ua/1924943314_tonkogubtsy-150mm-standart.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>PLLN0106</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Тонкогубці 150 мм Стандарт (PLLN0106)</name_ua>
         <name>Тонкогубці 150 мм Стандарт (PLLN0106)</name>
         <description>Плоскогубці з подовженими губками 6 СТАНДАРТ</description>
@@ -64572,7 +64572,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013949197" available="true">
-        <price>3999</price>
+        <price>2399</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/1925159178_nabor-ruchnogo-instrumenta.jpg</picture>
@@ -65817,7 +65817,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013949268" available="true">
-        <price>84</price>
+        <price>89</price>
         <currencyId>UAH</currencyId>
         <categoryId>65</categoryId>
         <picture>https://images.prom.ua/1924923371_nozh-stroitelnyj-segmentnyj.jpg</picture>
@@ -66424,7 +66424,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013949307" available="true">
-        <price>3033</price>
+        <price>1699</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/1925175421_nabor-instrumentov-dlya.jpg</picture>
@@ -67192,14 +67192,14 @@ Torx
         <param name="Розмір посадкового квадрата" paramid="229057" valueid="3481267">3/4</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013949350" available="true">
+      <offer id="1013949350" available="false">
         <price>1149</price>
         <currencyId>UAH</currencyId>
         <categoryId>56</categoryId>
         <picture>https://images.prom.ua/1923275895_molotok-toptul-2000g.jpg</picture>
         <vendor>Toptul</vendor>
         <article>HAAA2040</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Молоток 2000 г Toptul (HAAA2040)</name_ua>
         <name>Молоток 2000 г Toptul (HAAA2040)</name>
         <description>Молоток TOPTUL 2000 г HAAA2040</description>
@@ -67626,7 +67626,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013949371" available="false">
-        <price>3124</price>
+        <price>3520</price>
         <currencyId>UAH</currencyId>
         <categoryId>83</categoryId>
         <picture>https://images.prom.ua/1924938610_prozhektor-svetodiodnyj-akkumulyatornyj.jpg</picture>
@@ -68176,14 +68176,14 @@ Torx
         <param name="Робочий розмір" paramid="229027" valueid="3668181">19</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013949768" available="false">
-        <price>330</price>
+      <offer id="1013949768" available="true">
+        <price>517</price>
         <currencyId>UAH</currencyId>
         <categoryId>98</categoryId>
         <picture>https://images.prom.ua/1895063585_uroven-alyuminievyj-150sm.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>LWH0150</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Рівень алюмінієвий 150 см Стандарт (LWH0150)</name_ua>
         <name>Рівень алюмінієвий 150 см Стандарт (LWH0150)</name>
         <description>Рівень будівельний 150 см СТАНДАРТ LWH0150.</description>
@@ -68545,7 +68545,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013949790" available="true">
-        <price>1331</price>
+        <price>799</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/7084503326_nabor-golovok-s.jpg</picture>
@@ -69526,14 +69526,14 @@ Torx
         <param name="Вид" paramid="243838" valueid="3867818">Ударні</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013949859" available="true">
-        <price>356</price>
+      <offer id="1013949859" available="false">
+        <price>217</price>
         <currencyId>UAH</currencyId>
         <categoryId>21</categoryId>
         <picture>https://images.prom.ua/7084483106_treschotka-reversivnaya-38.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>TR38ST</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Тріскачка реверсивна 3/8" Стандарт (TR38ST)</name_ua>
         <name>Тріскачка реверсивна 3/8" Стандарт (TR38ST)</name>
         <description>Характеристики: Довжина: 200 мм Матеріал: CR-V Матеріал рукоятки: комбінований (PP + TPR) Приєднувальний профіль: 3/8&amp;quot; Кількість зубців: 45 Перемикач: прапорцевий Тип тріскачки: стандартна Тріскачка довжиною 200 мм, виготовлена з міцної сталі CR-V, забезпечує надійність і тривалий термін служби навіть у складних умовах. Комбінована рукоятка з матеріалів PP і TPR гарантує надійне, зручне захоплення та комфорт під час роботи. Інструмент має приєднувальний профіль 3/8&amp;quot;, що робить його універсальним і сумісним із багатьма насадками. Завдяки 45 зубцям тріскачка забезпечує точний контроль і дозволяє працювати навіть у вузьких просторах. Прапорцевий перемикач дає змогу швидко й легко змінювати напрямок обертання. STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, що виробляється в країнах Східної та Південної Азії з 2011 року. Інструменти STANDART стануть вашим незамінним помічником на багато років.</description>
@@ -69942,7 +69942,7 @@ Torx
         <param name="Тип" paramid="250312" valueid="4187833">Фільтри для пневмосистеми</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013949880" available="true">
+      <offer id="1013949880" available="false">
         <price>91</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
@@ -69950,7 +69950,7 @@ Torx
         <picture>https://images.prom.ua/1923190822_golovka-tortsevaya-16.jpg</picture>
         <vendor>Toptul</vendor>
         <article>BAEE1216</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Головка торцева 16 мм 3/8" довга Toptul (BAEE1216)</name_ua>
         <name>Головка торцева 16 мм 3/8" довга Toptul (BAEE1216)</name>
         <description>Головка торцева 16 мм TOPTUL 3/8" довга BAEE1216</description>
@@ -72012,7 +72012,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013949997" available="true">
-        <price>2507</price>
+        <price>1599</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/7084504771_nabor-instrumenta-standart.jpg</picture>
@@ -72802,14 +72802,14 @@ Torx
         <param name="Бренд">Airkraft</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013950741" available="true">
+      <offer id="1013950741" available="false">
         <price>64</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1923192112_golovka-bita-14-hex.jpg</picture>
         <vendor>Toptul</vendor>
         <article>BCDB0805</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Головка-біта 1/4" HEX 5 мм цільна Toptul (BCDB0805)</name_ua>
         <name>Головка-біта 1/4" HEX 5 мм цільна Toptul (BCDB0805)</name>
         <description>Головка-біта 1/4" HEX TOPTUL 5 мм (цільна) BCDB0805</description>
@@ -73129,14 +73129,14 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013950757" available="false">
-        <price>93</price>
+      <offer id="1013950757" available="true">
+        <price>117</price>
         <currencyId>UAH</currencyId>
         <categoryId>63</categoryId>
         <picture>https://images.prom.ua/1924939805_napilnik-po-metallu.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>MFF0200</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Напилок для металу плоский 200 мм Стандарт (MFF0200)</name_ua>
         <name>Напилок для металу плоский 200 мм Стандарт (MFF0200)</name>
         <description>Напилок для металу плоский 200 мм СТАНДАРТ MFF0200</description>
@@ -74061,7 +74061,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013950817" available="true">
-        <price>3615</price>
+        <price>2250</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7081921180_avtomobilnyj-nabor-instrumentov.jpg</picture>
@@ -74088,14 +74088,14 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013950818" available="false">
-        <price>268</price>
+      <offer id="1013950818" available="true">
+        <price>359</price>
         <currencyId>UAH</currencyId>
         <categoryId>98</categoryId>
         <picture>https://images.prom.ua/1895063585_uroven-stroitelnyj-puzyrkovyj.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>LWH0080</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Рівень будівельний бульбашковий 80 см Стандарт (LWH0080)</name_ua>
         <name>Рівень будівельний бульбашковий 80 см Стандарт (LWH0080)</name>
         <description>Рівень будівельний 80 см СТАНДАРТ LWH0080.</description>
@@ -75123,14 +75123,14 @@ Torx
         <param name="Тип" paramid="25938" valueid="21757">Фарбопульти</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013950873" available="false">
+      <offer id="1013950873" available="true">
         <price>627</price>
         <currencyId>UAH</currencyId>
         <categoryId>48</categoryId>
         <picture>https://images.prom.ua/1924943691_nabor-semnikov-stopornyh.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SCP0407</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Набір знімачів стопорних кілець 4 од. Стандарт (SCP0407)</name_ua>
         <name>Набір знімачів стопорних кілець 4 од. Стандарт (SCP0407)</name>
         <description>Набір щипців для стопорних кілець (Seeger) STANDART Набір щипців довжиною 175 мм призначений для встановлення та демонтажу стопорних кілець, які запобігають зміщенню механічних деталей. Характеристики: Довжина: 175 мм Кількість одиниць: 4 шт. Матеріал: CR-V Матеріал руків&amp;rsquo;я: гума (TPR) Форма губок: Вигнута Пряма Робочий діапазон: 19&amp;ndash;60 мм У комплекті: Щипці для зняття стопорних кілець 7&amp;quot; (вигнуті губки) Щипці для зняття стопорних кілець 7&amp;quot; (прямі губки) Щипці для зняття стопорних кілець 7&amp;quot; (розтискні, вигнуті) Щипці для зняття стопорних кілець 7&amp;quot; (розтискні, прямі) STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, який виробляється в країнах Східної та Південної Азії з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на багато років.</description>
@@ -75350,7 +75350,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013950887" available="true">
-        <price>8481</price>
+        <price>4999</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7084511538_universalnyj-nabor-ruchnogo.jpg</picture>
@@ -78758,7 +78758,7 @@ Torx
         <param name="Робочий розмір" paramid="229027" valueid="3751516, 3762976">41, 46</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013951231" available="true">
+      <offer id="1013951231" available="false">
         <price>77616</price>
         <currencyId>UAH</currencyId>
         <categoryId>34</categoryId>
@@ -78770,7 +78770,7 @@ Torx
         <picture>https://images.prom.ua/1925199495_stanok-dlya-klepki.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>ZPTN0212</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Верстат для клепання гальмівних накладок заклепник пневматичний Airkraft (ZPTN0212)</name_ua>
         <name>Верстат для клепання гальмівних накладок заклепник пневматичний Airkraft (ZPTN0212)</name>
         <description>Верстат для клепання гальмівних накладок (заклепник пневматичний) Airkraft ZPTN0212. Стаціонарний пневматичний верстат&amp;nbsp;ZPTN0212 AIRKRAFT&amp;nbsp;призначений для монтажу та демонтажу заклепок на вузлах і деталях як легкових, так і вантажних автомобілів. Ця модель належить до професійного обладнання. Габарити робочої зони дають змогу помістити досить великі вузли й агрегати для з'єднання за допомогою заклепок. Максимальний проміжок між пуансоном (зверху) і опорою для заклепок (знизу) становить 90 мм. Комплект монтажних і пробивних пуансонів підходить для більшості типорозмірів наявних заклепок. Наявність регулювального гвинта дає змогу виставити робоче положення механізмів із високою точністю. Зусилля на пуансоні становить 3 тонни. Пневматична система налаштована на максимальну швидкість спрацьовування виконавчих механізмів. Дає змогу швидко встановлювати заклепки, так і їх випресування. Робоча педаль обладнана спеціальним захистом від випадкового натискання. В умовах великого завантаження автосервісу та швидкої швидкості роботи механіків ця функція захистить від нещасних випадків. Пневматичні вузли Camozzi й AirKraft забезпечать тривалу та надійну експлуатацію верстата. Особливості: Обладнаний фільтр-редуктором для очищення повітря та захисту всього пневмопроводу від пилу та дрібного сміття; Пневмоцилінд, пневмопровід, і керувальна педаль були розроблені провідними фахівцями CAMOZZI; &amp;nbsp;Верстат для клепки розділений на дві частини робоча частина та тумба, за потреби можна від'єднати робочу частину та встановити її на стіл для економії місця.</description>
@@ -80715,8 +80715,8 @@ Torx
         <param name="Бренд">TORIN</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013951358" available="false">
-        <price>726</price>
+      <offer id="1013951358" available="true">
+        <price>771</price>
         <currencyId>UAH</currencyId>
         <categoryId>59</categoryId>
         <picture>https://images.prom.ua/7085882294_nabor-plashek-i.jpg</picture>
@@ -80724,7 +80724,7 @@ Torx
         <picture>https://images.prom.ua/7085882298_nabor-plashek-i.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>TDS4001</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Набір плашок і позначників 40 од. Стандарт (TDS4001)</name_ua>
         <name>Набір плашок і позначників 40 од. Стандарт (TDS4001)</name>
         <description>Набір плашок і мітчиків STANDART TDS4001 це ідеальний вибір для кожного, хто шукає надійні інструменти для роботи як удома, так і в професійній майстерні. Характеристики: Упаковка: пластиковий футляр Кількість одиниць: 40 шт. Тип різьби: внутрішня, зовнішня Склад набору: Плашки: M3&amp;times;0,5, M3&amp;times;0,6, M4&amp;times;0,7, M4&amp;times;0,75, M5&amp;times;0,8, M5&amp;times;0,9, M6&amp;times;0,75, M6&amp;times;1,0, M7&amp;times;0,75, M7&amp;times;1,0, M8&amp;times;1,0, M8&amp;times;1,25, M10&amp;times;1,25, M10&amp;times;1,5, M12&amp;times;1,5, M12&amp;times;1,75 Мітчик 1/8 NPT-27 Тримач для плашок Тримач для мітчиків Тримач для мітчиків типу T Викрутка Різьбомір STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, який виробляється в країнах Східної та Південної Азії з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на багато років.</description>
@@ -80832,14 +80832,14 @@ Torx
         <param name="Тип" paramid="25938" valueid="21757">Фарбопульти</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013951366" available="true">
+      <offer id="1013951366" available="false">
         <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>59</categoryId>
         <picture>https://images.prom.ua/1923312873_nabor-dlya-remonta.jpg</picture>
         <vendor>Toptul</vendor>
         <article>JGEW2401</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Набір для ремонту різьблення М5х0 8 Toptul (JGEW2401)</name_ua>
         <name>Набір для ремонту різьблення М5х0 8 Toptul (JGEW2401)</name>
         <description>Набір для ремонту різьблення TOPTUL М5х0,8 JGEW2401 ідеально підходить для ремонту пошкодженої різьби. Підходить для машинобудування , ремонту двигунів та інших робіт в автомобілі.</description>
@@ -81013,14 +81013,14 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013951733" available="false">
-        <price>97</price>
+      <offer id="1013951733" available="true">
+        <price>139</price>
         <currencyId>UAH</currencyId>
         <categoryId>63</categoryId>
         <picture>https://images.prom.ua/1924939238_napilnik-polukruglyj-200.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>HRF0200</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Напилок напівкруглий 200 мм Стандарт (HRF0200)</name_ua>
         <name>Напилок напівкруглий 200 мм Стандарт (HRF0200)</name>
         <description>Напилок напівкруглий 200 мм СТАНДАРТ HRF0200</description>
@@ -83580,7 +83580,7 @@ Torx
         <param name="Вид" paramid="252457" valueid="4298107">Розгортки</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1013951883" available="false">
+      <offer id="1013951883" available="true">
         <price>980</price>
         <currencyId>UAH</currencyId>
         <categoryId>83</categoryId>
@@ -83590,7 +83590,7 @@ Torx
         <picture>https://images.prom.ua/7086478636_fonar-svetodiodnyj-s.jpg</picture>
         <vendor>PROTESTER</vendor>
         <article>UF-0301</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Ліхтар світлодіодний з ультрафіолетовою підсвіткою PROTESTER (UF-0301)</name_ua>
         <name>Ліхтар світлодіодний з ультрафіолетовою підсвіткою PROTESTER (UF-0301)</name>
         <description>LED-ліхтар з ультрафіолетовим підсвічуванням оснащений двома магнітами &amp;mdash; на нижній частині та збоку. LED-технології дозволяють використовувати дуже компактні та потужні джерела світла. Компактний універсальний ліхтар UF-0301 оснащений 3-ватним COB LED, 1-ватною SMD-головкою та вбудованою ультрафіолетовою лампою. У ліхтар вбудовано спеціальний чип. Особливістю UF-0301 є багаточипова конструкція, що характеризується відносно низьким тепловим опором і високою світловою потужністю. Основне світло: 1 LED 3 W, світловий потік 220 люменів; Додаткове світло: 1 LED 1 W, світловий потік 70 люменів; Ультрафіолетове підсвічування: 2 UV-світлодіоди, довжина хвилі 390&amp;ndash;400 нм; Час роботи: основне світло &amp;mdash; 3&amp;ndash;4 години, верхнє світло &amp;mdash; 7&amp;ndash;10 годин; Акумулятор літій-іонний, 3,6 V, 2200 mAh; Тип роз&amp;rsquo;єму заряджання: Micro USB; Час заряджання: 3&amp;ndash;4 години; Компактний корпус із високоякісного алюмінію та прогумованого пластику; Два потужні вбудовані магніти. Компанія PROTESTER пропонує повний асортимент вимірювального обладнання як для побутового, так і для професійного використання. Завдяки стабільній співпраці та надійним партнерським відносинам клієнти можуть розраховувати на високий рівень обслуговування та доступ до якісної продукції.</description>
@@ -84427,14 +84427,14 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013951950" available="false">
-        <price>479</price>
+      <offer id="1013951950" available="true">
+        <price>535</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/1924956672_nabor-sharnirno-gubtsevogo-instrumenta.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SPP0301</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Набір шарнірно-губцевого інструменту 3 од. Стандарт (SPP0301)</name_ua>
         <name>Набір шарнірно-губцевого інструменту 3 од. Стандарт (SPP0301)</name>
         <description>Набір шарнірно-губцевого інструменту, 3 од. (плоскогубці, бокорізи, переставні плоскогубці)&amp;nbsp;СТАНДАРТ&amp;nbsp; SPP0301.</description>
@@ -84468,14 +84468,14 @@ Torx
         <param name="Робочий розмір" paramid="229027" valueid="4031468">100</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013951953" available="true">
+      <offer id="1013951953" available="false">
         <price>131</price>
         <currencyId>UAH</currencyId>
         <categoryId>56</categoryId>
         <picture>https://images.prom.ua/7083923236_molotok-slesarnyj-300g.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>EHW0300</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Молоток слюсарний 300 г ручка з дерева Стандарт (EHW0300)</name_ua>
         <name>Молоток слюсарний 300 г ручка з дерева Стандарт (EHW0300)</name>
         <description>Традиційний слюсарний молоток 300 г Призначений для забивання цвяхів та інших видів кріплень. Квадратна головка має порошкове покриття та виготовлена з високоякісної інструментальної сталі для тривалого використання. Руків&amp;rsquo;я покрите лаком, що захищає від несприятливого впливу зовнішнього середовища. Характеристики: Довжина: 300 мм Матеріал руків&amp;rsquo;я: дерево Вага головки: 0,30 кг Форма головки: квадратна Розмір головки: 23 мм STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, що виробляється в країнах Східної та Південної Азії з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на багато років.</description>
@@ -84905,7 +84905,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013952003" available="true">
-        <price>915</price>
+        <price>585</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/7084499293_nabor-instrumenta-v.jpg</picture>
@@ -85974,7 +85974,7 @@ Torx
         <param name="Робочий розмір" paramid="230077" valueid="4263427">21</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1014004495" available="true">
+      <offer id="1014004495" available="false">
         <price>762</price>
         <currencyId>UAH</currencyId>
         <categoryId>38</categoryId>
@@ -85983,7 +85983,7 @@ Torx
         <picture>https://images.prom.ua/1923361503_nozhnitsy-elektrika-universalnye.jpg</picture>
         <vendor>Toptul</vendor>
         <article>SBBA0516</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ножиці електрика універсальні посилені Toptul (SBBA0516)</name_ua>
         <name>Ножиці електрика універсальні посилені Toptul (SBBA0516)</name>
         <description>ПОСИЛЕНІ ЕЛЕКТРОМОНТАЖНІ НОЖИЦІ TOPTUL SBBA0516 (160 мм) Характеристики: Загальна довжина: 160 мм Довжина леза: 43 мм Матеріал леза: нержавіюча сталь JIS SUS420 J2 (твердість HRC 56) Матеріал рукоятки: посилений нейлон + TPV (двокомпонентні, антиковзкі) Максимальний діаметр різання кабелів: до 70 мм&amp;sup2; Діапазон обтиску: 1&amp;ndash;16 мм&amp;sup2; (ізольовані та неізольовані клеми 22&amp;ndash;14 AWG) Електромонтажні ножиці TOPTUL SBBA0516 &amp;mdash; спеціалізований ріжучий інструмент для монтажних і сервісних робіт в електротехніці. Завдяки профільованому лезу із зубчастою кромкою забезпечується точне різання різних типів проводів, зокрема кабелів перерізом до 70 мм&amp;sup2;. Леза виготовлені з нержавіючої сталі JIS SUS420 J2, що відзначається високою стійкістю до пошкоджень і тривалим строком служби. Основні переваги: Універсальність застосування Різання кабелів, проводів і пластмасових матеріалів Зняття ізоляції Обтиск наконечників у діапазоні 1&amp;ndash;16 мм&amp;sup2; та 22&amp;ndash;14 AWG Високоякісні леза Індукційно загартовані ріжучі кромки (HRC 56) Одне з лез із мікрозубцями, що запобігають ковзанню матеріалу Ергономічні рукоятки Посилений нейлон + TPV Антиковзка поверхня для надійного хвату Спеціальний паз і металевий ударник для додаткових операцій, зокрема обтиску клем Компактна довжина (160 мм) Зручна робота в обмеженому просторі Легкість транспортування та зберігання Електромонтажні ножиці TOPTUL SBBA0516 забезпечують високу точність, міцність і багатофункціональність. Це незамінний інструмент як для професійної майстерні, так і для інструментального набору кожного майстра, який цінує якість і ефективність роботи. Користуючись інструментами TOPTUL, ви відчуваєте себе майстром найвищого класу. Робота з високоякісними професійними інструментами &amp;mdash; це завжди задоволення та впевненість у їх довговічності, точності виготовлення й універсальності. Професійні інструменти TOPTUL створені професіоналами для професіоналів &amp;mdash; це гарантія успіху.</description>
@@ -86427,14 +86427,14 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1014004519" available="false">
+      <offer id="1014004519" available="true">
         <price>33</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/1924943913_otvertka-ploskaya-shlitsevaya.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SDSL0410</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка плоска шліцьова 4x100 мм Стандарт (SDSL0410)</name_ua>
         <name>Викрутка плоска шліцьова 4x100 мм Стандарт (SDSL0410)</name>
         <description>Викрутка плоска шліцьова 4x100 мм СТАНДАРТ SDSL0410</description>
@@ -87709,7 +87709,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1014004600" available="true">
-        <price>2489</price>
+        <price>1435</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7084507033_kombinirovannyj-nabor-instrumentov.jpg</picture>
@@ -89325,14 +89325,14 @@ Torx
         <param name="Розмір посадкового квадрата" paramid="229057" valueid="3481819">1/2</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1044022951" available="true">
+      <offer id="1044022951" available="false">
         <price>619</price>
         <currencyId>UAH</currencyId>
         <categoryId>71</categoryId>
         <picture>https://images.prom.ua/2026468689_ploskogubtsy-s-udlinennymi.jpg</picture>
         <vendor>Toptul</vendor>
         <article>DFDC1208</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Плоскогубці з подовженими губками 200 мм 8" посилені Toptul (DFDC1208)</name_ua>
         <name>Плоскогубці з подовженими губками 200 мм 8" посилені Toptul (DFDC1208)</name>
         <description>Плоскогубці з подовженими губками 200 мм 8" TOPTUL посилені DFDC1208</description>
@@ -89812,7 +89812,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1048891454" available="true">
-        <price>55</price>
+        <price>165</price>
         <currencyId>UAH</currencyId>
         <categoryId>78</categoryId>
         <picture>https://images.prom.ua/2028601980_smennoe-polotno-dlya.jpg</picture>
@@ -93774,7 +93774,7 @@ Torx
         <param name="Бренд">Benetech</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1120632109" available="true">
+      <offer id="1120632109" available="false">
         <price>393</price>
         <currencyId>UAH</currencyId>
         <categoryId>89</categoryId>
@@ -93786,7 +93786,7 @@ Torx
         <picture>https://images.prom.ua/7081120131_pirometr-infrakrasnyj-50-400c.jpg</picture>
         <vendor>Benetech</vendor>
         <article>GM320</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Пірометр інфрачервоний -50-400 °C Benetech (GM320)</name_ua>
         <name>Пірометр інфрачервоний -50-400 °C Benetech (GM320)</name>
         <description>Безконтактний інфрачервоний термометр (пірометр)&amp;nbsp; -50-400&amp;deg;C, 12:1, EMS=0,95&amp;nbsp; BENETECH GM320 Інфрачервоний лазерний пірометр GM320 Це безконтактний термометр із дуже широким спектром застосування. Найчастіше пірометри використовують для вимірювання температури стін, склопакетів, пошуку джерел тепловтрат, вимірювання температури двигунів, у харчовій промисловості та під час контролю температури при обробці металів. Пірометр Benetech GM320 має такі особливості: корпус, стійкий до пилу та вологи; робота на відстані до 5 метрів; коефіцієнт емісії (EMS): 0,95 (найкраще підходить для вимірювання бетону, дерева, пластику, цегли, асфальту, гуми). Пірометр не є медичним пристроєм і не призначений для вимірювання температури тіла. Він показує температуру поверхні, яка у випадку шкіри відрізняється від внутрішньої температури організму. Технічні характеристики Чутливість вимірювання температури: 0,1 &amp;deg;C Вимірювані параметри: температура Діапазон вимірювання температури: -50&amp;hellip;400 &amp;deg;C Час відгуку: 0,5 с Оптичне співвідношення (D:S): 12:1 Спектральний діапазон: 5&amp;ndash;14 мкм Термопара: ні Коефіцієнт EMS: 0,95 Збереження даних: ні Підсвітка екрана: так Автоматичне вимкнення: так Екран: монохромний Розміри: 153 &amp;times; 100 &amp;times; 43 мм Вага: 0,15 кг Напруга живлення: 3 V Живлення: 2 батарейки AAA Сфери застосування контроль промислових процесів (металургія, хімічна промисловість); моніторинг температури механічного та електричного обладнання; перевірка теплоізоляції будівель і виявлення теплових мостів; харчова промисловість &amp;mdash; контроль температури зберігання та обробки продуктів; гастрономія &amp;mdash; контроль температури приготування їжі; сільське господарство та садівництво &amp;mdash; вимірювання температури ґрунту та тварин; транспорт &amp;mdash; контроль температури вантажів, чутливих до температурних змін. BENETECH &amp;mdash; виробник професійних вимірювальних і контрольних приладів.</description>
@@ -94214,14 +94214,14 @@ Torx
         <param name="Бренд">wintact</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1120632133" available="true">
+      <offer id="1120632133" available="false">
         <price>1420</price>
         <currencyId>UAH</currencyId>
         <categoryId>114</categoryId>
         <picture>https://images.prom.ua/2192866549_tester-optovolokna--70dbm.jpg</picture>
         <vendor>wintact</vendor>
         <article>WT65</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Тестер оптоволокна -70dBm ~ + 6dBm wintact (WT65)</name_ua>
         <name>Тестер оптоволокна -70dBm ~ + 6dBm wintact (WT65)</name>
         <description>Волоконно-оптичний тестер (-70dBm ~ + 6dBm)&amp;nbsp; WINTACT WT65 &amp;nbsp; Вимірювач оптичної потужності WT65 — це прилад для тестування волоконно-оптичних кабелів, який вимірює оптичну потужність випромінювання з різною довжиною хвилі. Оптичний тестер WT65 виробництва фірми Wintact — це якісний прилад, що підтримує 6 різних довжини хвилі: 850 нм, 1300 нм, 1490 нм, 1550 нм, 1625 нм. &amp;nbsp; Характеристики: Тип: Тестери кабельні Діапазон вимірювання: -70dBm ~ +6dBm Довжина хвилі: 850нм，1300нм，1310нм，1490нм，1550нм，1625 нм Похибка: ≥-48dBm ±2dBm; ≤-48dBm ±3.5dBm Робоча температура: 0~40℃ Робоча вологість: 5~95% Тип живлення: AAA Розміри: 34x114x17 мм Вага: 60 г</description>
@@ -95069,7 +95069,7 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1146303104" available="true">
+      <offer id="1146303104" available="false">
         <price>1716</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
@@ -95080,7 +95080,7 @@ Torx
         <picture>https://images.prom.ua/7080269389_klyuchi-rozhkovo-nakidnye-s.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>NGW12ST</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ключі ріжково-накидні з тріскачкою 8-19 мм 12 од. Стандарт (NGW12ST)</name_ua>
         <name>Ключі ріжково-накидні з тріскачкою 8-19 мм 12 од. Стандарт (NGW12ST)</name>
         <description>Професійний набір ріжково-накидних ключів із тріскачковим механізмом, що складається з 12 ключів розмірів: 8 мм; 9 мм; 10 мм; 11 мм; 12 мм; 13 мм; 14 мм; 15 мм; 16 мм; 17 мм; 18 мм; 19 мм. Упаковка: пластиковий тримач. Форма ключа: пряма. З тріскачковим механізмом. Набір ріжково-накидних ключів із тріскачкою STANDART включає 12 ключів розміром від 8 до 19 мм, забезпечуючи повну комплектацію, необхідну для більшості монтажних і ремонтних робіт. Завдяки метричній системі вимірювання набір ідеально підходить для використання в різних робочих умовах. Широка сфера застосування: монтажні роботи; автомобільні майстерні; слюсарні майстерні; різні роботи з технічного обслуговування; періодичні домашні ремонтні роботи. Ключі розміщені у практичному пластиковому тримачі, що полегшує організацію та швидкий доступ до інструментів. STANDART &amp;mdash; це бренд ручного інструменту та монтажного обладнання, який виробляється в країнах Східної та Південної Азії з 2011 року. Інструменти STANDART стануть вашим незамінним помічником на багато років.</description>
@@ -96950,7 +96950,7 @@ Torx
         <param name="Бренд">ХЗСО</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1175708780" available="true">
+      <offer id="1175708780" available="false">
         <price>1470</price>
         <currencyId>UAH</currencyId>
         <categoryId>103</categoryId>
@@ -96958,7 +96958,7 @@ Torx
         <picture>https://images.prom.ua/2378436057_metallicheskij-instrumentalnyj-yaschik.jpg</picture>
         <vendor>ХЗСО</vendor>
         <article>MTB540-5</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Металевий інструментальний ящик 540 мм 5 відсіків ХЗСО (MTB540-5)</name_ua>
         <name>Металевий інструментальний ящик 540 мм 5 відсіків ХЗСО (MTB540-5)</name>
         <description>Ящик інструментальний 540 мм 5 відсіків (ХЗСО) ЯЩ530-5 MTB540-5 &amp;nbsp; Кількість секцій: 5 Розмір малої секції: 540х100х50 мм Розмір великої секції: 540х235х100 мм Габарити ящика: 540x235x200 мм</description>
@@ -97611,7 +97611,7 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1183046293" available="true">
+      <offer id="1183046293" available="false">
         <price>7500</price>
         <currencyId>UAH</currencyId>
         <categoryId>31</categoryId>
@@ -97622,7 +97622,7 @@ Torx
         <picture>https://images.prom.ua/7076942174_pnevmaticheskij-domkrat-42.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>DPA-3C</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Пневматичний домкрат 4 2 т 4200 кг Airkraft (DPA-3C)</name_ua>
         <name>Пневматичний домкрат 4 2 т 4200 кг Airkraft (DPA-3C)</name>
         <description>Пневматичний домкрат DPA-3C Характеристики: Тип транспортного засобу: легковий Вантажопідйомність: 4200 кг Тип приводу: пневматичний Висота підйому: 475 мм Висота підкладки: 175 мм Вага: 17 кг Робочий хід: 310 мм Робочий тиск: 6 бар Конструкція домкрата DPA-3C дозволяє піднімати автомобілі з відносно низьким кліренсом. Завдяки максимальній висоті підйому домкрат підходить для більшості автомобілів масою до 4,2 тонни. Підйом автомобіля: Щоб підняти автомобіль, встановіть домкрат DPA-3C у потрібному місці під днищем, підключіть стиснене повітря та відкрийте клапан. Після досягнення потрібної висоти підйому закрийте клапан, щоб зафіксувати автомобіль. Опускання автомобіля: Щоб опустити автомобіль, обережно відкрийте клапан з протилежного боку від під&amp;rsquo;єднаного шланга. Завдяки точному контролю клапана процес опускання відбувається плавно та безпечно. Пневматичний домкрат DPA-3C &amp;mdash; універсальний інструмент, ідеальний для автосервісів, що забезпечує швидке та ефективне піднімання транспортних засобів. Під брендом AIRKRAFT виробляється широкий асортимент пневматичного обладнання та інструментів &amp;mdash; від повітряних компресорів до з&amp;rsquo;єднань. Продукція AIRKRAFT виготовляється в різних країнах залежно від типу асортименту, зокрема в Італії, Туреччині, Китаї та Україні. Продукція AIRKRAFT відзначається високою якістю, безпекою, комфортом використання та простотою в експлуатації. Надійність і довговічність виробів цього бренду високо оцінені нашими партнерами.</description>
@@ -98890,7 +98890,7 @@ Torx
         <param name="Бренд">PROTESTER</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1214226534" available="false">
+      <offer id="1214226534" available="true">
         <price>3423</price>
         <currencyId>UAH</currencyId>
         <categoryId>136</categoryId>
@@ -98901,7 +98901,7 @@ Torx
         <picture>https://images.prom.ua/7086052631_mikrometr-75-100-mm.jpg</picture>
         <vendor>PROTESTER</vendor>
         <article>5202-100</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Мікрометр 75-100 мм цифровий PROTESTER (5202-100)</name_ua>
         <name>Мікрометр 75-100 мм цифровий PROTESTER (5202-100)</name>
         <description>ЕЛЕКТРОННИЙ ЦИФРОВИЙ МІКРОМЕТР 75&amp;ndash;100 мм / 0,001 мм Характеристики: Напруга живлення: 3 В Живлення: CR2032 Одиниці вимірювання: дюйм, міліметр Вимірювані параметри: лінійні розміри Діапазон вимірювання: 75&amp;ndash;100 мм Чутливість: 0,001 мм Точність вимірювання: &amp;plusmn;0,004 % Цифровий мікрометр PROTESTER (75&amp;ndash;100 мм) Цифровий мікрометр PROTESTER 5202-100 &amp;mdash; це прецизійний прилад, призначений для виконання лінійних вимірювань, з якими не справляється звичайний штангенциркуль. Завдяки високій точності інструмент ідеально підходить для завдань, що потребують максимальної прецизійності. Конструкція та функції З одного боку інструмента розташована опора, яка стабілізує вимірюваний об&amp;rsquo;єкт, а з іншого &amp;mdash; мікрометрична головка з вбудованою тріскачкою, що виконує функцію зчитування. Мікрометр забезпечує вимірювання з точністю до &amp;plusmn;0,004 мм, гарантуючи високу точність результатів. Діапазон і точність вимірювань Загальний діапазон вимірювання не повинен перевищувати граничне значення шкали пристрою, яке становить 100 мм. PROTESTER 5202-100 оснащений компактним рідкокристалічним дисплеєм, що чітко та зручно відображає результати вимірювань. Зручність використання Інтуїтивне керування робить роботу з мікрометром простою та комфортною. Рекомендується уникати використання пристрою при температурі вище 40 &amp;deg;C, щоб запобігти його пошкодженню. Застосування PROTESTER 5202-100 &amp;mdash; незамінний інструмент у майстернях і лабораторіях, де потрібна максимальна точність лінійних вимірювань. Компанія PROTESTER пропонує повний асортимент вимірювального обладнання для побутового та професійного використання. Завдяки стабільній співпраці та формуванню надійних партнерських відносин клієнти можуть розраховувати на високий рівень обслуговування та доступ до надійної продукції.</description>
@@ -101090,14 +101090,14 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1244261841" available="false">
+      <offer id="1244261841" available="true">
         <price>52</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/2574697798_otvertka-udarnaya-shlitsevaya.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>GTSL0510</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка ударна шліцьова 5.0 x 100 мм під ключ Стандарт (GTSL0510)</name_ua>
         <name>Викрутка ударна шліцьова 5.0 x 100 мм під ключ Стандарт (GTSL0510)</name>
         <description>Викрутка ударна шліцьова 5.0 x 100 мм під ключ СТАНДАРТ GTSL0510</description>
@@ -101108,14 +101108,14 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1244261842" available="false">
+      <offer id="1244261842" available="true">
         <price>63</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/2574697798_otvertka-udarnaya-pod.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>GTSL0615</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка ударна під ключ шліцьова 6.0 x 150 мм Стандарт (GTSL0615)</name_ua>
         <name>Викрутка ударна під ключ шліцьова 6.0 x 150 мм Стандарт (GTSL0615)</name>
         <description>Викрутка ударна під ключ шліцьова 6.0 x 150 мм СТАНДАРТ GTSL0615</description>
@@ -101287,7 +101287,7 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1244261851" available="true">
+      <offer id="1244261851" available="false">
         <price>1099</price>
         <currencyId>UAH</currencyId>
         <categoryId>94</categoryId>
@@ -101295,7 +101295,7 @@ Torx
         <picture>https://images.prom.ua/7084297306_klyuch-razvodnoj-300mm.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>AWSJ3300</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ключ розвідний 300 мм тонкі губки 0-60 мм Стандарт (AWSJ3300)</name_ua>
         <name>Ключ розвідний 300 мм тонкі губки 0-60 мм Стандарт (AWSJ3300)</name>
         <description>Розвідний шведський ключ 12&amp;quot; (300 мм) 0&amp;ndash;60 мм, широкий регульований STANDART AWSJ3300 Розвідний шведський ключ 12&amp;quot; &amp;mdash; необхідний у кожній майстерні! Специфікація: Довжина: 300 мм Матеріал: CR-V Матеріал рукоятки: гума (TPR) Особливості: тонкі губки Максимальне розкриття губок: 60 мм Міцна конструкція Виготовлений із хромово-ванадієвої сталі (CR-V), цей ключ забезпечує відмінну стійкість до корозії, а також високу механічну міцність. Безпечний і ефективний навіть при інтенсивному використанні. Точна шкала Шкала на ключі, нанесена лазерним методом, забезпечує довговічність і чіткість, що дозволяє точно налаштовувати ключ відповідно до потреб роботи без ризику стирання. Ергономічна рукоятка TPR Рукоятка з покриттям із матеріалу TPR забезпечує комфорт і стабільність хвату навіть під час тривалої роботи. TPR також стійкий до масел і мастил, що підвищує функціональність інструмента. Універсальність застосування Широкий розвідний ключ із діапазоном регулювання від 0 до 60 мм ідеально підходить для використання в різних умовах &amp;mdash; від домашнього гаража до професійної майстерні. Розумні рішення Відкрите закінчення ключа дозволяє легко підвішувати його на гак, що спрощує організацію інструментів і швидкий доступ. STANDART &amp;mdash; це бренд ручних інструментів і монтажного обладнання, що виробляється в країнах Східної та Південної Азії з 2011 року. Набір інструментів STANDART стане вашим незамінним помічником на багато років.</description>
@@ -101323,14 +101323,14 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1244261853" available="false">
+      <offer id="1244261853" available="true">
         <price>127</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/2574697798_otvertka-shlitsevaya-udarnaya.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>GTSL0930</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка ударна 9.5 x 300 мм під ключ Стандарт (GTSL0930)</name_ua>
         <name>Викрутка ударна 9.5 x 300 мм під ключ Стандарт (GTSL0930)</name>
         <description>Викрутка ударна 9.5 x 300 мм під ключ СТАНДАРТ GTSL0930</description>
@@ -101409,14 +101409,14 @@ Torx
         <param name="Тип" paramid="230095" valueid="3955048">Знімач</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1244261857" available="false">
+      <offer id="1244261857" available="true">
         <price>84</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
         <picture>https://images.prom.ua/2574697798_otvertka-udarnaya-pod.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>GTSL0820</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Викрутка ударна під ключ шліцьова 8.0 x 200 мм Стандарт (GTSL0820)</name_ua>
         <name>Викрутка ударна під ключ шліцьова 8.0 x 200 мм Стандарт (GTSL0820)</name>
         <description>Викрутка ударна під ключ шліцьова 8.0 x 200 мм СТАНДАРТ GTSL0820</description>
@@ -102948,7 +102948,7 @@ Torx
         <param name="Розмір посадкового квадрата" paramid="229057" valueid="3553276">1</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1267767405" available="true">
+      <offer id="1267767405" available="false">
         <price>3913</price>
         <currencyId>UAH</currencyId>
         <categoryId>103</categoryId>
@@ -102963,7 +102963,7 @@ Torx
         <picture>https://images.prom.ua/2653650238_sumka-dlya-instrumenta.jpg</picture>
         <vendor>Toptul</vendor>
         <article>PBW-053A</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Сумка для інструменту на колесах з телескопічною ручкою 530x270x320 Toptul (PBW-053A)</name_ua>
         <name>Сумка для інструменту на колесах з телескопічною ручкою 530x270x320 Toptul (PBW-053A)</name>
         <description>Сумка для інструмента с колесами и телескопічної ручкою 530x270x320 TOPTUL PBW-053A Сумка для інструменту TOPTUL моделі PBW-053A має розміри 530x270x320 мм. Виконана з поліестеру червоного кольору, з телескопічною ручкою для комфортного перенесення інструмента. Витримує інструмент вагою до 20кг. Основний відсік жорсткий і виконаний з водонепроникної тканини, по контуру якого розташована велика кількість кишень для дрібного інструменту.</description>
@@ -104856,7 +104856,7 @@ Torx
         <param name="Бренд">PROTESTER</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1359980065" available="true">
+      <offer id="1359980065" available="false">
         <price>1025</price>
         <currencyId>UAH</currencyId>
         <categoryId>83</categoryId>
@@ -104868,7 +104868,7 @@ Torx
         <picture>https://images.prom.ua/7086485316_led-fonar-skladnoj.jpg</picture>
         <vendor>PROTESTER</vendor>
         <article>L-0303W</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ліхтар складаний світлодіодний COB акумуляторний PROTESTER (L-0303W)</name_ua>
         <name>Ліхтар складаний світлодіодний COB акумуляторний PROTESTER (L-0303W)</name>
         <description>LED COB ліхтар з магнітом, виготовлено в Німеччині PROTESTER L-0303W Характеристики: Вага: 0,18 кг Ємність акумулятора: 1800 mAh Час заряджання: 150&amp;ndash;180 хв Час роботи: 150&amp;ndash;180 хв Матеріал корпусу: пластик Роз&amp;rsquo;єм: Micro-USB Тип живлення: акумулятор Колір: чорно-жовтий Світловий потік: 300 лм Кількість режимів роботи: 2 Магніт: так Кількість світлодіодів: 2 Тип світлодіода: COB Кріплення: гачок, магнітне Режим роботи: максимальний Особливості: захист від пилу Комплектація: Ліхтар &amp;mdash; 1 шт. USB-кабель Micro-USB &amp;mdash; 1 шт. Універсальний та ефективний LED-ліхтар Ліхтар Protester L-0303W &amp;mdash; компактний і багатофункціональний пристрій із потужним магнітом у основі, що дозволяє зручно кріпити його до металевих поверхонь. Завдяки технології LED COB забезпечує дуже яскраве та ефективне освітлення при мінімальному енергоспоживанні. Технологія COB Світлодіод COB (Chip On Board) характеризується високою світловою ефективністю та низьким тепловим опором, що забезпечує стабільну та надійну роботу. Функціональність і універсальність Ліхтар має два режими роботи: Основне світло &amp;mdash; діод 2W зі світловим потоком 300 люменів, час роботи 2,5&amp;ndash;3 години. Додаткове світло &amp;mdash; діод 1W зі світловим потоком 90 люменів, час роботи 6&amp;ndash;9 годин. Пристрій оснащений літій-полімерним акумулятором 3,7V ємністю 1800 mAh, який заряджається через роз&amp;rsquo;єм Micro-USB протягом 2,5&amp;ndash;3 годин. Міцна конструкція Ліхтар виготовлений із поєднання високоякісного алюмінію та прогумованого пластику, що забезпечує захист від пошкоджень і пилу. Компактний ергономічний дизайн зручний у використанні, а потужний вбудований магніт гарантує надійне кріплення до металевих поверхонь. Застосування: автосервіси, ремонтні роботи, кемпінг і подорожі, побутове використання. Завдяки своїй універсальності та ефективності Protester L-0303W є незамінним інструментом як для професіоналів, так і для домашнього використання. Компанія PROTESTER пропонує повний асортимент вимірювального обладнання як для побутового, так і для професійного використання. Завдяки стабільній співпраці та надійним партнерським відносинам клієнти можуть розраховувати на високий рівень обслуговування та доступ до якісної продукції.</description>
@@ -104918,7 +104918,7 @@ Torx
         <param name="Бренд">Launch</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1361516830" available="true">
+      <offer id="1361516830" available="false">
         <price>127600</price>
         <currencyId>UAH</currencyId>
         <categoryId>7</categoryId>
@@ -104930,7 +104930,7 @@ Torx
         <picture>https://images.prom.ua/2960177927_multimarochnyj-skaner-launch.jpg</picture>
         <vendor>Launch</vendor>
         <article>X-431 PADV</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Автомобільний мультімарочний сканер Launch (X-431 PADV)</name_ua>
         <name>Автомобільний мультімарочний сканер Launch (X-431 PADV)</name>
         <description>Автомобільний мультімарочний сканер LAUNCH X-431 PADV</description>
@@ -106120,14 +106120,14 @@ Torx
         <param name="Тип" paramid="25938" valueid="21757">Фарбопульти</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1384355788" available="false">
+      <offer id="1384355788" available="true">
         <price>55621</price>
         <currencyId>UAH</currencyId>
         <categoryId>127</categoryId>
         <picture>https://images.prom.ua/3021384201_apparat-okrasochnyj-promyshlennyj.jpg</picture>
         <vendor>Aeropro</vendor>
         <article>R550</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Апарат фарбувальний промисловий безповітряний 2.8 кВт 4 л/хв форсунка 517 Aeropro (R550)</name_ua>
         <name>Апарат фарбувальний промисловий безповітряний 2.8 кВт 4 л/хв форсунка 517 Aeropro (R550)</name>
         <description>Безповітряний розпилювач із фарбувальним пістолетом (2.8 кВт, 4 л/хв, форсунка 517, макс. розмір сопла 0.027"*1/021"*2, шланг 15 м, подовжить.45см) AEROPRO R550 &amp;nbsp; AEROPRO&amp;nbsp;R550 — безповітряний фарбувальний апарат для фарбування під високим тиском, призначений для побутового, домашнього та дачного застосування. Фарбувальний апарат використовується для розпилення фарби під великим тиском через безповітряний фарбопульт. Застосовується фарбувальний апарат для фарбування стін, стель, фарбування квартир, фарбування дачних будинків, фарбування під'їзду тощо. Фарбувальний апарат працює на один фарбопульт, довжина шланга від насоса до фарбопульта 15 метрів. Фарбувальний апарат зібраний на базі поршневого електричного насоса високого тиску. &amp;nbsp; Переваги безповітряного фарбувального обладнання: висока швидкість фарбування, набагато вища, ніж під час роботи з пневматичним або електричним фарбопультом із верхнім або нижнім бачком. якість фарбування будівельних об'єктів задовільна, краща, ніж під час фарбування валиком або пензликом. кількість пилу під час розпилювання, за умови правильно підібраних сопел і грамотно виставленого тиску, мінімально. довжини шланга досить для того, щоб не тягати фарбувальний апарат за собою під час фарбування побутових об'єктів. фарбувальний апарат встановлений на міцні ніжки. поршневий насос забирає фарбу з відра, у якому вона постачається. &amp;nbsp; Напруга живлення: 220 В Потужність електродвигуна: 2.8 кВт Максимальний тиск: 228 Бар Діаметр форсунки: 0.017"/0.43 мм Витрата: 4 л/хв Розмір факела: 250-310 мм Довжина шланга: 15 м Максимальний тиск шланга: 830 Барів Максимальна форсунка: 0.027"/0.68 мм Вага: 20 кг</description>
@@ -107285,7 +107285,7 @@ Torx
         <param name="Бренд">PROTESTER</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1424317961" available="true">
+      <offer id="1424317961" available="false">
         <price>3401</price>
         <currencyId>UAH</currencyId>
         <categoryId>18</categoryId>
@@ -107294,7 +107294,7 @@ Torx
         <picture>https://images.prom.ua/3162070513_dinamometricheskaya-otvertka-01-06nm.jpg</picture>
         <vendor>PROTESTER</vendor>
         <article>AYQ-0.6</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Викрутка динамометрична 0.1-0.6 Нм PROTESTER (AYQ-0.6)</name_ua>
         <name>Викрутка динамометрична 0.1-0.6 Нм PROTESTER (AYQ-0.6)</name>
         <description>Викрутка динамометрична (0.1-0.6 Нм) PROTESTER AYQ-0.6</description>
@@ -107824,14 +107824,14 @@ Torx
         <param name="Бренд">Benetech</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1445903764" available="true">
+      <offer id="1445903764" available="false">
         <price>41140</price>
         <currencyId>UAH</currencyId>
         <categoryId>37</categoryId>
         <picture>https://images.prom.ua/1924905616_svarochnyj-poluavtomat-mig-mag.jpg</picture>
         <vendor>G.I.Kraft</vendor>
         <article>GI13111-380</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Зварювальний напівавтомат MIG-MAG 380В 10.8 А 0.8-1.0 мм G. I. KRAFT GI13111 G.I.Kraft (GI13111-380)</name_ua>
         <name>Зварювальний напівавтомат MIG-MAG 380В 10.8 А 0.8-1.0 мм G. I. KRAFT GI13111 G.I.Kraft (GI13111-380)</name>
         <description>Зварний напівавтомат GI13111 призначений для зварки низьковуглецевої сталі, легованої та нержавіючої сталі та алюмінію в середовищі захисного газу та флюсовою проволкою без газу (MIG/MAG). Ізоляція трансформаторів спеціально розроблена та має високу стійкість до перегріву, тому апарати мають більш тривалий робочий цикл при меншому вазі та вартості. Зварний напівавтомат GI13111 торгової марки G.I.KRAFT - це універсальне зварне обладнання, для використання в різних сферах. Простий та розбірчий інтерфейс управління дозволяє виконати вид роботи без додаткових навичок. Зварювальний напівавтомат може виконувати різні види зварювання: точкову, кутову, торцеву і встик. Зварювальне обладнання GI13111 об'єднує в собі декілька різних видів зварювання: електрозварювання, CO2, замінивши, навіть, ручну зварювання дугою.</description>
@@ -110536,14 +110536,14 @@ Torx
         <param name="Бренд">TOPTUL</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1559711785" available="true">
+      <offer id="1559711785" available="false">
         <price>44880</price>
         <currencyId>UAH</currencyId>
         <categoryId>135</categoryId>
         <picture>https://images.prom.ua/3601325488_shtabeler-gidravlicheskij-15.jpg</picture>
         <vendor>TOPTUL</vendor>
         <article>HS1516PMEP</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Штабелер гідравлічний 1.5 т висота підйому 85-1600мм вила 1150*330-830мм PU ролики TOPTUL (HS1516PMEP)</name_ua>
         <name>Штабелер гідравлічний 1.5 т висота підйому 85-1600мм вила 1150*330-830мм PU ролики TOPTUL (HS1516PMEP)</name>
         <description>Штабелер гідравлічний 1.5 т, висота підйому 85-1600мм, віла 1150*330-830мм, PU ролики POWERLIFT HS1516PMEP</description>
@@ -110833,7 +110833,7 @@ Torx
         <param name="Бренд">Benetech</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1572871562" available="true">
+      <offer id="1572871562" available="false">
         <price>6200</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
@@ -110848,7 +110848,7 @@ Torx
         <picture>https://images.prom.ua/7081131638_gazoanalizator-4-v-1-kislorod.jpg</picture>
         <vendor>wintact</vendor>
         <article>WT8812</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Вимірювач концентрації газів 4-в-1 кисень O2 монооксид вуглецю CO сірководень H2S горючий газ wintact (WT8812)</name_ua>
         <name>Вимірювач концентрації газів 4-в-1 кисень O2 монооксид вуглецю CO сірководень H2S горючий газ wintact (WT8812)</name>
         <description>ВИМІРЮВАЧ КОНЦЕНТРАЦІЇ ГАЗІВ 4-в-1 WINTACT WT8812 (Кисень (O₂), чадний газ (CO), сірководень (H₂S), горючі гази (LEL)) Професійний детектор для моніторингу складу повітря Вимірювач WINTACT WT8812 &amp;mdash; це точний пристрій для виявлення та контролю концентрації чотирьох ключових газів у повітрі: Кисень (O₂) &amp;mdash; контроль рівня кисню в замкнених просторах, Чадний газ (CO) &amp;mdash; виявлення небезпечних концентрацій чадного газу, Сірководень (H₂S) &amp;mdash; моніторинг токсичного газу, Горючі гази (LEL) &amp;mdash; аналіз наявності метану, етану, пропану, бутану та парів бензину. Пристрій забезпечує безперервний моніторинг і одночасне відображення результатів для всіх чотирьох газів у реальному часі. При перевищенні допустимих значень автоматично спрацьовує звукова, світлова та вібраційна сигналізація. Можливість збереження результатів із заданим інтервалом часу дозволяє проводити детальний аналіз якості повітря в різних робочих середовищах. Застосування Вимірювач WT8812 використовується там, де існує ризик появи шкідливих газів: хімічна та нафтохімічна промисловість, контроль безпеки на виробництві, очисні споруди та комунальні об&amp;rsquo;єкти, дослідження атмосфери в технологічних шахтах, металургія та гірничо-металургійна промисловість. Компактна конструкція та ергономічна форма забезпечують зручність використання як у закритих приміщеннях, так і на відкритій місцевості. Основні функції та переваги Широкий діапазон вимірювань &amp;mdash; точне визначення концентрації газів. Одночасний моніторинг 4 газів &amp;mdash; %LEL, H₂S, O₂, CO. Реєстрація максимальних і мінімальних значень. Три типи сигналізації &amp;mdash; світлова, звукова та вібраційна. Можливість калібрування. Пам&amp;rsquo;ять на 1000 записів. Вимірювання температури навколишнього середовища. Потужний акумулятор &amp;mdash; 8&amp;ndash;10 годин безперервної роботи. Великий LCD-екран із підсвіткою. Технічні характеристики Розміри: 71 &amp;times; 153 &amp;times; 49 мм Вага: 0,21 кг Живлення: 3.7 В (акумулятор LP103450) Час реакції: &amp;le; 30 с Автовимкнення: так Пам&amp;rsquo;ять: 1000 записів Діапазони вимірювання: Горючі гази (%LEL): 0&amp;ndash;100, крок 0,1, &amp;plusmn;5% Кисень (O₂): 0&amp;ndash;30% VOL, крок 0,1, &amp;plusmn;5% Чадний газ (CO): 0&amp;ndash;1000 ppm, крок 0,1, &amp;plusmn;5% Сірководень (H₂S): 0&amp;ndash;100 ppm, крок 0,1, &amp;plusmn;5% Прилад відповідає суворим стандартам безпеки та якості. Інтерфейс одночасних вимірювань A: Максимальне значення B: Мінімальне значення C: Індикатор високого рівня тривоги D: Індикатор низького рівня тривоги E: Іконка кисню F: Одиниця кисню G: Іконка чадного газу H: Одиниця чадного газу I: Індикатор заряджання J: Іконка сірководню K: Одиниця сірководню L: Іконка горючого газу M: Одиниця горючого газу N: Видалити O: Показник горючого газу P: Зчитування/відновлення записів Q: Запис/реєстрація R: Індикатор рівня батареї S: Іконка вимкнення T: Іконка вмикання/вимикання звуку U: Одиниця &amp;deg;C V: Одиниця &amp;deg;F W: Температура X: Утримання показів Опис елементів корпусу 1.Кліпса (на задній частині) 2.Прозоре вікно індикатора тривоги 3.LCD-екран 4.USB-роз&amp;rsquo;єм живлення 5.Кнопка повернення (довге натискання &amp;mdash; увімк./вимк.) 6.Кнопка вліво &amp;mdash; зменшення 7.Кнопка вправо &amp;mdash; збільшення 8.Кнопка підтвердження 9.Отвір звукового сигналу 10.Отвір датчика газу 11.Захисний калібрувальний ковпачок датчика Wintact &amp;mdash; виробник високоякісних вимірювальних приладів (пірометри, анемометри, люксметри, віброметри, товщиноміри, термогігрометри тощо). Уся продукція проходить суворий контроль якості перед відправкою.</description>
@@ -110914,7 +110914,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1574583421" available="true">
-        <price>5944</price>
+        <price>4755</price>
         <currencyId>UAH</currencyId>
         <categoryId>132</categoryId>
         <picture>https://images.prom.ua/7081139675_shlang-bystrosemnyj-na.jpg</picture>
@@ -111058,7 +111058,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1574583428" available="true">
-        <price>5077</price>
+        <price>4245</price>
         <currencyId>UAH</currencyId>
         <categoryId>132</categoryId>
         <picture>https://images.prom.ua/7081139675_shlang-vozdushnyj-poliuretanovyj.jpg</picture>
@@ -112420,7 +112420,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1626949575" available="true">
-        <price>1101</price>
+        <price>699</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/7084501418_nabor-instrumenta-14.jpg</picture>
@@ -112991,7 +112991,7 @@ Torx
         <param name="Бренд">wintact</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1655234406" available="true">
+      <offer id="1655234406" available="false">
         <price>467</price>
         <currencyId>UAH</currencyId>
         <categoryId>89</categoryId>
@@ -113001,7 +113001,7 @@ Torx
         <picture>https://images.prom.ua/7081117198_beskontaktnyj-infrakrasnyj-termometr.jpg</picture>
         <vendor>wintact</vendor>
         <article>WT319A</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Безконтактний інфрачервоний термометр пірометр — 50-400 °C 12 1 EMS = 0 95 wintact (WT319A)</name_ua>
         <name>Безконтактний інфрачервоний термометр пірометр — 50-400 °C 12 1 EMS = 0 95 wintact (WT319A)</name>
         <description>Безконтактний інфрачервоний пірометр WINTACT WT319A &amp;mdash; це інноваційний прилад для вимірювання температури, який завдяки широкому спектру застосування підходить як для промислового використання, так і для повсякденних потреб. Ідеально підходить для: контролю температури машин у промисловості; керування умовами зберігання продуктів харчування; виявлення перегріву електронних пристроїв; пошуку витоків тепла в комунальних будівлях. Пірометр не є медичним пристроєм і не призначений для вимірювання температури тіла. Він показує температуру поверхні, яка у випадку шкіри відрізняється від внутрішньої температури організму. Сфери застосування контроль промислових процесів (металургія, хімічна промисловість); моніторинг температури механічного та електричного обладнання; перевірка теплоізоляції будівель і виявлення теплових мостів; харчова промисловість &amp;mdash; контроль температури зберігання та обробки продуктів; гастрономія &amp;mdash; контроль температури приготування їжі; сільське господарство та садівництво &amp;mdash; вимірювання температури ґрунту та тварин; транспорт &amp;mdash; контроль температури чутливих до температури вантажів. Технічні характеристики Діапазон вимірювання температури: -50&amp;hellip;+400 &amp;deg;C Роздільна здатність: 0,1 &amp;deg;C Час відгуку: 0,5 с Оптичне співвідношення (D:S): 12:1 Коефіцієнт емісії (EMS): 0,95 Тип дисплея: LCD з підсвіткою Розміри: 144 &amp;times; 93 &amp;times; 38 мм Напруга живлення: 1,5 V Тип батарей: 2 &amp;times; AAA Опис функцій LCD-дисплея Іконка увімкненої підсвітки Іконка увімкненого лазера Іконка сканування Іконка утримання даних Показ температури Кнопка увімкнення/вимкнення лазера Кнопка перемикання &amp;deg;C / &amp;deg;F Іконка низького заряду батареї Одиниці вимірювання (&amp;deg;C / &amp;deg;F) Кнопка увімкнення/вимкнення підсвітки Wintact &amp;mdash; виробник високоякісних вимірювальних і контрольних приладів (пірометри, анемометри, люксметри, віброметри, товщиноміри, термогігрометри тощо).</description>
@@ -114804,14 +114804,14 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1743935695" available="true">
+      <offer id="1743935695" available="false">
         <price>183</price>
         <currencyId>UAH</currencyId>
         <categoryId>21</categoryId>
         <picture>https://images.prom.ua/4194205739_vorotok-s-sharnirom.jpg</picture>
         <vendor>Toptul</vendor>
         <article>CFAE0806</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Вороток із шарніром 1/4" 150 мм Toptul (CFAE0806)</name_ua>
         <name>Вороток із шарніром 1/4" 150 мм Toptul (CFAE0806)</name>
         <description>Вороток із шарніром 1/4" 150 мм TOPTUL CFAE0806</description>
@@ -115373,7 +115373,7 @@ Torx
         <param name="Робочий розмір" paramid="243853" valueid="4614621">76</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1752711659" available="true">
+      <offer id="1752711659" available="false">
         <price>824</price>
         <currencyId>UAH</currencyId>
         <categoryId>136</categoryId>
@@ -115384,7 +115384,7 @@ Torx
         <picture>https://images.prom.ua/7080282876_shtangentsirkul-300mm-002mm.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>SVC0330</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Штангенциркуль 300 мм 0 02 мм Стандарт (SVC0330)</name_ua>
         <name>Штангенциркуль 300 мм 0 02 мм Стандарт (SVC0330)</name>
         <description>Штангенциркуль є незамінним інструментом у кожній майстерні, лабораторії або під час домашніх проєктів DIY. Завдяки йому можна виконувати точні вимірювання, що є ключовим під час різноманітних монтажних і ремонтних робіт. Штангенциркуль STANDART дозволяє виконувати вимірювання: глибини , що корисно для визначення розмірів отворів або заглиблень; виступу , що дає змогу виміряти відстань від базової поверхні; внутрішнього розміру , необхідного для вимірювання діаметра отворів або щілин; зовнішнього розміру , який використовується для визначення габаритів об&amp;rsquo;єктів. Технічні дані: Робочий діапазон вимірювання: 300 мм. Крок вимірювання: 0,02 мм. Чіткі гравійовані позначення, що полегшують зчитування. Цей штангенциркуль дуже простий у використанні, а завдяки чітким гравійованим шкалам зчитування результатів є легким і точним. Оснащений фіксувальним гвинтом для затискання губок, що дозволяє зберігати виміряне значення. Постачається у пластиковому футлярі, який захищає інструмент від пошкоджень і полегшує зберігання та транспортування. Сфера застосування штангенциркуля дуже широка &amp;mdash; від професійного використання в промисловості та ремеслах до хобі й домашніх робіт. Висока точність виготовлення дозволяє використовувати його навіть у найскладніших проєктах. STANDART &amp;mdash; це бренд ручного інструменту та монтажного обладнання, який виробляється в країнах Східної та Південної Азії з 2011 року. Інструменти STANDART стануть вашим незамінним помічником на багато років.</description>
@@ -116868,7 +116868,7 @@ Torx
         <param name="Вид" paramid="243838" valueid="3867818">Ударні</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1856661433" available="false">
+      <offer id="1856661433" available="true">
         <price>24640</price>
         <currencyId>UAH</currencyId>
         <categoryId>85</categoryId>
@@ -116876,7 +116876,7 @@ Torx
         <picture>https://images.prom.ua/4564988191_zaryadnaya-stantsiya-dlya.jpg</picture>
         <vendor>PROTESTER</vendor>
         <article>PRO-PS600D</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Портативна зарядна станція 600W/1000W Max 220 V PROTESTER (PRO-PS600D)</name_ua>
         <name>Портативна зарядна станція 600W/1000W Max 220 V PROTESTER (PRO-PS600D)</name>
         <description>Портативна зарядна станція 600W/1000W (Max), 220 V, 577.2Wh, 14.8V/39Ah (156 000mAh/3.7V) PROTESTER&amp;nbsp;PRO-PS600D &amp;nbsp; Компактне портативне джерело живлення, яке можна використовувати в будь-якій критичній ситуації. Пристрій має велику енергетичну інтенсивність і підтримує операцію як із постійним (постійним струмом постійного струму), так і зі змінним струмом (AC), а також сумісним зі стандартами USB і USB-C. Водночас сам ґаджет можна зарядити трьома способами &amp;mdash; від портативних сонячних батарей (купованих окремо), від акумулятора автомобіля та стандартного джерела живлення. &amp;nbsp;Функції портативного зарядного пристрою&amp;nbsp; Загальна ємність акумулятора становить 156 000 мА&amp;middot;год. Працює з прямим і змінним струмом. Має 3 режими підзаряджання &amp;mdash; з мережі, з Type-C автомобіля і з сонячних батарей (купованих окремо). Дисплей, що показує стан пристрою. Обладнаний 2 портами універсальної розетки (до 240 В), а також 4 портами USB. &amp;nbsp;Компактність&amp;nbsp; Зарядний пристрій &amp;mdash; це чудовий пристрій, який не тільки допоможе в будь-якій критичній ситуації, але й буде дуже корисним у походах або у разі вимкнення електроенергії в будинку. Завдяки цьому ви можете взяти його із собою, якщо необхідно забезпечити електроенергію від центральної енергетичної мережі. Або ви можете покласти зарядний пристрій у багажник автомобіля, не перевантажуючи його, і завжди бути готовим до непередбачених ситуацій. &amp;nbsp;Функціональність&amp;nbsp; Зарядна станція дає змогу одночасно працювати з декількома пристроями та сумісна з багатьма сучасними стандартами. Ґаджет працює як із постійним, так і зі змінним струмом. Пристрій має чотири режими підзаряджання &amp;mdash; із мережі, сонячні батареї, від Type-C або автомобільної запальнички. &amp;nbsp;Висока сумісність&amp;nbsp; Портативний зарядний пристрій &amp;mdash; чудовий багатофункціональний пристрій, який може працювати з багатьма ґаджетами та побутовими приладами. Завдяки високій сумісності за допомогою зарядного пристрою можна подавати живлення на багатьох різних пристроях &amp;mdash; від смартфона та ноутбука до газового котла. &amp;nbsp; Характеристики: Гарантія: 6 міс. Розміри: 296x150x180 мм Вага: 6.8 кг Напруга живлення: 220 B Ємність акумулятора: 156000 мАг Робоча температура: -10 - 40 &amp;deg;C Тип акумулятора: NCM Ліхтарик: Так Живлення від прикурювача: Так Бездротова зарядка гаджетів: Ні Номінальна потужність: 600 Вт Вихідна напруга AC: 220 B Вихідна напруга DC: 12 B Вихідна напруга USB Type-C: 5, 9, 12, 20 B Вихідна напруга USB QC3.0: 5, 9, 12 B Вихідна напруга USB: 5, 9, 12 B Технологія швидкої зарядки: Так Живлення від сонячної панелі: Так Час зарядки від розетки: 360 хв Час зарядки від сонячної панелі: 300 хв Час зарядки від прикурювача авто: 600 хв Імпульсна потужність: 1000 Вт Одночасна зарядка з декількох джерел: Ні</description>
@@ -119828,7 +119828,7 @@ Torx
         <param name="Особливості" paramid="242823" valueid="3805308">На магнітній основі</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2106652189" available="true">
+      <offer id="2106652189" available="false">
         <price>1081</price>
         <currencyId>UAH</currencyId>
         <categoryId>49</categoryId>
@@ -119837,7 +119837,7 @@ Torx
         <picture>https://images.prom.ua/7086241211_tsifrovoj-uglomer-inklinometr.jpg</picture>
         <vendor>PROTESTER</vendor>
         <article>PRO-5347</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Цифровий кутомір інклінометр на магнітній основі MINI 4х90° 5347 PROTESTER (PRO-5347)</name_ua>
         <name>Цифровий кутомір інклінометр на магнітній основі MINI 4х90° 5347 PROTESTER (PRO-5347)</name>
         <description>Електронний кутомір &amp;mdash; незамінний інструмент для швидких і точних вимірювань під час будівельних, ремонтних і монтажних робіт. Особливо корисний при встановленні металевих конструкцій, машин та дискових пил. Цифровий індикатор кутів &amp;mdash; надзвичайно практичний пристрій, який застосовується в багатьох сферах. Кутомір PROTESTER особливо корисний для фахівців, що займаються слюсарними, столярними та будівельними роботами. За його допомогою можна швидко й точно визначити кут нахилу горизонтальної або вертикальної поверхні, що особливо важливо під час виготовлення меблів, монтажу напрямних для гіпсокартонних конструкцій та подібних робіт. Завдяки вбудованому магніту інклінометр легко та надійно фіксується на металевих поверхнях. Основні характеристики та переваги Легкий і портативний Виготовлений з легкого матеріалу, зручний для перенесення та роботи однією рукою. Два режими вимірювання Абсолютний вимір (кут відносно горизонту). Відносний вимір (кут відносно обраної поверхні). Просте перемикання одиниць Дві кнопки дозволяють швидко змінювати режим відображення &amp;mdash; кут / нахил. Функція HOLD (утримання значення) Дає змогу зафіксувати результат вимірювання на дисплеї одним натисканням кнопки. Автоматичне вимкнення Пристрій вимикається через 3 хвилини бездіяльності для економії заряду. Магнітна основа Вбудовані магніти забезпечують надійне кріплення до металевих поверхонь, зокрема пил або елементів машин. Підсвічуваний LCD-дисплей Великий та чіткий екран із підсвічуванням забезпечує зручне використання навіть при слабкому освітленні. Заряджання через USB Type-C Вбудований акумулятор швидко заряджається через порт USB Type-C. Застосування Кутомір MINI &amp;mdash; універсальний інструмент для майстерні, дому та будівництва. Підходить для: точного встановлення кутів на настільних і торцювальних пилах; визначення нахилів під час монтажу конструкцій; вимірювання кутів у важкодоступних місцях. Цифровий кутомір MINI &amp;mdash; надійний і функціональний інструмент, який стане важливою частиною вашого набору. Завдяки точності та універсальності він зробить роботу швидшою та точнішою. Компанія PROTESTER пропонує повний асортимент вимірювального обладнання для побутового та професійного використання. Завдяки стабільній співпраці та розвитку партнерських відносин клієнти отримують якісний сервіс і доступ до надійної продукції.</description>
@@ -121574,7 +121574,7 @@ Torx
         <param name="Бренд">Benetech</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2233842117" available="true">
+      <offer id="2233842117" available="false">
         <price>2864</price>
         <currencyId>UAH</currencyId>
         <categoryId>52</categoryId>
@@ -121582,7 +121582,7 @@ Torx
         <picture>https://images.prom.ua/5905875628_lyuksmetr--termometr.jpg</picture>
         <vendor>Benetech</vendor>
         <article>GT1050</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Люксметр + термометр вимірювач рівня освітленості Bluetooth Benetech (GT1050)</name_ua>
         <name>Люксметр + термометр вимірювач рівня освітленості Bluetooth Benetech (GT1050)</name>
         <description>Люксметр + термометр (вимірювач рівня освітленості) Bluetooth BENETECH GT1050 &amp;nbsp; Професійний вимірник рівня освітленості (люксметр) і термометр, оснащений функцією Bluetooth для зручного бездротового підключення. Прилад дозволяє точно вимірювати освітленість у діапазоні від 0 до 200000 люксів, a також температуру від -20&amp;deg;C до 60&amp;deg;C. Завдяки компактному дизайну і простоті у використанні, GT1050 ідеально підходить для використання у фотостудіях, офісах, лабораторіях і на виробництві. Переваги: Портативність: Легкий та компактний дизайн дозволяє легко носити пристрій із собою. Зручність використання: Інтуїтивно зрозуміле управління і великий дисплей забезпечують зручність зчитування даних. Бездротова передача даних: Bluetooth з&amp;#39;єднання дозволяє швидко передавати дані на мобільні пристрої для подальшого аналізу. Benetech GT1050 стане незамінним інструментом для професіоналів, які потребують точних вимірювань освітленості та температури у своїй роботі.</description>
@@ -121595,7 +121595,7 @@ Torx
         <param name="Бренд">Benetech</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2233842118" available="true">
+      <offer id="2233842118" available="false">
         <price>1646</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
@@ -121603,7 +121603,7 @@ Torx
         <picture>https://images.prom.ua/5905875616_ph-metr-izmeritel-kislotnosti.jpg</picture>
         <vendor>Benetech</vendor>
         <article>GM766</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ph-метр вимірювач кислотності та температури 0 00-14 00 pH +/-0 05% Benetech (GM766)</name_ua>
         <name>Ph-метр вимірювач кислотності та температури 0 00-14 00 pH +/-0 05% Benetech (GM766)</name>
         <description>&amp;nbsp; Ph-метр (вимірювач кислотності та температури) 0,00-14,00 pH (+/-0,05%) BENETECH GM766 &amp;nbsp; Вимірювач кислотності BENETECH GM766 - це професійний цифровий вимірювальний прилад, призначений для вимірювання кислотності (pH) різноманітних рідин. Крім цього, прилад обладнаний температурним датчиком та дозволяє визначати і температуру рідини. Також завдяки датчику температури pH-метр має функцію автоматичної температурної компенсації, що дозволяє визначати кислотність розчину з більшою точністю. Усі показання приладу виводяться на рідкокристалічний дворядковий екран із підсвічуванням. Розмір екрана дозволяє одночасно відображати кислотність рідини та температуру. Крім цього, на екрані показаний рівень заряду батареї та одиниці вимірювання температури - &amp;deg;C або &amp;deg;F. Просте та інтуїтивно зрозуміле управління&amp;nbsp; Воно здійснюється за допомогою трьох кнопок на передній панелі пристрою: Кнопка On/Off. Довге натискання на цю кнопку вмикає та вимикає прилад. Короткий натиск на неї активує підсвічування екрана. Кнопка HOLD. Короткий натиск на цю кнопку дозволяє зафіксувати вимірювані показання на екрані. Крім цього, GM766 має енергонезалежну пам&amp;#39;ять і при включенні відображатиме останні перед вимкненням результати. Довге натискання на кнопку HOLD дозволяє по черзі вибрати одиниці вимірювання температури &amp;deg;C або &amp;deg;F. Кнопка CAL. Довге натискання на кнопку CAL запускає автоматичну процедуру калібрування пристрою за трьома точками. Також для цих цілей у комплекті з GM766 поставляються три калібрувальні розчини із заданою кислотністю. Періодичне проведення калібрування дозволяє підтримувати заявлену точність приладу протягом усього терміну експлуатації.&amp;nbsp; Корпус GM766 виконаний із міцного пластику. Всі деталі корпусу зібрані без будь-яких люфтів та зазорів і повністю виключають попадання вологи всередину приладу. Для захисту вимірювального електрода прилад має спеціальний захисний ковпачок, a сам pH-метр поставляється в міцному пластиковому кейсі. Сфери застосування Вимірювач кислотності GM766 знайде своє застосування як у різних промислових підприємствах, і у побуті. Перерахуємо лише деякі сфери застосування pH-тестеру: харчова промисловість (для визначення рівня кислотності молока, соку, винного сусла та іншої сировини); акваріумістика (моніторинг та контроль рівня pH води в акваріумах); промислові системи водоочищення та водопідготовки; визначення рівня pH води для поливу рослинних культур, що вирощуються в теплицях та кімнатних умовах; контролю кислотності води після очищення за допомогою побутових фільтрів.</description>
@@ -122058,7 +122058,7 @@ Torx
         <param name="Бренд">wintact</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2266903188" available="true">
+      <offer id="2266903188" available="false">
         <price>1379</price>
         <currencyId>UAH</currencyId>
         <categoryId>20</categoryId>
@@ -122072,7 +122072,7 @@ Torx
         <picture>https://images.prom.ua/7088262015_vlagomer-beskontaktnyj-dlya.jpg</picture>
         <vendor>wintact</vendor>
         <article>WT635</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Вологомір деревини та будматеріалів безконтактний 0 5-69% wintact (WT635)</name_ua>
         <name>Вологомір деревини та будматеріалів безконтактний 0 5-69% wintact (WT635)</name>
         <description>БЕЗІНВАЗІЙНИЙ &amp;mdash; ІНДУКЦІЙНИЙ ВИМІРЮВАЧ ВОЛОГОСТІ ДЕРЕВИНИ ТА БУДІВЕЛЬНИХ МАТЕРІАЛІВ WINTACT Точне вимірювання вологості без пошкодження поверхні Індукційний вологомір &amp;mdash; це пристрій для точного вимірювання вологості деревини та будівельних матеріалів без пошкодження поверхні. Вимірювання здійснюється шляхом безпосереднього прикладання приладу до поверхні матеріалу, а глибина детекції становить до 50 мм. Пристрій пропонує 10 програм вимірювання , які можна адаптувати до різних порід деревини та груп будівельних матеріалів для ще точніших результатів. Прилад чудово підходить для вимірювання вологості таких матеріалів, як: цементні розчини, вапняні розчини, цегла та інші матеріали, що використовуються у будівництві. Функції вологоміра: Вимірювання вологості деревини &amp;mdash; можливість вибору густини деревини. Вимірювання вологості будівельних матеріалів &amp;mdash; швидке та точне визначення рівня вологості. Встановлення межі вологості &amp;mdash; контроль параметрів. Вимірювання температури &amp;mdash; вибір одиниці (&amp;deg;C / &amp;deg;F). Підсвічуваний дисплей &amp;mdash; увімкнення/вимкнення підсвічування. Функція HOLD &amp;mdash; фіксація результатів. Індикатор рівня батареї . Автоматичне вимкнення . Встановлення порогового значення (аларм) &amp;mdash; сигналізація перевищення рівня вологості. Функція заряджання акумулятора &amp;mdash; можливість підзарядки батареї. Застосування вологоміра Вологість деревини має ключове значення для її обробки та подальшого використання. Вона залежить від гігроскопічності та вбирання вологи , що впливає на міцність і стійкість до деформацій. Вологоміри використовуються у: Деревообробних підприємствах Складах деревини Ремісничих майстернях Будівництві Також прилад підходить для вимірювання вологості паперових виробів та інших матеріалів, що можуть вбирати воду. ТЕХНІЧНІ ПАРАМЕТРИ ВОЛОГОМІРА Діапазон вологості: 0,5&amp;ndash;69% Температура: -9,9&amp;ndash;60&amp;deg;C / 14&amp;ndash;140&amp;deg;F Похибка вологості деревини: &amp;plusmn;2% Похибка будівельних матеріалів: &amp;plusmn;3% Похибка температури: &amp;plusmn;2&amp;deg;C / &amp;plusmn;3,6&amp;deg;F Глибина детекції: 0&amp;ndash;50 мм Дисплей: LCD з підсвічуванням Розміри: 134 &amp;times; 61 &amp;times; 25 мм Живлення: літієвий акумулятор 1000 mAh 3,7 V Діапазон вимірювання Деревина: Група 1: 2&amp;ndash;69% Група 2: 1,5&amp;ndash;65% Група 3: 1&amp;ndash;60% Група 4: 0,5&amp;ndash;55% Група 5: 0,5&amp;ndash;50% Група 6: 0,5&amp;ndash;45% Група 7: 0,5&amp;ndash;40% Група 8: 0,5&amp;ndash;35% Будівельні матеріали: Група 1: 0,5&amp;ndash;15% Група 2: 0,5&amp;ndash;12% Підтримувані породи деревини Хвойні та листяні: Ялиця, сосна, ялина, модрина, кипарис, дугласія, дуб червоний, дуб білий, ясен, бук, береза, клен, в&amp;rsquo;яз, вишня, чорний горіх, іроко, ятоба, ебен. Екзотичні: Палісандр, мербау, венге, тик, гібуртія, махагон, бубінга, лапачо, кумару, птерокарпус, xylia xylocarpa. Тропічні: Араукарія, kahikatea, агатіс новозеландський, beefwood, aspidosperma, copaifera, dipteryx, оливкове дерево, dracaena goldieana. ОПИС ЕЛЕМЕНТІВ ПРИЛАДУ LCD-дисплей Кнопка живлення / HOLD / калібрування Кнопка зміни групи / встановлення аларму Кнопка звуку / температури Світлодіод Зона датчика вологості USB-C ОПИС ЕЛЕМЕНТІВ ДИСПЛЕЯ Рівень батареї Вимірювання Одиниця температури Стан налаштувань Температура Режим деревини Група вимірювання Режим будівельних матеріалів Звук HOLD Значення вологості Комплектація: індукційний вимірювач вологості оригінальна упаковка кабель для заряджання інструкція польською та англійською мовами Wintact &amp;mdash; виробник високоякісних вимірювальних приладів (анемометри, люксметри, віброметри тощо). Продукція проходить суворий контроль якості та відзначається надійністю.</description>
@@ -122132,7 +122132,7 @@ Torx
         <param name="Бренд">wintact</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2266903192" available="true">
+      <offer id="2266903192" available="false">
         <price>3707</price>
         <currencyId>UAH</currencyId>
         <categoryId>10</categoryId>
@@ -122141,7 +122141,7 @@ Torx
         <picture>https://images.prom.ua/6024025563_tsifrovoj-differentsialnyj-manometr.jpg</picture>
         <vendor>wintact</vendor>
         <article>WT5110-50KPA</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Цифровий диференціальний манометр інтерфейс RS485 ±50 кПа wintact (WT5110-50KPA)</name_ua>
         <name>Цифровий диференціальний манометр інтерфейс RS485 ±50 кПа wintact (WT5110-50KPA)</name>
         <description>Цифровий диференціальний манометр WINTACT WT5110-50KPA &amp;mdash; це високоточний прилад, розроблений для вимірювання диференціального тиску в різних умовах. Завдяки сучасним функціям та зручному інтерфейсу, він є надійним інструментом для професійного використання в промисловості, наукових дослідженнях та інших сферах. Опис Диференціальний манометр WINTACT WT5110-50KPA призначений для точного вимірювання тиску в різних системах, таких як опалення, вентиляція, кондиціювання повітря, a також в промислових і наукових лабораторіях. Прилад забезпечує високу точність та надійність вимірювань, що робить його незамінним інструментом для професіоналів. Високоточне вимірювання Манометр забезпечує точне вимірювання тиску в діапазоні від -50 до 50 кПа з роздільною здатністю 0.01 кПа та високою точністю &amp;plusmn;0.5% F.S. Це дозволяє використовувати прилад для широкого спектра завдань, де потрібна висока точність. Інтерфейс RS485 Інтерфейс RS485 забезпечує надійну передачу даних на великі відстані, що є особливо важливим для промислових застосувань. Це дозволяє інтегрувати манометр в автоматизовані системи контролю та моніторингу. Зручність використання Цифровий дисплей з підсвічуванням забезпечує легке зчитування показників навіть в умовах поганого освітлення. Вбудований акумулятор або можливість живлення від мережі роблять прилад зручним у використанні в будь-яких умовах. Надійність та довговічність Корпус манометра виготовлений з високоякісного пластику, що забезпечує його довговічність та стійкість до зношування. Компактний і легкий дизайн робить прилад зручним для транспортування та використання в будь-яких умовах. Застосування Цей манометр ідеально підходить для: Інженерів систем опалення, вентиляції та кондиціювання повітря (HVAC) Промислових інженерів та технічних спеціалістів Лабораторних досліджень та експериментів Викладачів та студентів технічних спеціальностей WINTACT WT5110-50KPA &amp;mdash; це високоточний та надійний цифровий диференціальний манометр, який забезпечить вам точні дані та зручність у використанні. Замовляйте зараз і підвищуйте ефективність своїх вимірювань!</description>
@@ -122397,14 +122397,14 @@ Torx
         <param name="Тип" paramid="125048" valueid="1600630">Подовжувач</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2298371770" available="true">
+      <offer id="2298371770" available="false">
         <price>55</price>
         <currencyId>UAH</currencyId>
         <categoryId>21</categoryId>
         <picture>https://images.prom.ua/6258082928_vorotok-otvertka-14-standart.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>VO14ST</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Вороток-викрутка 1/4" Стандарт (VO14ST)</name_ua>
         <name>Вороток-викрутка 1/4" Стандарт (VO14ST)</name>
         <description>Вороток-викрутка 1/4" СТАНДАРТ VO14ST — це універсальний інструмент, що поєднує функції воротка та викрутки, розроблений для зручного й ефективного виконання різних робіт. Виготовлений із високоякісної хромо-ванадієвої сталі, забезпечує надійність, міцність і довговічність. Має квадратний привод 1/4", що робить його сумісним із різними насадками та бітами. Ергономічна ручка гарантує комфортне захоплення і знижує втому рук під час тривалого використання. Компактний дизайн дає змогу легко зберігати інструменти та переносити їх у будь-яке місце. Викрутка стане чудовим вибором для професіоналів і аматорів, які цінують якість, надійність і зручність у роботі.</description>
@@ -122469,14 +122469,14 @@ Torx
         <param name="Розмір посадкового квадрата" paramid="229057" valueid="3481807">1/4</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2298371774" available="true">
+      <offer id="2298371774" available="false">
         <price>83</price>
         <currencyId>UAH</currencyId>
         <categoryId>69</categoryId>
         <picture>https://images.prom.ua/6258081682_udlinitel-12-125mm.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>EBR1212EST</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Подовжувач 1/2" 125 мм Стандарт (EBR1212EST)</name_ua>
         <name>Подовжувач 1/2" 125 мм Стандарт (EBR1212EST)</name>
         <description>Подовжувач 1/2" 125 мм СТАНДАРТ EBR1212EST — це високоякісний інструмент, призначений для збільшення довжини робочої зони під час роботи з кріпильними елементами. Виготовлений із міцної хромо-ванадієвої сталі, він забезпечує високу міцність і довговічність. Прецизійне оброблення та хромоване покриття забезпечують стійкість до корозії та зношування. Ідеальний вибір для професіоналів, які шукають надійний і зручний інструмент для роботи.</description>
@@ -123182,14 +123182,14 @@ Torx
         <param name="Бренд">Стандарт</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2363436077" available="false">
+      <offer id="2363436077" available="true">
         <price>10820</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7082509430_nabor-kombinirovannyh-klyuchej.jpg</picture>
         <vendor>Toptul</vendor>
         <article>GPAB0601</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Набір комбінованих ключів 6 шт. 34-50 мм Toptul (GPAB0601)</name_ua>
         <name>Набір комбінованих ключів 6 шт. 34-50 мм Toptul (GPAB0601)</name>
         <description>Набір ключів комбінованих (ріжково-накидні ключі)&amp;nbsp; Jumbo з відхиленням 15&amp;deg; 6 шт. 34&amp;ndash;50 мм TOPTUL GPAB0601 Професійний набір комбінованих ключів марки TOPTUL, призначений для роботи з великими різьбовими з&amp;rsquo;єднаннями. До комплекту входить 6 інструментів великого розміру, ідеальних для використання в сервісах вантажного транспорту, будівельної та промислової техніки. Характеристики продукту: Тип ключів: комбіновані &amp;mdash; з одного боку плаский, з іншого накидний. Відхилення накидної частини: 15&amp;deg; &amp;mdash; полегшує доступ до болтів у важкодоступних місцях. Матеріал: високоякісна інструментальна сталь, що забезпечує довговічність і стійкість до деформацій. Покриття: сатинований хром &amp;mdash; забезпечує захист від корозії та естетичний вигляд. Виконання відповідно до метричної системи. Комплектація набору: Матеріал: сатинований хром 6 комбінованих ключів розмірів: 34 мм, 36 мм, 38 мм, 41 мм, 46 мм, 50 мм Упаковка: міцний текстильний чохол з кишенями та отворами для підвішування Застосування: Набір призначений для інтенсивних механічних і ремонтних робіт, що потребують великих крутних моментів. Підходить для сервісів вантажних автомобілів, сільськогосподарської та промислової техніки. Користуючись інструментами TOPTUL, ти відчуваєш себе майстром найвищого класу. Робота з високоякісними професійними інструментами завжди приносить задоволення &amp;mdash; ти маєш впевненість у довговічності, точності виготовлення та універсальності. Професійні інструменти TOPTUL створені професіоналами для професіоналів &amp;mdash; це гарантія успіху.</description>
@@ -125622,7 +125622,7 @@ Torx
         <param name="Тип" paramid="62081" valueid="217818">Пробійник</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="2441291677" available="true">
+      <offer id="2441291677" available="false">
         <price>17329</price>
         <currencyId>UAH</currencyId>
         <categoryId>89</categoryId>
@@ -125632,7 +125632,7 @@ Torx
         <picture>https://images.prom.ua/6430060822_promyshlennyj-teplovizor-ot.jpg</picture>
         <vendor>wintact</vendor>
         <article>WT3090</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Промисловий тепловізор від -20 °C до 550 °C матриця 120х90 EMS=0 01-1 wintact (WT3090)</name_ua>
         <name>Промисловий тепловізор від -20 °C до 550 °C матриця 120х90 EMS=0 01-1 wintact (WT3090)</name>
         <description>Тепловізор WINTACT WT3090 — це високотехнологічний прилад, призначений для точного вимірювання температури в широкому діапазоні від -20 °C до 550 °C. Пристрій є незамінним для діагностики та виявлення несправностей у електричних системах, механічному обладнанні, будівництві, а також для перевірки систем опалення й охолодження. Основні характеристики: Діапазон вимірювання температури: Від -20 °C до 550 °C, що дає змогу використовувати пристрій для різних завдань — від перевірки домашніх систем до промислових програм. Роздільна здатність матриці: 120х90 пікселів, що забезпечує чітке та детальне зображення для точного аналізу теплових аномалій. Коефіцієнт емісії (EMS): Регульований у діапазоні від 0,01 до 1, що дає змогу адаптувати параметри тепловізора для різних типів матеріалів і забезпечити максимальну точність вимірювань. Широке застосування: Підходить для електриків, техніків, інженерів і будівельників. Тепловізор використовується для діагностики систем електропостачання, перевірки стану ізоляції, моніторингу стану двигунів та інших механічних компонентів, а також будівельних обстежень. Переваги використання WINTACT WT3090: Точність і надійність: Завдяки високій роздільній здатності матриці та можливості регулювання коефіцієнта емісії, тепловізор забезпечує точні вимірювання температури на різних поверхнях. Простота використання: Інтуїтивний інтерфейс і компактний дизайн роблять WT3090 зручним у використанні навіть для тих, хто не має спеціальної підготовки. Широкий діапазон застосування: Може використовуватися для швидкого виявлення проблем із електрикою, механікою або в будівельних конструкціях. Потужний і зручний у використанні тепловізор, який стане надійним помічником у виконанні завдань, пов'язаних із виявленням теплових аномалій і діагностикою обладнання.</description>
@@ -127097,7 +127097,7 @@ Torx
         <param name="Бренд">TORIN</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2581762756" available="true">
+      <offer id="2581762756" available="false">
         <price>5205</price>
         <currencyId>UAH</currencyId>
         <categoryId>80</categoryId>
@@ -127107,7 +127107,7 @@ Torx
         <picture>https://images.prom.ua/7079936248_kompressor-bezmaslyanyj-porshnevoj.jpg</picture>
         <vendor>Auarita</vendor>
         <article>2-900F3-220</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Компресор безмасляний поршневий 3л 220В Auarita (2-900F3-220)</name_ua>
         <name>Компресор безмасляний поршневий 3л 220В Auarita (2-900F3-220)</name>
         <description>БЕЗМАСЛЯНИЙ КОМПРЕСОР AURITA 2-900F3 &amp;ndash; ПРОФЕСІЙНІ ТЕХНОЛОГІЇ ДЛЯ ВИМОГЛИВИХ Безмасляний компресор Auarita 2-900F3-220 &amp;mdash; це високотехнологічний пристрій, створений для професійного використання. Завдяки безмасляній технології, італійському дизайну та численним запатентованим рішенням він ідеально підходить для майстерень, сервісів і промисловості. ПЕРЕВАГИ ПРИСТРОЮ: Портативна конструкція зі зручною верхньою ручкою Компактний бічний ресивер &amp;mdash; економія місця Широкий корпус, ефективний вентилятор &amp;mdash; швидке охолодження та надійність Низькі вібрації та низький рівень шуму &amp;mdash; комфортна робота (70 дБ) Захист від перевантаження &amp;mdash; захищає двигун від пошкодження Запатентована система охолодження &amp;mdash; можливість безперервної роботи Широкий діапазон вхідної напруги &amp;mdash; робота навіть при низькій напрузі Продуктивність, що дозволяє одночасно підключати до 3 пневматичних цвяхозабивачів ЗАСТОСУВАННЯ: пристрій ідеально підходить для живлення: фарбопультів цвяхозабивачів пістолетів для продування пістолетів для підкачування шин пістолетів для консервації та очищення ТЕХНІЧНІ ДАНІ: Вхідна потужність: 900 Вт Напруга: 110&amp;ndash;120 V / 220&amp;ndash;240 V Швидкість двигуна (50 Гц): 2800 об./хв Швидкість двигуна (60 Гц): 3400 об./хв Продуктивність при 8 бар: 60 л/хв Продуктивність при 4 бар: 110 л/хв Рівень шуму: 70 дБ Об&amp;rsquo;єм ресивера: 3 л Маса брутто: 11 кг Розмір упаковки: 32 &amp;times; 29,5 &amp;times; 26,5 см Безмасляна робота &amp;mdash; чистота та просте обслуговування Компресор працює без використання мастила в циліндрах, що забезпечує чисте повітря для фарбування, роботи з електронікою та побутових задач. Відсутність масла означає простіше обслуговування та менший ризик забруднення. Тиха та стабільна робота Рівень шуму лише 70 дБ і сучасний двигун до 3400 об./хв забезпечують комфорт навіть у закритих приміщеннях. Ідеально підходить для домашніх майстерень, гаражів і невеликих сервісів. Компактні розміри та зручність використання Ресивер 3 літри, міцна конструкція та зручна ручка забезпечують мобільність і компактність. Чудово підходить для сервісних і мобільних робіт. Сучасний дизайн і якість виконання Італійський стиль, промисловий дизайн, ефективне охолодження та запатентовані технології забезпечують надійну безперервну роботу. Продуктивність і безпека Продуктивність до 110 л/хв при 4 бар і 60 л/хв при 8 бар. Системи захисту та ефективне охолодження запобігають перегріву навіть при тривалій роботі. Можливість одночасної роботи з трьома цвяхозабивачами підвищує ефективність. Опис виробника: Професійний виробник безмасляних компресорів &amp;mdash; тихе, продуктивне, компактне й надійне обладнання для вимогливих користувачів. Безмасляний компресор 3L &amp;mdash; надійний інструмент для майстерні та дому. Висока продуктивність, тиха робота та універсальність роблять його ідеальним вибором для вимогливих користувачів. AUARITA &amp;mdash; найбільший виробник професійних фарбопультів і пневматичних інструментів у Китаї та світі. Високі стандарти технологій, інноваційне виробництво та постійний контроль якості гарантують успіх бренду на світових ринках.</description>
@@ -128401,7 +128401,7 @@ Torx
         <param name="Бренд">PROTESTER</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2682750241" available="true">
+      <offer id="2682750241" available="false">
         <price>741</price>
         <currencyId>UAH</currencyId>
         <categoryId>83</categoryId>
@@ -128413,7 +128413,7 @@ Torx
         <picture>https://images.prom.ua/7080848784_fonarik-nalobnyj-svetodiodnyj.jpg</picture>
         <vendor>PROTESTER</vendor>
         <article>PRO-HL0550S</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ліхтарик налобний світлодіодний LED із зумом PROTESTER (PRO-HL0550S)</name_ua>
         <name>Ліхтарик налобний світлодіодний LED із зумом PROTESTER (PRO-HL0550S)</name>
         <description>Налобний LED-ліхтар із зумом PROTESTER PRO-HL0550S &amp;mdash; компактне та водночас потужне джерело світла для роботи, туризму й аварійних ситуацій. Основні особливості: Основний світлодіод LED із плавним зумом (широкий &amp;harr; точковий промінь). Додаткове бокове світло COB (біле + червоне). Подвійні кнопки: окремо для LED (точкове світло) та COB (розсіяне), швидке керування. Поворотна головка 105&amp;deg; &amp;mdash; світло спрямовується туди, куди дивишся. USB-C (5 В / 0,8 А), час заряджання близько 2,5 год. Захист IP44 + стійкість до падіння з висоти 1 м. Живлення: акумулятор або три батарейки AAA. Технічні характеристики: Джерело світла: основний LED + COB (білий + червоний), зум. Світловий потік (LED spot): Низький &amp;mdash; 50 лм / до 11 год Середній &amp;mdash; 120 лм / до 6 год Високий &amp;mdash; 500 лм / до 3 год Turbo &amp;mdash; 550 лм (час залежить від температури та теплового захисту) Бокове світло COB (розсіяне): 200 лм (яскраве) / 50 лм (слабке) Червоне COB: постійне 5 лм / миготливе 5 лм Живлення: акумулятор Li-Po 3,7 В / 1200 мА&amp;middot;год Заряджання: USB-C, 5 В / 0,8 А, &amp;asymp; 2,5 год Кут нахилу головки: 105&amp;deg; Матеріал корпусу: ABS + PC + PMMA Розміри: 60 &amp;times; 45 &amp;times; 46 мм Ступінь захисту: IP44 Ударостійкість: падіння з 1 м Акумулятор можна заряджати окремо (поза ліхтарем). Ліхтар може працювати також від звичайних батарей, тому його можна використовувати під час заряджання акумулятора. Режими та час роботи LED (точковий / зум): 50 лм / 11 год &amp;bull; 120 лм / 6 год &amp;bull; 500 лм / 3 год &amp;bull; Turbo 550 лм COB (розсіяний): 200 лм &amp;bull; 50 лм COB червоний: постійний 5 лм &amp;bull; миготливий 5 лм Застосування: сервіс і майстерня, роботи в гаражі та на будівництві; нічні походи, кемпінг, трейл-біг; рятувальні операції, службове використання; аварійне освітлення вдома й в автомобілі. PRO-HL0550S поєднує компактні розміри, потужний світловий потік і точний зум, а завдяки USB-C та акумулятору Li-Po забезпечує тривалий час роботи й швидке заряджання. Чому варто обрати: Світловий потік 550 лм &amp;mdash; достатній для освітлення дороги чи робочого місця, 4 режими роботи. Регульований зум &amp;mdash; плавна зміна фокусування від широкого до дальнього променя. Подвійна кнопка керування &amp;mdash; інтуїтивне перемикання режимів однією рукою. Поворотна головка 105&amp;deg;. Акумулятор 1200 мА&amp;middot;год USB-C &amp;mdash; до 11 год роботи. Легка конструкція (&amp;asymp;100 г), корпус з алюмінію та міцного ABS. Регульований еластичний ремінь з антиковзкою вставкою. Компанія PROTESTER пропонує повний асортимент вимірювального обладнання для побутового та професійного використання, забезпечуючи високу якість продукції та обслуговування.</description>
@@ -129979,14 +129979,14 @@ Torx
         <param name="Розмір посадкового квадрата" paramid="243848" valueid="3868063">3/4</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2745863071" available="false">
+      <offer id="2745863071" available="true">
         <price>396000</price>
         <currencyId>UAH</currencyId>
         <categoryId>131</categoryId>
         <picture>https://images.prom.ua/6844548986_shinomontazhnyj-stend-avtomat.jpg</picture>
         <vendor>BRIGHT</vendor>
         <article>8655 220V</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Шиномонтажний стенд автомат центральний затискач від 13" до 30" плавне регулювання швидкості 2 викручування BRIGHT (8655 220V)</name_ua>
         <name>Шиномонтажний стенд автомат центральний затискач від 13" до 30" плавне регулювання швидкості 2 викручування BRIGHT (8655 220V)</name>
         <description>BRIGHT 8655 &amp;nbsp;&amp;ndash; це високотехнологічний автоматичний стенд для монтажу та демонтажу шин, розроблений для професійних шиномонтажних майстерень і сервісних центрів. Завдяки центральному затискачу він забезпечує швидку та безпечну фіксацію колеса, а розширений діапазон від&amp;nbsp; 13&amp;quot; до 30&amp;quot; &amp;nbsp;дозволяє працювати як зі стандартними легковими дисками, так і з великогабаритними колесами позашляховиків та легких вантажівок. Стенд обладнаний&amp;nbsp; плавним регулюванням швидкості обертання &amp;nbsp;(0&amp;ndash;13 об/хв), що дозволяє оператору працювати максимально акуратно й контролювати процес. Два потужних віджимних ролика та&amp;nbsp; система Auto Hook &amp;nbsp;значно полегшують демонтаж жорстких шин, а&amp;nbsp; техноролер &amp;nbsp;допомагає у випадках із низькопрофільними чи RunFlat колесами. Вбудований&amp;nbsp; пневмовибух &amp;nbsp;гарантує швидку посадку борта шини на диск, а&amp;nbsp; підіймач коліс &amp;nbsp;усуває необхідність підіймати важкі колеса вручну, зменшуючи фізичне навантаження на майстра. Додатково стенд оснащений запатентованим&amp;nbsp; ZD06 leverless kit &amp;nbsp;(технологія з Італії), що мінімізує ризик пошкодження борта шини та поверхні диска. Всі органи керування винесені в одну зручну панель, що дозволяє скоротити допоміжний час і підвищити ефективність роботи. Основні переваги BRIGHT 8655: Центральний затискач &amp;nbsp;&amp;ndash; надійна фіксація колеса. Два&amp;nbsp; віджимних ролика &amp;nbsp;з високою точністю роботи. Система&amp;nbsp; Auto Hook та техноролер &amp;nbsp;&amp;ndash; легкий демонтаж складних шин. Пневмовибух &amp;nbsp;для швидкої посадки борта. Вбудований&amp;nbsp; підйомник коліс . ZD06 (leverless ki t) &amp;nbsp;&amp;ndash; захист шини та диска. Потужний привід &amp;nbsp;із постійним крутним моментом 1200 Н&amp;middot;м. Тиха робота &amp;nbsp;(рівень шуму &amp;lt;70 дБ).</description>
@@ -130072,7 +130072,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="2749933288" available="false">
-        <price>4990</price>
+        <price>3550</price>
         <currencyId>UAH</currencyId>
         <categoryId>61</categoryId>
         <picture>https://images.prom.ua/7081928975_nabor-instrumenta-kombinirovannyj.jpg</picture>
@@ -130347,7 +130347,7 @@ Torx
         <param name="Бренд">Launch</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2776950929" available="false">
+      <offer id="2776950929" available="true">
         <price>3048</price>
         <currencyId>UAH</currencyId>
         <categoryId>67</categoryId>
@@ -130363,7 +130363,7 @@ Torx
         <picture>https://images.prom.ua/7080931062_lazernyj-uroven-16.jpg</picture>
         <vendor>PROTESTER</vendor>
         <article>LL616G-TR</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Лазерний рівень 16 ліній 4D 2xH360/2xV360 LCD-дисплей пульт ДК + ШТАТИВ — зелений промінь PROTESTER (LL616G-TR)</name_ua>
         <name>Лазерний рівень 16 ліній 4D 2xH360/2xV360 LCD-дисплей пульт ДК + ШТАТИВ — зелений промінь PROTESTER (LL616G-TR)</name>
         <description>PROTESTER LL616G-TR 4D, 16 ліній &amp;mdash; зелений лазерний рівень 520 нм з повним комплектом (штатив, аксесуари) Професійний хрестовий лазер 4&amp;times;360&amp;deg; &amp;mdash; дві горизонтальні та дві вертикальні площини утворюють разом 16 ліній зеленого кольору (520 нм), що чудово видно навіть у добре освітлених приміщеннях. Автоматичне самовирівнювання &amp;plusmn;3&amp;deg; та точність &amp;plusmn;0,3 мм/м забезпечують швидке й точне розмічання. Живлення від акумулятора Li-Ion 3000 мА&amp;middot;год, ступінь захисту IP54 і стандартна різьба 1/4&amp;quot; для встановлення на штатив. Основні переваги 4D / 16 ліній &amp;mdash; 2&amp;times; горизонталь + 2&amp;times; вертикаль, кожна площина 360&amp;deg;. Зелений промінь 520 нм &amp;mdash; до 4 разів краща видимість, ніж у червоного. Автоматичне самовирівнювання &amp;plusmn;3&amp;deg; із сигналом, якщо прилад поза діапазоном. Висока точність: &amp;plusmn;0,3 мм/м. Робоча дальність до 30 м (більша з приймачем &amp;mdash; опція). Акумулятор Li-Ion 3000 мА&amp;middot;год &amp;mdash; швидке заряджання, робота також від мережі. Ручний режим &amp;mdash; блокування маятника для роботи під довільним кутом. IP54 &amp;mdash; захист від пилу та бризок, прогумований корпус із захистом кутів. Кріплення 1/4&amp;quot; + мікроліфт / підйомна платформа для точного регулювання висоти. Пульт дистанційного керування &amp;mdash; зручне вмикання площин. Багатий комплект аксесуарів у жорсткому кейсі PROTESTER. Застосування Монтаж гіпсокартонних конструкцій, стель, плінтусів і плитки, встановлення перегородок, вирівнювання меблів і побутової техніки, монтажні роботи, вирівнювання підлог, перенесення кутів 90&amp;deg; та контроль вертикалі й горизонту в усьому приміщенні. Увімкнення режиму блокування маятника Після ввімкнення пристрою натисніть і утримуйте на сенсорній панелі центральну кнопку між H і V до короткого звукового сигналу. Відтепер можна працювати з похилими лініями &amp;mdash; лазер не сигналізуватиме та не вимикатиметься при нахилі. Аварійне живлення 3&amp;times;AA У комплекті: адаптер на 3&amp;times;AA + 3 батарейки. Без перерв у роботі &amp;mdash; якщо акумулятори розрядились, використовуйте AA. Доступні всюди: стандартні батарейки AA 1,5 В (рекомендовані лужні). Комплектація Лазер PROTESTER 4D &amp;mdash; 16 ліній (зелений) Телескопічний штатив 400&amp;ndash;1200 мм (різьба 1/4&amp;quot;) Підйомна основа / точна регулювальна платформа Настінний кронштейн із мікропереміщенням (помаранчевий) Окуляри для зеленого лазера Мішень / цільова пластина Пульт дистанційного керування 2&amp;times; акумулятор Li-Ion 3000 мА&amp;middot;год Зарядний пристрій / мережевий адаптер Монтажні елементи, коробка для аксесуарів Жорсткий кейс PROTESTER Технічні характеристики Тип променя: зелений, 520 нм Кількість ліній / площин: 16 (4&amp;times;360&amp;deg; &amp;mdash; 2H + 2V) Дальність роботи: до 30 м (з приймачем &amp;mdash; більше) Точність: &amp;plusmn;0,3 мм/м Діапазон самовирівнювання: &amp;plusmn;3&amp;deg; Ручний режим: так (блокування маятника) Живлення: Li-Ion 3000 мА&amp;middot;год, можливість роботи від мережі Різьба штатива: 1/4&amp;quot; Ступінь захисту: IP54 Висота штатива з комплекту: 400&amp;ndash;1200 мм Маса пристрою: близько 0,9 кг Розширений опис PROTESTER 4D 16 Lines &amp;mdash; повне покриття 4&amp;times;360&amp;deg;. Дві горизонтальні та дві вертикальні площини охоплюють усе приміщення &amp;mdash; можна переносити рівень і кути без перестановки приладу. Зелені лінії 520 нм добре видно, а точність &amp;plusmn;0,3 мм/м забезпечує точні монтажні та оздоблювальні роботи. Швидка робота завдяки самовирівнюванню. Вбудована система автоматично вирівнює лазер у межах &amp;plusmn;3&amp;deg;. Якщо прилад поза діапазоном &amp;mdash; подається сигнал. У режимі LOCK маятник фіксується для побудови похилих ліній (сходи, скоси, перила). Комфортне живлення та мобільність. У комплекті два акумулятори Li-Ion 3000 мА&amp;middot;год і зарядний пристрій &amp;mdash; один заряджається, інший працює. Захист IP54 і прогумовані кути зручні для роботи на будмайданчику. Точне налаштування та повний комплект. Штатив 400&amp;ndash;1200 мм, підйомна платформа для міліметрового регулювання висоти, настінний кронштейн із мікроподачею, окуляри, мішень і пульт &amp;mdash; усе готово до роботи одразу після розпакування. Усе зберігається в жорсткому кейсі PROTESTER. Компанія PROTESTER пропонує повний асортимент вимірювального обладнання як для побутового, так і для професійного використання. Завдяки стабільній співпраці та надійним партнерським відносинам клієнти можуть розраховувати на якісний сервіс і доступ до перевіреної продукції.</description>
@@ -130605,14 +130605,14 @@ Torx
         <param name="Бренд">TORIN</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2815242681" available="true">
+      <offer id="2815242681" available="false">
         <price>345000</price>
         <currencyId>UAH</currencyId>
         <categoryId>81</categoryId>
         <picture>https://images.prom.ua/6941225100_stanok-dlya-obzhima.jpg</picture>
         <vendor>Стандарт</vendor>
         <article>HHCP30</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Верстат для обтиску шлангових фітингів 6 - 76 мм 1500 швидкозмінні кулачки матриці STANDART Стандарт (HHCP30)</name_ua>
         <name>Верстат для обтиску шлангових фітингів 6 - 76 мм 1500 швидкозмінні кулачки матриці STANDART Стандарт (HHCP30)</name>
         <description>HHCP30 &amp;ndash; гідравлічний обтискний верстат призначений для виготовлення рукавів високого тиску шляхом точного обтискання фітингів. Він забезпечує надійне, герметичне та міцне з&amp;rsquo;єднання шланга з наконечником. Верстат використовується у виробництві, сервісних центрах та ремонтних майстернях гідравлічних систем. Має високу силу обтиску, широкий діапазон діаметрів (до 3&amp;quot;) та електронне керування. Гарантує стабільну якість, знижує ризик витоків і поломок, підвищує продуктивність роботи.</description>
@@ -130733,14 +130733,14 @@ Torx
         <param name="Тип" paramid="25938" valueid="21757">Фарбопульти</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2822625509" available="true">
+      <offer id="2822625509" available="false">
         <price>1062</price>
         <currencyId>UAH</currencyId>
         <categoryId>127</categoryId>
         <picture>https://images.prom.ua/6941225268_pistolet-okrasochnyj-pnevmaticheskij.jpg</picture>
         <vendor>Auarita</vendor>
         <article>LION-2-LIGHT-1.2</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Пістолет фарбувальний пневматичний HVLP верх.пласт.бачок 250мл форсунка-1 2мм LION-B-LIGHT-1.2 Auarita (LION-2-LIGHT-1.2)</name_ua>
         <name>Пістолет фарбувальний пневматичний HVLP верх.пласт.бачок 250мл форсунка-1 2мм LION-B-LIGHT-1.2 Auarita (LION-2-LIGHT-1.2)</name>
         <description>Фарбувальний пістолет AUARITA LION-2-LIGHT-1.2, 250 мл &amp;mdash; це надійний і професійний інструмент, який чудово підходить для роботи в будь-якій майстерні. Завдяки застосованій технології пістолет ідеально підходить для роботи з в&amp;rsquo;язкими та густими матеріалами. Оснащений трьома режимами регулювання, він дозволяє контролювати не лише кількість і форму факела фарби, але й робочий тиск пристрою. Технічні характеристики: Форсунка: 1.2 мм Робочий тиск: 2.5 бар Витрата повітря: 140&amp;ndash;200 л/хв Об&amp;rsquo;єм бачка: 250 мл Застосування: ідеальний для фарбування поверхонь з високими естетичними вимогами, таких як автомобілі, мотоцикли, музичні інструменти та вироби ручної роботи. Цей фарбопульт працює за технологією HVLP (High Volume Low Pressure) , що означає великий об&amp;rsquo;єм повітря при низькому тиску. Завдяки цьому технологія HVLP забезпечує більш ефективне використання лакофарбового матеріалу, зменшуючи втрати фарби та мінімізуючи її розпилення в повітрі. Це ідеальне рішення для точного фарбування, що забезпечує гладку та рівномірну поверхню. Крім того, HVLP дозволяє заощадити до 30% матеріалу порівняно з традиційними високонапірними пістолетами (HP). Пістолет оснащений високоякісною повітряною головкою, що забезпечує рівномірне та дрібнодисперсне розпилення, оптимальне для більшості стандартних застосувань. Поверхня з покриттям TEFLON забезпечує значно кращу стійкість до кислот, лугів і корозії порівняно з традиційними електрофоретичними покриттями. Пістолет виготовлений з високою точністю за технологією CNC , що гарантує ідеальну відповідність внутрішніх каналів і забезпечує максимальну ефективність розпилення фарби. AUARITA &amp;mdash; найбільший виробник професійних фарбопультів і пневматичних інструментів у Китаї та у світі. Стабільні високоякісні технології, інноваційні виробничі потужності та регулярний контроль якості спеціалістами гарантують високу якість продукції та успіх бренду на світових ринках.</description>
@@ -131156,7 +131156,7 @@ Torx
         <param name="Тип" paramid="25938" valueid="21757">Фарбопульти</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2822625525" available="true">
+      <offer id="2822625525" available="false">
         <price>1162</price>
         <currencyId>UAH</currencyId>
         <categoryId>127</categoryId>
@@ -131168,7 +131168,7 @@ Torx
         <picture>https://images.prom.ua/7081948815_pistolet-krasyaschij-pnevmaticheskij.jpg</picture>
         <vendor>Auarita</vendor>
         <article>LION-B-LIGHT-1.0LM</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Пістолет фарбувальний пневматичний LVMP верх.пласт.бачок 250мл форсунка-1 0мм Auarita (LION-B-LIGHT-1.0LM)</name_ua>
         <name>Пістолет фарбувальний пневматичний LVMP верх.пласт.бачок 250мл форсунка-1 0мм Auarita (LION-B-LIGHT-1.0LM)</name>
         <description>Фарбувальний пістолет AUARITA LION-B-LIGHT-1.0LM &amp;mdash; це професійний інструмент, призначений для роботи в різних сферах, зокрема в кузовних і фарбувальних майстернях, модельній справі та на підприємствах з виробництва інструментів. Технічні характеристики: Форсунка: 1.0 мм L.V.M.P Об&amp;rsquo;єм бачка: 250 мл Витрата повітря: 85&amp;ndash;140 л/хв Робочий тиск: 2 бар Застосування: ідеальний для фарбування поверхонь з високими естетичними вимогами, таких як автомобілі, мотоцикли, музичні інструменти та вироби ручної роботи. Пістолет LVMP Пістолет типу LVMP (Low Volume Medium Pressure) характеризується середньою витратою повітря, що забезпечує більш ефективне нанесення фарби з меншими втратами матеріалу порівняно з традиційними високонапірними пістолетами. Робота при середньому тиску забезпечує точний контроль розподілу фарби, що дозволяє отримати рівномірну та гладку поверхню. Пістолет чудово підходить для фарбування елементів, які потребують високої якості покриття, мінімізуючи перевитрати матеріалу та забезпечуючи професійний результат. Особливості виробу: Розроблений італійською командою дизайнерів, що забезпечило ергономічну рукоятку та спусковий механізм, спеціально адаптовані для інтенсивної роботи. Це дозволяє працювати тривалий час без втоми. Глибокий паз регулювального гвинта полегшує точне налаштування, а тефлонове покриття забезпечує легке очищення та стійкість до налипання фарби. Екологічний фарбопульт із високою ефективністю перенесення фарби та низькою витратою матеріалу &amp;mdash; економічне та екологічне рішення. Великий об&amp;rsquo;єм подачі фарби та товстий шар покриття ідеально підходять для фахівців, які віддають перевагу високій продуктивності фарбування. Форсунка та голка виготовлені з нержавіючої сталі 304, що забезпечує зносостійкість і стабільну якість розпилення протягом тривалого часу. Корпус пістолета обробляється у великому центрі CNC-обробки, що забезпечує ідеальну співвісність внутрішніх каналів і максимальну якість розпилення. Регулювальні гвинти та інші аксесуари виготовляються на високоточних CNC-верстатах, що забезпечує відмінні тактильні відчуття, комфорт і плавність обертання. AUARITA &amp;mdash; найбільший виробник професійних фарбопультів і пневматичних інструментів у Китаї та світі. Стабільні високоякісні технології, інноваційні виробничі потужності та регулярний контроль якості спеціалістами гарантують високу якість продукції та успіх бренду на світових ринках.</description>
@@ -132877,7 +132877,7 @@ Torx
         <param name="Вид" paramid="28840" valueid="31515">Гідравлічні</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2910687949" available="true">
+      <offer id="2910687949" available="false">
         <price>935</price>
         <currencyId>UAH</currencyId>
         <categoryId>132</categoryId>
@@ -132887,7 +132887,7 @@ Torx
         <picture>https://images.prom.ua/7467419790_shlang-vozdushnyj-armirovannyj.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>AHC-55J</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Шланг повітряний армований із PVC-гуми 20 атм 10x16мм 10м із латунними швидкорознімними з єднаннями Airkraft (AHC-55J)</name_ua>
         <name>Шланг повітряний армований із PVC-гуми 20 атм 10x16мм 10м із латунними швидкорознімними з єднаннями Airkraft (AHC-55J)</name>
         <description>Шланг&amp;nbsp; AIRKRAFT AHC-55J &amp;nbsp;&amp;mdash; армований повітряний шланг із PVC-гуми, розрахований на робочий тиск до 20 атм. Оснащений латунними швидкорознімними з&amp;rsquo;єднаннями, що забезпечують герметичність та зручність у використанні. Переваги Висока міцність завдяки армуванню Гнучкість та еластичність навіть при низьких температурах Герметичність і мінімальні втрати повітря Довговічність, стійкість до стирання та впливу олив Готовий до роботи завдяки комплектним латунним фітингам</description>
@@ -133095,7 +133095,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="2944359237" available="false">
-        <price>16060</price>
+        <price>17448</price>
         <currencyId>UAH</currencyId>
         <categoryId>85</categoryId>
         <picture>https://images.prom.ua/7148357665_zaryadnoe-ustrojstvo-2-kanalnoe.jpg</picture>
@@ -133119,14 +133119,14 @@ Torx
         <param name="Бренд">PROTESTER</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2944359238" available="true">
+      <offer id="2944359238" available="false">
         <price>2113</price>
         <currencyId>UAH</currencyId>
         <categoryId>88</categoryId>
         <picture>https://images.prom.ua/7148357624_podstavka-pod-zadnee.jpg</picture>
         <vendor>TORIN</vendor>
         <article>TRMT05014</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Підставка під заднє колесо мотоцикла L-подібна з 2 адаптерами TORIN (TRMT05014)</name_ua>
         <name>Підставка під заднє колесо мотоцикла L-подібна з 2 адаптерами TORIN (TRMT05014)</name>
         <description>Підставка під заднє колесо мотоцикла &amp;nbsp;TORIN TRMT05014&amp;nbsp; (L-подібна) &amp;ndash; професійне обладнання для утримання та обслуговування мотоцикла. Завдяки міцній конструкції та високій вантажопідйомності забезпечує стабільність і безпеку при роботі з технікою. Опис та особливості Тип: L-подібна підставка для заднього колеса Максимальне навантаження:&amp;nbsp; 340 кг Конструкція: міцна сталева рама з антикорозійним покриттям У комплекті:&amp;nbsp; 2 адаптери &amp;nbsp;для різних типів маятників Надійна фіксація заднього колеса &amp;ndash; утримує мотоцикл у вертикальному положенні Підходить для більшості мотоциклів середнього та великого класу Компактний дизайн &amp;ndash; зручність у використанні та зберіганні Переваги Висока вантажопідйомність &amp;ndash; робота навіть із важкими мотоциклами Простота та швидкість установки Універсальність завдяки адаптерам у комплекті Довговічність завдяки якісним матеріалам Забезпечує безпечний доступ до вузлів та агрегатів при ремонті чи обслуговуванні Ця підставка&amp;nbsp; TORIN TRMT05014 &amp;nbsp;стане надійним рішенням для майстерень та власників мотоциклів, де важлива стабільність і комфорт при роботі із заднім колесом.</description>
@@ -133276,7 +133276,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="2954550585" available="false">
-        <price>24200</price>
+        <price>25832</price>
         <currencyId>UAH</currencyId>
         <categoryId>85</categoryId>
         <picture>https://images.prom.ua/7148357650_zaryadnoe-ustrojstvo-2-kanalnoe.jpg</picture>
@@ -133356,7 +133356,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="2956685686" available="false">
-        <price>37400</price>
+        <price>39428</price>
         <currencyId>UAH</currencyId>
         <categoryId>85</categoryId>
         <picture>https://images.prom.ua/7148357656_zaryadnoe-ustrojstvo-2-kanalnoe.jpg</picture>
@@ -133381,7 +133381,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="2956685687" available="false">
-        <price>14080</price>
+        <price>15409</price>
         <currencyId>UAH</currencyId>
         <categoryId>85</categoryId>
         <picture>https://images.prom.ua/7148357641_zaryadnoe-ustrojstvo-2-kanalnoe.jpg</picture>
