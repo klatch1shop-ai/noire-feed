@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-17 11:41">
+<yml_catalog date="2026-10-17 15:41">
   <shop>
     <name>klatch1 shop</name>
     <company>3721108</company>
@@ -23846,94 +23846,6 @@
         <param name="Тип">крем</param>
         <param name="Аромат">ванільний</param>
         <param name="Тип упаковки">пляшка з дозатором</param>
-        <param name="Країна-виробник">США</param>
-      </offer>
-      <offer id="SO1481" available="true" selling_type="r" in_stock="true">
-        <name>Смазка на водной основе JO H2O — Green Apple (30 мл) без сахара, растительный глицерин</name>
-        <name_ua>Змазка на водній основі JO H2O — Green Apple (30 мл) без цукру, рослинний гліцерин</name_ua>
-        <picture>https://sexopt.com.ua/content/images/40/so1481-75460370924860.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/40/so1481-35616739106426.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/40/so1481-92693793962191.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/40/so1481-13655491629570.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/40/so1481-27741084216028.jpg</picture>
-        <price>389</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>161003</categoryId>
-        <portal_category_id>161003</portal_category_id>
-        <vendor>JO</vendor>
-        <vendorCode>SO1481</vendorCode>
-        <quantity_in_stock>4</quantity_in_stock>
-        <description>&lt;p dir="ltr" style="text-align: justify;"&gt;Лубрикант на водной основе JO H2O &amp;mdash; GREEN APPLE яблочный восторг &amp;mdash; это интимный лубрикант с широкой гаммой насыщенных ароматов из коллекции ароматизированных средств JO&amp;reg; H2O.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Лубрикант на водной основе JO H2O &amp;mdash; GREEN APPLE делает прелюдию более приятной и улучшает качество интимной близости. Изготовлен с использованием глицерина исключительно растительного происхождения и натуральных ароматизаторов.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Лубрикант разбудит вкусовые рецепторы и аппетит к удовольствию. Отсутствие сахара и искусственных подсластителей также делает его безвредным.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Преимущества:&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li aria-level="1" dir="ltr"&gt;
-	&lt;p dir="ltr" role="presentation" style="text-align: justify;"&gt;Отличный способ добавить остроты в ощущения и сделать прелюдию более приятной.&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li aria-level="1" dir="ltr"&gt;
-	&lt;p dir="ltr" role="presentation" style="text-align: justify;"&gt;Совместимость с материалами большинства игрушек.&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li aria-level="1" dir="ltr"&gt;
-	&lt;p dir="ltr" role="presentation" style="text-align: justify;"&gt;Глицерин растительного происхождения придает естественный сладковатый вкус.&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li aria-level="1" dir="ltr"&gt;
-	&lt;p dir="ltr" role="presentation" style="text-align: justify;"&gt;Безопасность для вагинального применения, без возникновения кандидоза.&lt;/p&gt;
-	&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Перед применением обязательно ознакомьтесь с рекомендациями производителя на упаковке.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Создавайте уникальные вкусовые ощущения, смешивая и сочетая разные вкусы.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Состав: Glycerin, Water (Aqua), Flavor (Aroma), Cellulose Gum, Methylparaben, Propylparaben.&lt;/p&gt;</description>
-        <description_ua>&lt;p dir="ltr" style="text-align: justify;"&gt;Лубрикант на водній основі JO H2O &amp;mdash; GREEN APPLE яблучне захоплення &amp;mdash; це інтимний лубрикант із широкою гамою насичених ароматів із колекції ароматизованих засобів JO&amp;reg; H2O.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Лубрикант на водній основі JO H2O &amp;mdash; GREEN APPLE робить прелюдії більш приємними й поліпшує якість інтимної близькості. Виготовлений із використанням гліцерину виключно рослинного походження та натуральних ароматизаторів.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Лубрикант розбудить смакові рецептори та апетит до задоволення. Відсутність цукру та штучних підсолоджувачів також робить його нешкідливим.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Переваги:&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li aria-level="1" dir="ltr"&gt;
-	&lt;p dir="ltr" role="presentation" style="text-align: justify;"&gt;Чудовий спосіб додати гостроти у відчуття і зробити прелюдію приємнішою.&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li aria-level="1" dir="ltr"&gt;
-	&lt;p dir="ltr" role="presentation" style="text-align: justify;"&gt;Сумісність із матеріалами багатьох іграшок.&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li aria-level="1" dir="ltr"&gt;
-	&lt;p dir="ltr" role="presentation" style="text-align: justify;"&gt;Гліцерин рослинного походження надає природного солодкуватого смаку.&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li aria-level="1" dir="ltr"&gt;
-	&lt;p dir="ltr" role="presentation" style="text-align: justify;"&gt;Безпека для вагінального застосування без виникнення кандидозу.&lt;/p&gt;
-	&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Перед застосуванням обов&amp;rsquo;язково ознайомтеся із рекомендаціями виробника на пакованні.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Створюйте унікальні смакові відчуття, змішуючи та поєднуючи різні смаки.&lt;/p&gt;
-
-&lt;p dir="ltr" style="text-align: justify;"&gt;Склад: Glycerin, Water (Aqua), Flavor (Aroma), Cellulose Gum, Methylparaben, Propylparaben.&lt;/p&gt;</description_ua>
-        <keywords_ua>змазка jo, змазка джо, jo h2o green, зелена змазка, змазка на водній основі, інтимний лубрикант, h2o лубрикант, змазка яблуко без цукру, лубрикант jo h2o 30 мл</keywords_ua>
-        <keywords>лубрикант джо, лубрикант jo, лубрикант для секса, jo h2o, интимные гель-смазки, лубрикант на водной основе, смазка яблоко без сахара, лубрикант jo h2o 30 мл, гель смазка водная основа</keywords>
-        <dimensions>
-          <weight unit="kg">0.1</weight>
-          <width unit="cm">5</width>
-          <height unit="cm">5</height>
-          <length unit="cm">11</length>
-        </dimensions>
-        <param name="Смак">Без смаку</param>
-        <param name="Обʼєм" unit="мл">30</param>
-        <param name="Стать">унісекс</param>
-        <param name="Тип">гель</param>
-        <param name="Аромат">без аромату</param>
-        <param name="Тип упаковки">пляшка з дозатором</param>
-        <param name="Колір">Зелений</param>
         <param name="Країна-виробник">США</param>
       </offer>
       <offer id="SO1484" available="true" selling_type="r" in_stock="true">
@@ -163380,49 +163292,6 @@ MINI &amp;mdash; для новачків, або BIG &amp;mdash; для поці
         <param name="Тип інтимної іграшки">Кляп</param>
         <param name="Країна-виробник">Україна</param>
       </offer>
-      <offer id="SO6703" available="true" selling_type="r" in_stock="true">
-        <name>Чокер сердце с большими шипами, из натуральной кожи Art of Sex - Crystal, цвет Черный</name>
-        <name_ua>Чокер Серце Art of Sex - Crystal, колір Чорний, метал</name_ua>
-        <picture>https://sexopt.com.ua/content/images/47/so6703-82154848475149.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/47/so6703-46109482134858.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/47/so6703-89488139272559.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/47/so6703-16987962016467.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/47/so6703-86744143128675.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/47/so6703-46617709171314.jpg</picture>
-        <price>799</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>161007</categoryId>
-        <portal_category_id>161007</portal_category_id>
-        <vendor>Art of Sex</vendor>
-        <vendorCode>SO6703</vendorCode>
-        <quantity_in_stock>2</quantity_in_stock>
-        <description>&lt;p style="text-align: justify;"&gt;Чокер Сердце с большими шипами, из натуральной кожи Art of Sex Crystal &amp;mdash; просто покоряет сердца! Он украшен чрезвычайно острыми металлическими шипами и сердцем из металла &amp;mdash; идеальный аксессуар для ролевых игр, БДСМ-практик, тематических вечеринок или фотосессий. А если вы любите провокационный стиль одежды &amp;mdash; без этого аксессуара просто не обойтись!&lt;/p&gt;
-
-&lt;p&gt;Свойства:&lt;br /&gt;
-Бренд (Страна): Art of Sex (Украина)&lt;br /&gt;
-Цвет: черный&lt;br /&gt;
-Материал: натуральная кожа, металл&lt;/p&gt;</description>
-        <description_ua>&lt;p style="text-align: justify;"&gt;Чокер Серце з великими шипами, з натуральної шкіри Art of Sex Crystal &amp;mdash; просто підкорює серця! Він прикрашений надзвичайно гострими металевими шипами та серцем із металу &amp;mdash; ідеальний аксесуар для рольових ігор, БДСМ-практик, тематичних вечірок чи фотосесій. А якщо ви любите провокаційний стиль одягу &amp;mdash; без цього аксесуара просто не обійтися!&lt;/p&gt;
-
-&lt;p&gt;Властивості:&lt;br /&gt;
-Бренд (Країна): Art of Sex (Україна)&lt;br /&gt;
-Колір: чорний&lt;br /&gt;
-Матеріал: натуральна шкіра, метал&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Матеріал:&lt;/b&gt; Метал | Натуральна шкіра&lt;/li&gt;&lt;li&gt;&lt;b&gt;Колір:&lt;/b&gt; Чорний&lt;/li&gt;&lt;li&gt;&lt;b&gt;Країна-виробник:&lt;/b&gt; Україна&lt;/li&gt;&lt;/ul&gt;</description_ua>
-        <keywords_ua>чокер art of sex, чокер арт оф секс, art of sex crystal, металевий чокер, чокер для рольових ігор, чокер з шипами, шкіряний чокер з шипами, чокер із серцем, металевий чокер з шипами</keywords_ua>
-        <keywords>чокер сердце art of sex, бдсм игрушка арт оф секс, чокер сердце арт оф секс, бдсм игрушка art of sex, металлическая бдсм игрушка, чокер сердце, чокер с шипами, кожаный чокер с шипами, чокер с сердцем</keywords>
-        <dimensions>
-          <weight unit="kg">0.4</weight>
-          <width unit="cm">20</width>
-          <height unit="cm">15</height>
-          <length unit="cm">6</length>
-        </dimensions>
-        <param name="Матеріал">Метал | Натуральна шкіра</param>
-        <param name="Колір">Чорний</param>
-        <param name="Тип інтимної іграшки">Фіксатор</param>
-        <param name="Країна-виробник">Україна</param>
-      </offer>
       <offer id="SO6704" available="true" selling_type="r" in_stock="true">
         <name>Кляп-палка на ремнях Art of Sex – Gag Stick Silicon, красный, натуральная кожа</name>
         <name_ua>Кляп-палиця на ременях Art of Sex – Gag Stick Silicon, червоний, натуральна шкіра, силікон</name_ua>
@@ -215155,7 +215024,7 @@ S: Приятный размер с вводимой длиной 14 см и м�
         <portal_category_id>161014</portal_category_id>
         <vendor>Doxy</vendor>
         <vendorCode>SO8030</vendorCode>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description>&lt;p dir="ltr"&gt;Предлагаем купить металлическую анальную пробку DOXY Butt Plug SMOOTH &amp;mdash; идеально гладкую, изготовленную из качественного алюминия и полностью безопасную. Металлическая игрушка &amp;mdash; это не только комфортное введение и приятное ощущение тяжести внутри, но и отличная возможность поиграть с температурой! Нагревайте пробку, охлаждайте и наслаждайтесь невероятными ощущениями. Пробка небольшая: диаметр 3,3 см и вводимая длина 7 см &amp;mdash; так что подойдет даже новичкам.&lt;/p&gt;
 
 &lt;p dir="ltr"&gt;Металлическая анальная пробка DOXY Butt Plug SMOOTH обязательно должна быть в арсенале каждого, кто любит анальное проникновение и возбуждающее ощущение тяжести внутри!&lt;/p&gt;
@@ -232168,7 +232037,7 @@ S: Приятный размер с вводимой длиной 14 см и м�
         <param name="Країна-виробник">Україна</param>
         <param name="Країна бренду">Україна</param>
       </offer>
-      <offer id="SO8303" available="true" selling_type="r" in_stock="true" group_id="400250777">
+      <offer id="SO8303" available="true" selling_type="r" in_stock="true">
         <name>Мужская портупея Art of Sex - Arcady, Черный XS-M</name>
         <name_ua>Чоловіча портупея Art of Sex - Arcady, Чорний XS-M, метал</name_ua>
         <picture>https://sexopt.com.ua/content/images/29/so8303-84618177619391.jpg</picture>
@@ -232200,45 +232069,9 @@ S: Приятный размер с вводимой длиной 14 см и м�
         </dimensions>
         <param name="Матеріал">Метал | Натуральна шкіра</param>
         <param name="Колір">Чорний</param>
-        <param name="Тип товару">портупея/збруя</param>
-        <param name="Країна-виробник">Україна</param>
         <param name="Розмір">XS</param>
-      </offer>
-      <offer id="SO8304" available="true" selling_type="r" in_stock="true" group_id="400250777">
-        <name>Мужская портупея Art of Sex - Arcady, Черный L-2XL</name>
-        <name_ua>Чоловіча портупея Art of Sex - Arcady, Чорний L-2XL, метал</name_ua>
-        <picture>https://sexopt.com.ua/content/images/30/33385238886669.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/30/45334251906162.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/30/72764834618417.jpg</picture>
-        <picture>https://sexopt.com.ua/content/images/30/62530712819385.jpg</picture>
-        <price>1249</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>161007</categoryId>
-        <portal_category_id>161007</portal_category_id>
-        <vendor>Art of Sex</vendor>
-        <vendorCode>SO8304</vendorCode>
-        <quantity_in_stock>2</quantity_in_stock>
-        <description>&lt;p style="text-align: justify;"&gt;Мужская портупея Art of Sex - Arcady изготовлена из натуральной кожи. Удобная и качественная, она дополнит любой эротический или провокационный образ. Сексуальный танец для партнера, практики с доминированием и подчинением или ролевые игры - эта портупея пригодится в каждом случае. Украшенная металлической фурнитурой, мужская портупея увеличит вашу уверенность в себе и подчеркнет сексуальность вашего тела. Используйте этот стильный аксессуар, чтобы приятно удивить партнера и добавить новых эмоций в интимную жизнь.&lt;/p&gt;
-
-&lt;p style="text-align: justify;"&gt;Характеристики:&lt;br /&gt;
-Материалы: натуральная кожа, металл&lt;/p&gt;</description>
-        <description_ua>&lt;p style="text-align: justify;"&gt;Чоловіча портупея Art of Sex - Arcady виготовлена із натуральної шкіри. Зручна і якісна, вона доповнить будь-який еротичний або провокаційний образ. Сексуальний танець для партнера, практики з домінуванням та підкоренням або рольові ігри &amp;ndash; ця портупея стане в нагоді у кожному випадку. Прикрашена металевою фурнітурою, чоловіча портупея збільшить вашу впевненість у собі та підкреслить сексуальність вашого тіла. Використайте цей стильний аксесуар, щоб приємно здивувати партнера і додати нових емоцій в інтимне життя.&lt;/p&gt;
-
-&lt;p style="text-align: justify;"&gt;Характеристики:&lt;br /&gt;
-Матеріали: натуральна шкіра, метал&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Тип товару:&lt;/b&gt; портупея/збруя&lt;/li&gt;&lt;li&gt;&lt;b&gt;Матеріал:&lt;/b&gt; Метал | Натуральна шкіра&lt;/li&gt;&lt;li&gt;&lt;b&gt;Колір:&lt;/b&gt; Чорний&lt;/li&gt;&lt;li&gt;&lt;b&gt;Країна-виробник:&lt;/b&gt; Україна&lt;/li&gt;&lt;/ul&gt;</description_ua>
-        <keywords_ua>портупея арт оф секс, art of sex arcady l-2xl, чорна портупея art of sex, портупея для рольових ігор, портупея на голе тіло чоловіча, шкіряна портупея для чоловіків на плечі, чоловіча портупея з металевими кільцями, портупея для стриптизу чоловіча, чоловіча портупея для домінування</keywords_ua>
-        <keywords>мужская портупея art of sex, мужская портупея арт оф секс, мужская портупея, портупея на голое тело мужская, кожаная портупея для мужчин на плечи, мужская портупея с металлическими кольцами, портупея для стриптиза мужская, мужская портупея для доминирования, портупея для ролевых игр мужская черная</keywords>
-        <dimensions>
-          <weight unit="kg">0.4</weight>
-          <width unit="cm">20</width>
-          <height unit="cm">15</height>
-          <length unit="cm">6</length>
-        </dimensions>
-        <param name="Матеріал">Метал | Натуральна шкіра</param>
-        <param name="Колір">Чорний</param>
         <param name="Тип товару">портупея/збруя</param>
         <param name="Країна-виробник">Україна</param>
-        <param name="Розмір">L</param>
       </offer>
       <offer id="SO8305" available="true" selling_type="r" in_stock="true" group_id="297589529">
         <name>Портупея женская с шипами Art of Sex - Demia Leather harness, Черная XS-M</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-17 14:25">
+<yml_catalog date="2026-10-17 16:25">
   <offers>
     <offer id="SO1890" available="true">
       <price>3359.00</price>
@@ -9,12 +9,32 @@
       <price>869.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SO4091" available="true">
+      <price>4999.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SX1870" available="true">
       <price>1339.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SX2101" available="true">
       <price>3559.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX1454" available="true">
+      <price>749.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO7845" available="true">
+      <price>199.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3206" available="true">
+      <price>849.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="F34716" available="true">
+      <price>689.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO6172" available="true">
@@ -48,6 +68,18 @@
     <offer id="SO2272" available="false">
       <price>1239.00</price>
       <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3229" available="true">
+      <price>629.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX3351" available="false">
+      <price>69.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SX3358" available="true">
+      <price>499.00</price>
+      <availability>in_stock</availability>
     </offer>
     <offer id="MD1571" available="false">
       <price>2479.00</price>
@@ -85,8 +117,28 @@
       <price>339.00</price>
       <availability>out_of_stock</availability>
     </offer>
+    <offer id="ACE001" available="true">
+      <price>3729.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO9257" available="true">
+      <price>1549.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SX2571" available="true">
       <price>6449.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2547" available="false">
+      <price>1039.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO1339" available="true">
+      <price>979.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX1967" available="true">
+      <price>2259.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO1883" available="false">
@@ -97,16 +149,16 @@
       <price>1379.00</price>
       <availability>out_of_stock</availability>
     </offer>
+    <offer id="SO9479" available="true">
+      <price>1289.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SO2222" available="true">
       <price>869.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO1768" available="true">
       <price>2439.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO4091" available="true">
-      <price>4999.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="ME003" available="true">
@@ -125,12 +177,20 @@
       <price>1649.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SX3477" available="true">
+      <price>8599.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SO2296" available="true">
       <price>1169.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO6288" available="true">
       <price>2189.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO1387" available="true">
+      <price>839.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SX1373" available="true">
@@ -141,10 +201,6 @@
       <price>2129.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX1454" available="true">
-      <price>749.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SX1960" available="true">
       <price>2169.00</price>
       <availability>in_stock</availability>
@@ -152,6 +208,10 @@
     <offer id="SO4415" available="true">
       <price>1929.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="PSM0123" available="false">
+      <price>939.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="PBS045W" available="true">
       <price>869.00</price>
@@ -163,6 +223,14 @@
     </offer>
     <offer id="SO3786" available="true">
       <price>759.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX3535" available="true">
+      <price>1219.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3222" available="true">
+      <price>629.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO3787" available="true">
@@ -193,6 +261,10 @@
       <price>299.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SX3893" available="true">
+      <price>3679.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SO6409" available="true">
       <price>2989.00</price>
       <availability>in_stock</availability>
@@ -205,12 +277,20 @@
       <price>169.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SO1895" available="true">
+      <price>1349.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SO6961" available="true">
       <price>599.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SX1961" available="true">
       <price>1929.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO1389" available="true">
+      <price>1139.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="PJ10060" available="false">
@@ -225,8 +305,24 @@
       <price>789.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SX0145" available="true">
+      <price>3319.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX0150" available="true">
+      <price>3579.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="PJ11860" available="true">
       <price>739.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX3911" available="true">
+      <price>4869.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX3936" available="true">
+      <price>849.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="E22147" available="false">
@@ -235,6 +331,10 @@
     </offer>
     <offer id="SX2572" available="true">
       <price>6939.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX3964" available="true">
+      <price>849.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO3241" available="true">
@@ -257,10 +357,6 @@
       <price>2129.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO7845" available="true">
-      <price>199.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="PS21905" available="false">
       <price>1759.00</price>
       <availability>out_of_stock</availability>
@@ -273,13 +369,17 @@
       <price>919.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3206" available="true">
-      <price>849.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="PS21912" available="false">
       <price>839.00</price>
       <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SX3992" available="true">
+      <price>1329.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX4039" available="true">
+      <price>8099.00</price>
+      <availability>in_stock</availability>
     </offer>
     <offer id="SX4434" available="true">
       <price>2229.00</price>
@@ -297,8 +397,24 @@
       <price>869.00</price>
       <availability>out_of_stock</availability>
     </offer>
+    <offer id="SX4049" available="true">
+      <price>1099.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX4470" available="true">
+      <price>3899.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SO3208" available="true">
       <price>849.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX0472" available="true">
+      <price>2409.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX4627" available="true">
+      <price>439.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO3211" available="true">
@@ -309,8 +425,24 @@
       <price>729.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SO3879" available="false">
+      <price>1049.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="SO2266" available="true">
       <price>1149.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="PJ10370" available="true">
+      <price>649.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO9998" available="true">
+      <price>1099.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3422" available="true">
+      <price>1219.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO7401" available="true">
@@ -329,8 +461,20 @@
       <price>759.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SO1390" available="true">
+      <price>1139.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="RO1302" available="false">
       <price>629.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3443" available="true">
+      <price>739.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2914" available="false">
+      <price>739.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SX2159" available="true">
@@ -361,21 +505,17 @@
       <price>559.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="F34716" available="true">
-      <price>689.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO1946" available="false">
       <price>559.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO1950" available="false">
-      <price>629.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SX2210" available="true">
       <price>4429.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO1950" available="false">
+      <price>629.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2276" available="false">
       <price>1579.00</price>
@@ -385,6 +525,10 @@
       <price>759.00</price>
       <availability>out_of_stock</availability>
     </offer>
+    <offer id="SO2367" available="true">
+      <price>769.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SO1341" available="true">
       <price>979.00</price>
       <availability>in_stock</availability>
@@ -393,17 +537,17 @@
       <price>899.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO1944" available="false">
-      <price>559.00</price>
-      <availability>out_of_stock</availability>
+    <offer id="SO2387" available="true">
+      <price>59.00</price>
+      <availability>in_stock</availability>
     </offer>
     <offer id="SX2353" available="true">
       <price>619.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3229" available="true">
-      <price>629.00</price>
-      <availability>in_stock</availability>
+    <offer id="SO1944" available="false">
+      <price>559.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO1366" available="true">
       <price>869.00</price>
@@ -429,9 +573,25 @@
       <price>829.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="AL40741" available="true">
+      <price>1429.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3676" available="false">
+      <price>1469.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="SO7867" available="true">
       <price>1779.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="HM-30-BR" available="false">
+      <price>7299.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="PS25105" available="false">
+      <price>2449.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX2449" available="true">
       <price>2849.00</price>
@@ -441,8 +601,28 @@
       <price>899.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="F17644" available="true">
+      <price>3719.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2278" available="false">
+      <price>1299.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="SO3245" available="true">
       <price>999.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3216" available="true">
+      <price>899.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3618" available="true">
+      <price>3799.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="NA002" available="true">
+      <price>449.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO2303" available="true">
@@ -461,37 +641,169 @@
       <price>2229.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SX1181" available="true">
+      <price>149.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="SX2718" available="true">
       <price>649.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SX1206" available="true">
+      <price>839.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="F16685" available="true">
+      <price>3699.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="PS21909" available="false">
+      <price>839.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO2797" available="true">
+      <price>1079.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2801" available="true">
+      <price>1019.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO1347" available="true">
+      <price>3199.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="PJ10460" available="true">
       <price>849.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="EEK001" available="false">
+      <price>339.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO2470" available="true">
+      <price>779.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2560" available="false">
+      <price>4879.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="F16012" available="true">
+      <price>619.00</price>
+      <availability>in_stock</availability>
+    </offer>
     <offer id="RO1678" available="true">
       <price>1429.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3823" available="true">
+      <price>2979.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3064" available="true">
+      <price>3699.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO3566" available="true">
       <price>3599.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SO3065" available="true">
+      <price>7499.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3071" available="true">
+      <price>979.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3609" available="false">
+      <price>1500.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3563" available="true">
+      <price>2129.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO1791" available="false">
+      <price>1029.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO2550" available="true">
+      <price>2089.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3096" available="false">
+      <price>1600.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="SX2583" available="true">
       <price>969.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2282" available="false">
+      <price>1629.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO2736" available="true">
+      <price>1229.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO1888" available="true">
       <price>2649.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SO1374" available="false">
+      <price>499.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="PS24609" available="false">
+      <price>3029.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="SO3445" available="true">
       <price>1099.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="PSS021R" available="false">
+      <price>779.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="PS24513" available="true">
+      <price>549.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="PS24519" available="true">
+      <price>549.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="GPS002" available="false">
+      <price>1439.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO2556" available="true">
+      <price>7279.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2215" available="true">
+      <price>14299.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO1569" available="false">
       <price>369.00</price>
       <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO2217" available="true">
+      <price>749.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2295" available="false">
+      <price>859.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3590" available="true">
+      <price>469.00</price>
+      <availability>in_stock</availability>
     </offer>
     <offer id="F16005" available="true">
       <price>519.00</price>
@@ -501,9 +813,61 @@
       <price>1449.00</price>
       <availability>out_of_stock</availability>
     </offer>
+    <offer id="MG22399" available="false">
+      <price>59.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="SO9240" available="true">
       <price>1349.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="PJ10170" available="false">
+      <price>799.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="AD11131" available="false">
+      <price>3789.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO1825" available="true">
+      <price>1019.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2268" available="false">
+      <price>1959.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3209" available="true">
+      <price>849.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="PSS017W" available="false">
+      <price>779.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO1386" available="true">
+      <price>839.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3622" available="true">
+      <price>2099.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2299" available="false">
+      <price>2639.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3548" available="true">
+      <price>99.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3565" available="true">
+      <price>2479.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO1886" available="false">
+      <price>1299.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO3255" available="true">
       <price>819.00</price>
@@ -521,8 +885,36 @@
       <price>949.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="AL40769" available="false">
+      <price>1899.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="AD108735" available="true">
+      <price>4199.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2561" available="true">
+      <price>5189.00</price>
+      <availability>in_stock</availability>
+    </offer>
+    <offer id="PBS057R" available="false">
+      <price>869.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="E24242" available="false">
+      <price>439.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="SO2734" available="false">
       <price>2299.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3069" available="false">
+      <price>1839.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="AD30310" available="false">
+      <price>599.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SX1380" available="true">
@@ -569,28 +961,12 @@
       <price>1299.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SX3351" available="false">
-      <price>69.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SX3358" available="true">
-      <price>499.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="ACE001" available="true">
-      <price>3729.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SX2162" available="true">
       <price>1789.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SX3388" available="true">
       <price>1519.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO9257" available="true">
-      <price>1549.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SX3663" available="true">
@@ -733,10 +1109,6 @@
       <price>2229.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO2547" available="false">
-      <price>1039.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="PMP002" available="false">
       <price>17499.00</price>
       <availability>out_of_stock</availability>
@@ -747,18 +1119,6 @@
     </offer>
     <offer id="SO9470" available="true">
       <price>1779.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO1339" available="true">
-      <price>979.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX1967" available="true">
-      <price>2259.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO9479" available="true">
-      <price>1289.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO9792" available="true">
@@ -781,28 +1141,8 @@
       <price>539.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX3477" available="true">
-      <price>8599.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO1387" available="true">
-      <price>839.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="PSM0123" available="false">
-      <price>939.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX3483" available="true">
       <price>3799.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX3535" available="true">
-      <price>1219.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3222" available="true">
-      <price>629.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SX3837" available="true">
@@ -817,36 +1157,12 @@
       <price>2719.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX3893" available="true">
-      <price>3679.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO1895" available="true">
-      <price>1349.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SX0088" available="true">
       <price>3649.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO1389" available="true">
-      <price>1139.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX0145" available="true">
-      <price>3319.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SX3900" available="true">
       <price>2389.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX0150" available="true">
-      <price>3579.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX3911" available="true">
-      <price>4869.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO1924" available="false">
@@ -857,20 +1173,8 @@
       <price>3129.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX3936" available="true">
-      <price>849.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX3964" available="true">
-      <price>849.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SX3966" available="true">
       <price>849.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX3992" available="true">
-      <price>1329.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO2135" available="true">
@@ -880,14 +1184,6 @@
     <offer id="F17002" available="false">
       <price>3719.00</price>
       <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SX4039" available="true">
-      <price>8099.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX4049" available="true">
-      <price>1099.00</price>
-      <availability>in_stock</availability>
     </offer>
     <offer id="SO3821" available="true">
       <price>2479.00</price>
@@ -901,24 +1197,8 @@
       <price>839.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX4470" available="true">
-      <price>3899.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX0472" available="true">
-      <price>2409.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX4627" available="true">
-      <price>439.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO3850" available="false">
       <price>1649.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO3879" available="false">
-      <price>1049.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="PS23204" available="false">
@@ -933,20 +1213,8 @@
       <price>699.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="PJ10370" available="true">
-      <price>649.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO3420" available="true">
       <price>599.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO9998" available="true">
-      <price>1099.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3422" available="true">
-      <price>1219.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="PS24608" available="false">
@@ -957,10 +1225,6 @@
       <price>349.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO1390" available="true">
-      <price>1139.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO3243" available="true">
       <price>689.00</price>
       <availability>in_stock</availability>
@@ -969,24 +1233,8 @@
       <price>939.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3443" available="true">
-      <price>739.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2914" available="false">
-      <price>739.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO3012" available="true">
       <price>489.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2367" available="true">
-      <price>769.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2387" available="true">
-      <price>59.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO2911" available="false">
@@ -1005,20 +1253,8 @@
       <price>939.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="AL40741" available="true">
-      <price>1429.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO1957" available="false">
       <price>2039.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO3676" available="false">
-      <price>1469.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="HM-30-BR" available="false">
-      <price>7299.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SO3696" available="false">
@@ -1028,10 +1264,6 @@
     <offer id="SO1614" available="true">
       <price>1139.00</price>
       <availability>in_stock</availability>
-    </offer>
-    <offer id="PS25105" available="false">
-      <price>2449.00</price>
-      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO1998" available="true">
       <price>3779.00</price>
@@ -1045,14 +1277,6 @@
       <price>4879.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="F17644" available="true">
-      <price>3719.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2278" available="false">
-      <price>1299.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="PJ10630" available="true">
       <price>459.00</price>
       <availability>in_stock</availability>
@@ -1065,29 +1289,9 @@
       <price>4299.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3216" available="true">
-      <price>899.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3618" available="true">
-      <price>3799.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="NA002" available="true">
-      <price>449.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="GPS001" available="false">
       <price>1439.00</price>
       <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SX1181" available="true">
-      <price>149.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX1206" available="true">
-      <price>839.00</price>
-      <availability>in_stock</availability>
     </offer>
     <offer id="SO5417" available="false">
       <price>2499.00</price>
@@ -1101,10 +1305,6 @@
       <price>800.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="F16685" available="true">
-      <price>3699.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO3162" available="true">
       <price>1399.00</price>
       <availability>in_stock</availability>
@@ -1113,69 +1313,25 @@
       <price>9999.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="PS21909" available="false">
-      <price>839.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO2797" available="true">
-      <price>1079.00</price>
+    <offer id="SX3243" available="true">
+      <price>399.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO2236" available="false">
       <price>469.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO2801" available="true">
-      <price>1019.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SX3243" available="true">
-      <price>399.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO1347" available="true">
-      <price>3199.00</price>
+    <offer id="SO3224" available="true">
+      <price>949.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO2241" available="false">
       <price>449.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO3224" available="true">
-      <price>949.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="EEK001" available="false">
-      <price>339.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO2470" available="true">
-      <price>779.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO2297" available="false">
       <price>1139.00</price>
       <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO2560" available="false">
-      <price>4879.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="F16012" available="true">
-      <price>619.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3823" available="true">
-      <price>2979.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3064" available="true">
-      <price>3699.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3065" available="true">
-      <price>7499.00</price>
-      <availability>in_stock</availability>
     </offer>
     <offer id="MG22382" available="true">
       <price>59.00</price>
@@ -1185,28 +1341,8 @@
       <price>7499.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3071" available="true">
-      <price>979.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3609" available="false">
-      <price>1500.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO1790" available="true">
       <price>1179.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3563" available="true">
-      <price>2129.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO1791" available="false">
-      <price>1029.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO2550" available="true">
-      <price>2089.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO3550" available="true">
@@ -1215,10 +1351,6 @@
     </offer>
     <offer id="SO3093" available="false">
       <price>850.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO3096" available="false">
-      <price>1600.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2634" available="true">
@@ -1233,28 +1365,12 @@
       <price>189.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO2282" available="false">
-      <price>1629.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO2736" available="true">
-      <price>1229.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="PBS060R" available="true">
       <price>869.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="PBS062W" available="false">
       <price>869.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO1374" available="false">
-      <price>499.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="PS24609" available="false">
-      <price>3029.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="PSS018R" available="false">
@@ -1265,28 +1381,16 @@
       <price>789.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="PSS021R" available="false">
+    <offer id="PSS021W" available="true">
       <price>779.00</price>
-      <availability>out_of_stock</availability>
+      <availability>in_stock</availability>
     </offer>
     <offer id="SO4055" available="false">
       <price>669.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="PSS021W" available="true">
-      <price>779.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="PS24513" available="true">
-      <price>549.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO2026" available="true">
       <price>699.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="PS24519" available="true">
-      <price>549.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO2042" available="true">
@@ -1297,36 +1401,12 @@
       <price>499.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="GPS002" available="false">
-      <price>1439.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO2556" available="true">
-      <price>7279.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO2287" available="true">
       <price>2139.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO2215" available="true">
-      <price>14299.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2217" available="true">
-      <price>749.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO3232" available="true">
       <price>949.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2295" available="false">
-      <price>859.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO3590" available="true">
-      <price>469.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO1359" available="true">
@@ -1341,17 +1421,9 @@
       <price>399.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="MG22399" available="false">
-      <price>59.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO3822" available="true">
       <price>3129.00</price>
       <availability>in_stock</availability>
-    </offer>
-    <offer id="PJ10170" available="false">
-      <price>799.00</price>
-      <availability>out_of_stock</availability>
     </offer>
     <offer id="F34709" available="true">
       <price>1149.00</price>
@@ -1361,14 +1433,6 @@
       <price>1129.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="AD11131" available="false">
-      <price>3789.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO1825" available="true">
-      <price>1019.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO1824" available="true">
       <price>629.00</price>
       <availability>in_stock</availability>
@@ -1376,10 +1440,6 @@
     <offer id="PS23701" available="true">
       <price>2969.00</price>
       <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2268" available="false">
-      <price>1959.00</price>
-      <availability>out_of_stock</availability>
     </offer>
     <offer id="PS23902" available="false">
       <price>2449.00</price>
@@ -1389,20 +1449,12 @@
       <price>2829.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3209" available="true">
-      <price>849.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="MD1359" available="true">
       <price>3199.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="MD1311" available="false">
       <price>2199.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="PSS017W" available="false">
-      <price>779.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="MD1328" available="false">
@@ -1421,10 +1473,6 @@
       <price>999.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO1386" available="true">
-      <price>839.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="E22146" available="false">
       <price>1159.00</price>
       <availability>out_of_stock</availability>
@@ -1433,77 +1481,29 @@
       <price>999.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO3622" available="true">
-      <price>2099.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2299" available="false">
-      <price>2639.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO2762" available="false">
       <price>369.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO3548" available="true">
-      <price>99.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3565" available="true">
-      <price>2479.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO2290" available="false">
       <price>1559.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SO1886" available="false">
-      <price>1299.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="AL40769" available="false">
-      <price>1899.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2546" available="false">
       <price>1039.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="AD108735" available="true">
-      <price>4199.00</price>
-      <availability>in_stock</availability>
-    </offer>
-    <offer id="SO2561" available="true">
-      <price>5189.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SO2641" available="false">
       <price>189.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="PBS057R" available="false">
-      <price>869.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="PJ10480" available="true">
       <price>849.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="E24242" available="false">
-      <price>439.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO2543" available="true">
       <price>1299.00</price>
       <availability>in_stock</availability>
-    </offer>
-    <offer id="SO3069" available="false">
-      <price>1839.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="AD30310" available="false">
-      <price>599.00</price>
-      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO1777" available="false">
       <price>859.00</price>
@@ -1917,12 +1917,12 @@
       <price>549.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3260" available="false">
-      <price>1059.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="MD1137" available="false">
       <price>1089.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3260" available="false">
+      <price>1059.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="PS25211" available="false">
@@ -2057,13 +2057,13 @@
       <price>689.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3256" available="false">
-      <price>569.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="PBS001B" available="true">
       <price>869.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3256" available="false">
+      <price>569.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2799" available="true">
       <price>1019.00</price>
@@ -2553,16 +2553,16 @@
       <price>1059.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO2220" available="false">
-      <price>1119.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO1835" available="true">
       <price>639.00</price>
       <availability>in_stock</availability>
     </offer>
     <offer id="SO4453" available="false">
       <price>1600.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO2220" available="false">
+      <price>1119.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2221" available="false">
@@ -2577,12 +2577,12 @@
       <price>3029.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO2224" available="false">
-      <price>799.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="PSS017R" available="false">
       <price>779.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO2224" available="false">
+      <price>799.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="MD1410" available="true">
@@ -3413,13 +3413,13 @@
       <price>1839.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO4695" available="false">
-      <price>559.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="ATH-001B" available="true">
       <price>1419.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO4695" available="false">
+      <price>559.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO4938" available="true">
       <price>889.00</price>
@@ -3449,13 +3449,13 @@
       <price>3499.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO4700" available="false">
-      <price>559.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="MD0833" available="true">
       <price>3469.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO4700" available="false">
+      <price>559.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="MD1083" available="true">
       <price>3469.00</price>
@@ -3469,13 +3469,13 @@
       <price>1639.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO4705" available="false">
-      <price>499.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="MD0857" available="true">
       <price>1639.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO4705" available="false">
+      <price>499.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO3605" available="true">
       <price>149.00</price>
@@ -6025,13 +6025,13 @@
       <price>869.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO2203-R" available="false">
-      <price>1719.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO3841" available="true">
       <price>2499.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2203-R" available="false">
+      <price>1719.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2840" available="true">
       <price>939.00</price>
@@ -6537,16 +6537,12 @@
       <price>1829.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO3724" available="false">
-      <price>759.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="EL13401" available="false">
       <price>1829.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO3726" available="false">
-      <price>1239.00</price>
+    <offer id="SO3724" available="false">
+      <price>759.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="PSM0182" available="true">
@@ -6557,6 +6553,10 @@
       <price>1100.00</price>
       <availability>out_of_stock</availability>
     </offer>
+    <offer id="SO3726" available="false">
+      <price>1239.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="EL13802" available="false">
       <price>1829.00</price>
       <availability>out_of_stock</availability>
@@ -6565,20 +6565,20 @@
       <price>329.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO3727" available="false">
-      <price>1239.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO2602" available="true">
       <price>7199.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3729" available="false">
-      <price>1169.00</price>
+    <offer id="SO3727" available="false">
+      <price>1239.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="PBS035P" available="false">
       <price>869.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO3729" available="false">
+      <price>1169.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="AL40563" available="true">
@@ -6721,13 +6721,13 @@
       <price>779.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO3745" available="false">
-      <price>1769.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO3470" available="true">
       <price>4599.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO3745" available="false">
+      <price>1769.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="PSS005W" available="false">
       <price>779.00</price>
@@ -9237,12 +9237,12 @@
       <price>739.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO5511" available="false">
-      <price>3689.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO5512" available="false">
       <price>4239.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SO5511" available="false">
+      <price>3689.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SO5513" available="true">
@@ -11665,12 +11665,12 @@
       <price>4079.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SX2549-R" available="false">
-      <price>99.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO6219" available="false">
       <price>3679.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SX2549-R" available="false">
+      <price>99.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SO7230" available="true">
@@ -12633,10 +12633,6 @@
       <price>559.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO7126" available="false">
-      <price>549.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO6868" available="true">
       <price>1649.00</price>
       <availability>in_stock</availability>
@@ -12644,6 +12640,10 @@
     <offer id="SO7305" available="true">
       <price>2919.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO7126" available="false">
+      <price>549.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO4350" available="true">
       <price>659.00</price>
@@ -13125,9 +13125,9 @@
       <price>2000.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO6637" available="true">
+    <offer id="SO6637" available="false">
       <price>4239.00</price>
-      <availability>in_stock</availability>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO4789" available="false">
       <price>2000.00</price>
@@ -13265,9 +13265,9 @@
       <price>1339.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO4812" available="true">
+    <offer id="SO4812" available="false">
       <price>1339.00</price>
-      <availability>in_stock</availability>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2842" available="true">
       <price>8189.00</price>
@@ -13445,13 +13445,13 @@
       <price>4349.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO4864" available="false">
-      <price>5399.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO8557" available="true">
       <price>1049.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO4864" available="false">
+      <price>5399.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO4865" available="true">
       <price>3199.00</price>
@@ -13681,10 +13681,6 @@
       <price>209.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO2218-R" available="false">
-      <price>839.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO2730" available="false">
       <price>7199.00</price>
       <availability>out_of_stock</availability>
@@ -13692,6 +13688,10 @@
     <offer id="SO7764" available="true">
       <price>869.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2218-R" available="false">
+      <price>839.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2731" available="false">
       <price>5569.00</price>
@@ -16137,13 +16137,13 @@
       <price>2799.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="F19532-R" available="false">
-      <price>4429.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO5438" available="true">
       <price>1739.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="F19532-R" available="false">
+      <price>4429.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO5439" available="true">
       <price>1799.00</price>
@@ -16573,21 +16573,21 @@
       <price>1549.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO5603" available="false">
-      <price>1199.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO7368" available="true">
       <price>699.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO5604" available="false">
-      <price>1249.00</price>
+    <offer id="SO5603" available="false">
+      <price>1199.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SO9277" available="true">
       <price>919.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO5604" available="false">
+      <price>1249.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO3515" available="false">
       <price>1100.00</price>
@@ -17897,10 +17897,6 @@
       <price>2369.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO2365-R" available="false">
-      <price>499.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO5977" available="true">
       <price>3289.00</price>
       <availability>in_stock</availability>
@@ -17908,6 +17904,10 @@
     <offer id="SO5978" available="true">
       <price>3289.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2365-R" available="false">
+      <price>499.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO2377-R" available="true">
       <price>519.00</price>
@@ -19289,10 +19289,6 @@
       <price>499.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO6726-R" available="false">
-      <price>2009.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO6478" available="true">
       <price>499.00</price>
       <availability>in_stock</availability>
@@ -19300,6 +19296,10 @@
     <offer id="SO6479" available="true">
       <price>499.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO6726-R" available="false">
+      <price>2009.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO6482" available="true">
       <price>499.00</price>
@@ -26125,13 +26125,13 @@
       <price>789.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="MD0548-R" available="false">
-      <price>1269.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO8629" available="true">
       <price>529.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="MD0548-R" available="false">
+      <price>1269.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO8631" available="true">
       <price>2379.00</price>
@@ -27677,12 +27677,12 @@
       <price>3389.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX0801-R" available="false">
-      <price>11559.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO8842" available="false">
       <price>2049.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SX0801-R" available="false">
+      <price>11559.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SX1600" available="false">
@@ -28121,13 +28121,13 @@
       <price>1259.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO7808-R" available="false">
-      <price>839.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX0186" available="true">
       <price>3989.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO7808-R" available="false">
+      <price>839.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO8895" available="false">
       <price>1429.00</price>
@@ -28241,9 +28241,17 @@
       <price>3679.00</price>
       <availability>in_stock</availability>
     </offer>
+    <offer id="SX0223" available="false">
+      <price>3939.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
     <offer id="SX3842-R" available="false">
       <price>1169.00</price>
       <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SX1825" available="true">
+      <price>819.00</price>
+      <availability>in_stock</availability>
     </offer>
     <offer id="SO7772-R" available="false">
       <price>2029.00</price>
@@ -28252,14 +28260,6 @@
     <offer id="SO6280-R" available="false">
       <price>2239.00</price>
       <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SX0223" available="false">
-      <price>3939.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
-    <offer id="SX1825" available="true">
-      <price>819.00</price>
-      <availability>in_stock</availability>
     </offer>
     <offer id="SX1903" available="true">
       <price>869.00</price>
@@ -28405,10 +28405,6 @@
       <price>869.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO8947" available="false">
-      <price>779.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX0274" available="true">
       <price>3459.00</price>
       <availability>in_stock</availability>
@@ -28416,6 +28412,10 @@
     <offer id="SX1955" available="true">
       <price>2179.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO8947" available="false">
+      <price>779.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO8948" available="true">
       <price>779.00</price>
@@ -31073,9 +31073,9 @@
       <price>3359.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO7299" available="true">
+    <offer id="SO7299" available="false">
       <price>969.00</price>
-      <availability>in_stock</availability>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX1802" available="true">
       <price>1079.00</price>
@@ -31381,9 +31381,9 @@
       <price>12799.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SX1258" available="true">
+    <offer id="SX1258" available="false">
       <price>139.00</price>
-      <availability>in_stock</availability>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX1263" available="true">
       <price>159.00</price>
@@ -33225,10 +33225,6 @@
       <price>2789.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO7002-R" available="false">
-      <price>1429.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO8448" available="true">
       <price>2279.00</price>
       <availability>in_stock</availability>
@@ -33236,6 +33232,10 @@
     <offer id="SX2612" available="true">
       <price>339.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO7002-R" available="false">
+      <price>1429.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO8451" available="true">
       <price>3249.00</price>
@@ -35945,13 +35945,13 @@
       <price>4899.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO8784-R" available="false">
-      <price>1199.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX0422" available="true">
       <price>1139.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO8784-R" available="false">
+      <price>1199.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO9345" available="false">
       <price>1600.00</price>
@@ -43277,10 +43277,6 @@
       <price>1899.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX2620" available="false">
-      <price>319.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX3629" available="true">
       <price>589.00</price>
       <availability>in_stock</availability>
@@ -43288,6 +43284,10 @@
     <offer id="SX3630" available="true">
       <price>589.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SX2620" available="false">
+      <price>319.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX1351-R" available="true">
       <price>199.00</price>
@@ -44085,13 +44085,13 @@
       <price>499.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX2296-R" available="false">
-      <price>3599.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX3045" available="true">
       <price>1999.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SX2296-R" available="false">
+      <price>3599.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX3695" available="true">
       <price>529.00</price>
@@ -44393,13 +44393,13 @@
       <price>17899.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO5304-R" available="false">
-      <price>699.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX3180" available="true">
       <price>639.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO5304-R" available="false">
+      <price>699.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX4123" available="true">
       <price>3189.00</price>
@@ -44501,13 +44501,13 @@
       <price>2949.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX1520-R" available="false">
-      <price>199.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX3163" available="true">
       <price>2949.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SX1520-R" available="false">
+      <price>199.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX3841" available="true">
       <price>1249.00</price>
@@ -44921,13 +44921,13 @@
       <price>649.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SX3307-R" available="true">
-      <price>1129.00</price>
-      <availability>in_stock</availability>
-    </offer>
     <offer id="SX1451-R" available="false">
       <price>569.00</price>
       <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SX3307-R" available="true">
+      <price>1129.00</price>
+      <availability>in_stock</availability>
     </offer>
     <offer id="SX3651" available="true">
       <price>1389.00</price>
@@ -46565,13 +46565,13 @@
       <price>3399.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO2387-R" available="false">
-      <price>19.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX3879" available="true">
       <price>1519.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO2387-R" available="false">
+      <price>19.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX4116" available="true">
       <price>4149.00</price>
@@ -47065,10 +47065,6 @@
       <price>3189.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SO7377-R" available="false">
-      <price>2099.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX3017-R" available="false">
       <price>1099.00</price>
       <availability>out_of_stock</availability>
@@ -47076,6 +47072,10 @@
     <offer id="SX4127" available="true">
       <price>3439.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SO7377-R" available="false">
+      <price>2099.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX4214" available="true">
       <price>3579.00</price>
@@ -47693,13 +47693,13 @@
       <price>1159.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX3289-R" available="false">
-      <price>1929.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX4230" available="true">
       <price>699.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SX3289-R" available="false">
+      <price>1929.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX4233" available="true">
       <price>839.00</price>
@@ -48017,12 +48017,12 @@
       <price>4029.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SX4230-R" available="false">
-      <price>599.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SO7780-R" available="false">
       <price>2289.00</price>
+      <availability>out_of_stock</availability>
+    </offer>
+    <offer id="SX4230-R" available="false">
+      <price>599.00</price>
       <availability>out_of_stock</availability>
     </offer>
     <offer id="SX2718-R" available="true">
@@ -48293,10 +48293,6 @@
       <price>2209.00</price>
       <availability>in_stock</availability>
     </offer>
-    <offer id="SX4296-R" available="false">
-      <price>1189.00</price>
-      <availability>out_of_stock</availability>
-    </offer>
     <offer id="SX3666-R" available="true">
       <price>629.00</price>
       <availability>in_stock</availability>
@@ -48304,6 +48300,10 @@
     <offer id="SX3309-R" available="true">
       <price>629.00</price>
       <availability>in_stock</availability>
+    </offer>
+    <offer id="SX4296-R" available="false">
+      <price>1189.00</price>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SX4233-R" available="false">
       <price>699.00</price>
@@ -50117,9 +50117,9 @@
       <price>229.00</price>
       <availability>out_of_stock</availability>
     </offer>
-    <offer id="SO1453" available="true">
+    <offer id="SO1453" available="false">
       <price>1179.00</price>
-      <availability>in_stock</availability>
+      <availability>out_of_stock</availability>
     </offer>
     <offer id="SO1455" available="false">
       <price>519.00</price>

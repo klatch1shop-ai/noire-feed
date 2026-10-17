@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-17 14:20">
+<yml_catalog date="2026-10-17 16:20">
   <shop>
     <name>klatch1 shop</name>
     <company>3721108</company>
@@ -33052,7 +33052,7 @@
         <param name="Країна виробник">США</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SO1453" available="true">
+      <offer id="SO1453" available="false">
         <price>1179</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -33063,7 +33063,7 @@
         <picture>https://sexopt.com.ua/content/images/12/so1453-52833566455980.jpg</picture>
         <vendor>JO</vendor>
         <article>SO1453</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант JO H2O JELLY ORIGINAL 120 мл (SO1453)</name_ua>
         <name>Лубрикант JO H2O JELLY ORIGINAL 120 мл (SO1453)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Представляємо вам гель-лубрикант на водній основі JO H2O JELLY &amp;mdash; ORIGINAL, (120 мл) &amp;mdash; з колекції інтимних лубрикантів на водній основі, створений для любовних ігор у нестандартних умовах. Середня в&amp;rsquo;язкість і щільніша текстура роблять цей засіб майстерним партнером під час самостійних пестощів, пестощів у парі й особливо під час застосування сексуальних іграшок.&lt;/p&gt;
@@ -36396,7 +36396,7 @@
         <picture>https://sexopt.com.ua/content/images/35/so1790-40562147317772.jpg</picture>
         <vendor>JO</vendor>
         <article>SO1790</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Лубрикант JO H2O GEL ORIGINAL 240 мл (SO1790)</name_ua>
         <name>Лубрикант JO H2O GEL ORIGINAL 240 мл (SO1790)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;JO&amp;reg; H2O GEL ДЛЯ ЧОЛОВІКІВ &amp;mdash; це інтимний лубрикант на водній основі, призначений для зволоження та підвищення сексуальної активності, особливо добре підходить для мастурбації. JO&amp;reg; H2O GEL ДЛЯ ЧОЛОВІКІВ виготовлений із використанням гліцерину виключно рослинного походження й має особливу густу консистенцію, що дарує абсолютно нові відчуття. Завдяки особливій гелеподібній текстурі лубрикант не розтікається, а залишається саме там, куди ви його нанесли, забезпечуючи тривале ковзання без липкості. Його формула розроблена спеціально для сексуальних іграшок, сумісна з багатьма матеріалами та легко змивається.&lt;/p&gt;
@@ -65022,14 +65022,14 @@
         <param name="Країна-виробник">Канада</param>
         <param name="Країна реєстрації бренда">Канада</param>
       </offer>
-      <offer id="SO4812" available="true">
+      <offer id="SO4812" available="false">
         <price>1339</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
         <picture>https://sexopt.com.ua/content/images/46/so4812-52087135709549.jpg</picture>
         <vendor>Shunga</vendor>
         <article>SO4812</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Олія для тіла Shunga Amour Sweet Lotus 240 мл (SO4812)</name_ua>
         <name>Олія для тіла Shunga Amour Sweet Lotus 240 мл (SO4812)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Масажна олія зі 100% натуральних компонентів Shunga Amour &amp;ndash;Sweet Lotus з ароматом лотосу. Розкішна ніжна текстура сприяє рівномірному та легкому нанесенню, чудово зволожує та пом&amp;#39;якшує шкіру, не залишаючи жирного блиску. Олія ідеально підходить для розслаблювального масажу, а також для пристрасних і чуттєвих ласк, котрі хвилюють уяву. Для яскравіших відчуттів олію можна злегка підігріти або потримати в долонях, щоб вона прийняла температуру вашого тіла.&lt;/p&gt;</description>
@@ -112929,7 +112929,7 @@
         <param name="Матеріал">Атлас</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SO7299" available="true">
+      <offer id="SO7299" available="false">
         <price>969</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -112937,7 +112937,7 @@
         <picture>https://sexopt.com.ua/content/images/48/so7299-46435361542147.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO7299</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Рукавички Obsessive Obsessivia gloves O S S Чорний (SO7299)</name_ua>
         <name>Рукавички Obsessive Obsessivia gloves O S S Чорний (SO7299)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Рекомендуємо купити довгі сітчасті рукавички Obsessive Obsessivia gloves black &amp;mdash; сексуальний і дуже пікантний елемент жіночого гардеробу. Цей чудовий аксесуар доповнить будь-який комплект білизни, додасть вашому образу пристрасності.&lt;/p&gt;
@@ -178690,7 +178690,7 @@
         <picture>https://sexopt.com.ua/content/images/41/sx0347-85506659620881.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX0347</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Комбінезон Noir Handmade F319 Caged L (SX0347)</name_ua>
         <name>Комбінезон Noir Handmade F319 Caged L (SX0347)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо вам купити комбінезон Noir Handmade F319 Caged &amp;mdash; гріховно-спокусливий і водночас дуже практичний. Ця модель допоможе вам втілити фантазії про секс в одязі або створити чудовий образ для БДСМ-сесії.&amp;nbsp;&lt;/p&gt;
