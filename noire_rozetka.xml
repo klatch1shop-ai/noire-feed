@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 09:20">
+<yml_catalog date="2026-11-26 13:20">
   <shop>
     <name>klatch1 shop</name>
     <company>3721108</company>
@@ -425,7 +425,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="EL10902" available="true">
+      <offer id="EL10902" available="false">
         <price>1829</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -434,7 +434,7 @@
         <picture>https://sexopt.com.ua/content/images/24/el10902-94875438199867.jpg</picture>
         <vendor>Passion</vendor>
         <article>EL10902</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Комплект Passion CAPRI S/M Чорний (EL10902)</name_ua>
         <name>Комплект Passion CAPRI S/M Чорний (EL10902)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Простий сет з декором, прекрасний у своїй лаконічності і кричущий відвертості. Еротичний комплект Passion Erotic Line CAPRI SET - ефективніше, ніж що-небудь, може загострити атмосферу в спальні і збудити партнера.&lt;/p&gt;
@@ -1593,7 +1593,7 @@
         <picture>https://sexopt.com.ua/content/images/47/el13301-89090384020280.jpg</picture>
         <vendor>Passion</vendor>
         <article>EL13301</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Корсет Passion PALOMA CORSET L/XL Білий (EL13301)</name_ua>
         <name>Корсет Passion PALOMA CORSET L/XL Білий (EL13301)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Спекотний і сексуальний білий корсет Passion Erotic Line PALOMA CORSET - шикарний спосіб здивувати свого чоловіка новим відвертим і нестандартним образом. Трохи подовжений поділ відмінно окреслює плавність стегон, фокусує увагу на ніжках і мініатюрних трусиках. Пишний бюст, талія, ніжність ліній і опуклість форм роблять улюблене і знайоме тіло ще привабливішим, вдихаючи нове життя в сексуальні насолоди і попередні ігри.&lt;/p&gt;
@@ -1940,7 +1940,7 @@
         <picture>https://sexopt.com.ua/content/images/38/el14701-44523436910277.jpg</picture>
         <vendor>Passion</vendor>
         <article>EL14701</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Комплект Passion AMORE Чорний (EL14701)</name_ua>
         <name>Комплект Passion AMORE Чорний (EL14701)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;У нашому магазині ви можете купити ефектний комплект білизни Passion Erotic Line AMORE SET, який вигідно вирізняється з-поміж інших моделей еротичної білизни. Цікавий дизайн у поєднанні з невисокою вартістю, роблять цей комплект ідеальним варіантом для спекотної прелюдії. Комплект складається з довгої смужки напівпрозорої тканини і мініатюрного трикутника стрінгів. Щоб правильно надіти білизну: прикладіть до грудей тканину, потім заведіть її кінці на спину і перехрестите їх, протягніть тканину в спеціальні петельки на стрінгах, а потім зав&amp;#39;яжіть пишний красивий бант. Надайте своєму образу привабливості і сексуальності з ефектним комплектом білизни для зваблення Passion AMORE SET.&lt;/p&gt;
@@ -3558,7 +3558,7 @@
         <picture>https://sexopt.com.ua/content/images/9/el16024-34385469907689.jpg</picture>
         <vendor>Passion</vendor>
         <article>EL16024</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Трусики Passion MT003 Білий (EL16024)</name_ua>
         <name>Трусики Passion MT003 Білий (EL16024)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити трусики MT003 white - Passion - супер мінімалістичну модель, яка ідеально підійде, як для еротичних ігор, так і в якості непомітної білизни під облягаючий одяг.&lt;/p&gt;
@@ -4534,14 +4534,14 @@
         <param name="Країна виробник">Іспанія</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="F10492" available="false">
+      <offer id="F10492" available="true">
         <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/42/f10492-29202441776837.jpg</picture>
         <vendor>Fleshlight</vendor>
         <article>F10492</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Fleshlight Fleshlube Slide Anal Lube 250 мл (F10492)</name_ua>
         <name>Лубрикант Fleshlight Fleshlube Slide Anal Lube 250 мл (F10492)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Fleshlube Slide Anal Lube - це змазка, яка була спеціально розроблена для анального сексу і ніжна для чутливої ​​шкіри. Вона більш густа у порівнянні з іншими змазками Fleshlube для того, щоб збільшити тривалість ваших інтимних моментів.&lt;/p&gt;
@@ -4665,14 +4665,14 @@
         <param name="Країна виробник">Іспанія</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="F34983" available="false">
+      <offer id="F34983" available="true">
         <price>1149</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/47/f34983-42630113751477.jpg</picture>
         <vendor>Fleshlight</vendor>
         <article>F34983</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Fleshlight Fleshlube Ice 250 мл (F34983)</name_ua>
         <name>Лубрикант Fleshlight Fleshlube Ice 250 мл (F34983)</name>
         <description>&lt;p align=&quot;JUSTIFY&quot; lang=&quot;ru-RU&quot; style=&quot;font-style: normal&quot;&gt;Fleshlube Ice є однією з кращих охолоджувальних змазок на ринку сьогодні. Лубрикант Fleshlube Ice подарує вам приємне пощипування (поколювання) під час контакту&amp;nbsp;з ніжною шкірою інтимних місць. Виготовлена ​​з високоякісних компонентів, що застосовуються в медицині, ця змазка внесе нову, освіжальну нотку в процес самозадоволення.&lt;/p&gt;
@@ -5319,7 +5319,7 @@
         <param name="Країна реєстрації бренду">Люксембург</param>
         <param name="Сумісність з презервативом">З латексним</param>
       </offer>
-      <offer id="PJ10060" available="false">
+      <offer id="PJ10060" available="true">
         <price>979</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -5328,7 +5328,7 @@
         <picture>https://sexopt.com.ua/content/images/34/pj10060-27461265752147.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ10060</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur Original 100 мл (PJ10060)</name_ua>
         <name>Лубрикант Pjur Original 100 мл (PJ10060)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Розраховуєте на тривалі любовні ігри та підшукуєте відповідний лубрикант? Рекомендуємо купити універсальний&amp;nbsp;лубрикант на силіконовій основі pjur Original &amp;mdash; з нею ви дізнаєтеся, що таке по-справжньому стійке зволоження! Особливість продукту &amp;mdash; високоякісний силікон, який створює на поверхні гладеньку плівку, забезпечуючи тривале комфортне ковзання. Водночас у силіконового &amp;laquo;бар&amp;rsquo;єра&amp;raquo; є бонусний ефект: він робить шкіру м&amp;rsquo;якою, гладенькою і шовковистою. Такий&amp;nbsp;лубрикант підійде не тільки для інтимної близькості, але і для масажу. Крім того, вона сумісна із латексними презервативами.&lt;/p&gt;
@@ -5413,7 +5413,7 @@
         <param name="Країна реєстрації бренду">Люксембург</param>
         <param name="Сумісність з презервативом">З латексним</param>
       </offer>
-      <offer id="PJ10070" available="false">
+      <offer id="PJ10070" available="true">
         <price>1849</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -5421,7 +5421,7 @@
         <picture>https://sexopt.com.ua/content/images/35/pj10070-15018075078816.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ10070</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur Original 250 мл (PJ10070)</name_ua>
         <name>Лубрикант Pjur Original 250 мл (PJ10070)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Розраховуєте на тривалі любовні ігри та підшукуєте відповідний лубрикант? Рекомендуємо купити універсальний&amp;nbsp;лубрикант на силіконовій основі pjur Original &amp;mdash; з нею ви дізнаєтеся, що таке по-справжньому стійке зволоження! Особливість продукту &amp;mdash; високоякісний силікон, який створює на поверхні гладеньку плівку, забезпечуючи тривале комфортне ковзання. Водночас у силіконового &amp;laquo;бар&amp;rsquo;єра&amp;raquo; є бонусний ефект: він робить шкіру м&amp;rsquo;якою, гладенькою і шовковистою. Такий&amp;nbsp;лубрикант підійде не тільки для інтимної близькості, але і для масажу. Крім того, вона сумісна із латексними презервативами.&lt;/p&gt;
@@ -5550,7 +5550,7 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="PJ10160" available="false">
+      <offer id="PJ10160" available="true">
         <price>409</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -5559,7 +5559,7 @@
         <picture>https://sexopt.com.ua/content/images/36/pj10160-98383317890005.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ10160</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur Woman 30 мл (PJ10160)</name_ua>
         <name>Лубрикант Pjur Woman 30 мл (PJ10160)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Жіноча шкіра в інтимних зонах характеризується особливою м&amp;rsquo;якістю та чутливістю, і тому потребує підвищеної уваги. Пропонуємо вам купити лубрикант на силіконовій основі pjur Woman &amp;mdash; продукт, розроблений з урахуванням усіх особливостей жіночої шкіри та слизових оболонок. У складі цього&amp;nbsp;лубриканту немає ні ароматичних речовин, ні консервантів. А доступна ціна робить купівлю ще приємнішою.&lt;/p&gt;
@@ -5628,7 +5628,7 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="PJ10170" available="false">
+      <offer id="PJ10170" available="true">
         <price>799</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -5636,7 +5636,7 @@
         <picture>https://sexopt.com.ua/content/images/37/pj10170-38047978957805.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ10170</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur Woman 100 мл (PJ10170)</name_ua>
         <name>Лубрикант Pjur Woman 100 мл (PJ10170)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Жіноча шкіра в інтимних зонах характеризується особливою м&amp;rsquo;якістю та чутливістю, і тому потребує підвищеної уваги. Пропонуємо вам купити лубрикант на силіконовій основі pjur Woman &amp;mdash; продукт, розроблений з урахуванням усіх особливостей жіночої шкіри та слизових оболонок. У складі цього&amp;nbsp;лубриканту немає ні ароматичних речовин, ні консервантів. А доступна ціна робить купівлю ще приємнішою.&lt;/p&gt;
@@ -5794,7 +5794,7 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="PJ10270" available="true">
+      <offer id="PJ10270" available="false">
         <price>789</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -5802,7 +5802,7 @@
         <picture>https://sexopt.com.ua/content/images/42/pj10270-78902480943239.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ10270</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Pjur Basic Silicone 100 мл (PJ10270)</name_ua>
         <name>Лубрикант Pjur Basic Silicone 100 мл (PJ10270)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Хочете вперше спробувати лубрикант на силіконовій основі й не знаєте, який вибрати? Пропонуємо вам купити силіконовий&amp;nbsp;лубрикант pjur Basic Silicone &amp;mdash; це популярний продукт бренду pjur з найкращим поєднанням ціни та якості. Лубрикант забезпечує тривалий змащувальний ефект і сумісний із презервативами.&lt;/p&gt;
@@ -7277,7 +7277,7 @@
         <param name="Країна реєстрації бренду">Люксембург</param>
         <param name="Сумісність з презервативом">З латексним</param>
       </offer>
-      <offer id="PJ10520" available="false">
+      <offer id="PJ10520" available="true">
         <price>539</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -7286,7 +7286,7 @@
         <picture>https://sexopt.com.ua/content/images/47/pj10520-95394295230361.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ10520</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur BACK DOOR Relaxing 30 мл (PJ10520)</name_ua>
         <name>Лубрикант Pjur BACK DOOR Relaxing 30 мл (PJ10520)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Анальний секс, особливо енергійний та імпульсивний, потребує особливо ретельної підготовки. Саме тому рекомендуємо вам купити анальний&amp;nbsp;лубрикант pjur BACK DOOR Relaxing. Цей продукт характеризується особливо високою концентрацією та розроблений спеціально для інтенсивної анальної стимуляції. Поєднання олій жожоба й амірису надає розслаблювальну дію, а високоякісний силікон забезпечує супертривале гладеньке ковзання. Крім того, лубрикант не містить анестетиків, таких як лідокаїн або бензокаїн, так що ви можете використовувати його хоч кожен день.&lt;/p&gt;
@@ -7515,7 +7515,7 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="PJ10550" available="false">
+      <offer id="PJ10550" available="true">
         <price>469</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -7524,7 +7524,7 @@
         <picture>https://sexopt.com.ua/content/images/8/pj10550-67865613651957.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ10550</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur myglide 30 мл (PJ10550)</name_ua>
         <name>Лубрикант Pjur myglide 30 мл (PJ10550)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Любителькам гарячого сексу рекомендуємо купити збуджувальний&amp;nbsp;лубикант на водній основі pjur myglide. Цей продукт із подвійним ефектом розроблений спеціально для жіночої насолоди. Він не тільки зволожує шкіру та слизові, але й посилює збудження завдяки легкому розігріву. Комплексну дію забезпечує унікальна комбінація активних компонентів, серед яких екстракт кореня женьшеню &amp;mdash; відомого афродизіаку.&lt;/p&gt;
@@ -8248,7 +8248,7 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="PJ10780" available="false">
+      <offer id="PJ10780" available="true">
         <price>1129</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -8259,7 +8259,7 @@
         <picture>https://sexopt.com.ua/content/images/49/pj10780-68650548365244.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ10780</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur med Premium 100 мл (PJ10780)</name_ua>
         <name>Лубрикант Pjur med Premium 100 мл (PJ10780)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Шукаєте гіпоалергенний лубрикант, який не тільки має довготривалий ефект, але й доглядає за шкірою? Пропонуємо купити силіконовий&amp;nbsp;лубрикант pjur med Premium &amp;mdash; вона спеціально розроблена для сухої та чутливої ​​шкіри в інтимних зонах. Продукт виготовлений із високоякісних силіконових полімерів: диметикон забезпечує тривале гладеньке ковзання, а диметиконол делікатно зволожує шкіру, роблячи її шовковистою та гладенькою. Лубрикант має дуже легку текстуру, тому не забиває пори й дає змогу шкірі дихати.&lt;/p&gt;
@@ -8931,7 +8931,7 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="PJ11670" available="true">
+      <offer id="PJ11670" available="false">
         <price>1879</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -8939,7 +8939,7 @@
         <picture>https://sexopt.com.ua/content/images/36/pj11670-45136972803229.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ11670</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Pjur Woman 250 мл (PJ11670)</name_ua>
         <name>Лубрикант Pjur Woman 250 мл (PJ11670)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Жіноча шкіра в інтимних зонах характеризується особливою м&amp;rsquo;якістю та чутливістю, і тому потребує підвищеної уваги. Пропонуємо вам купити лубрикант на силіконовій основі pjur Woman &amp;mdash; продукт, розроблений з урахуванням усіх особливостей жіночої шкіри та слизових оболонок. У складі цього&amp;nbsp;лубриканту немає ні ароматичних речовин, ні консервантів. А доступна ціна робить купівлю ще приємнішою.&lt;/p&gt;
@@ -9538,7 +9538,7 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="PJ11770" available="false">
+      <offer id="PJ11770" available="true">
         <price>939</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -9546,7 +9546,7 @@
         <picture>https://sexopt.com.ua/content/images/4/pj11770-66483983213582.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ11770</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur BACK DOOR Moisturising 100 мл (PJ11770)</name_ua>
         <name>Лубрикант Pjur BACK DOOR Moisturising 100 мл (PJ11770)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Рекомендуємо купити анальний&amp;nbsp;лубрикант pjur BACK DOOR Moisturising. Цей продукт підійде для інтенсивної анальної стимуляції та порадує вас тривалим ковзанням, як під час використання силікону, але абсолютно без силікону. Такий ефект можливий завдяки високій концентрації гіалурону в складі: він надає зволожувальну дію, усуває сухість і підвищує тонус шкіри. Крім того, завдяки водній основі лубрикант можна використовувати з будь-якими секс-іграшками.&lt;/p&gt;
@@ -9674,7 +9674,7 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="PJ11780" available="false">
+      <offer id="PJ11780" available="true">
         <price>2129</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -9683,7 +9683,7 @@
         <picture>https://sexopt.com.ua/content/images/5/pj11780-84005870265319.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ11780</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur BACK DOOR Moisturising 250 мл (PJ11780)</name_ua>
         <name>Лубрикант Pjur BACK DOOR Moisturising 250 мл (PJ11780)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;екомендуємо купити анальний&amp;nbsp;лубрикант pjur BACK DOOR Moisturising. Цей продукт підійде для інтенсивної анальної стимуляції та порадує вас тривалим ковзанням, як під час використання силікону, але абсолютно без силікону. Такий ефект можливий завдяки високій концентрації гіалурону в складі: він надає зволожувальну дію, усуває сухість і підвищує тонус шкіри. Крім того, завдяки водній основі лубрикант можна використовувати з будь-якими секс-іграшками.&lt;/p&gt;
@@ -11525,7 +11525,7 @@
         <param name="Країна реєстрації бренду">Люксембург</param>
         <param name="Сумісність з презервативом">З латексним</param>
       </offer>
-      <offer id="PJ13630" available="false">
+      <offer id="PJ13630" available="true">
         <price>469</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -11534,7 +11534,7 @@
         <picture>https://sexopt.com.ua/content/images/15/pj13630-23306421070642.jpg</picture>
         <vendor>Pjur</vendor>
         <article>PJ13630</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur BACK DOOR Regenerating 30 мл (PJ13630)</name_ua>
         <name>Лубрикант Pjur BACK DOOR Regenerating 30 мл (PJ13630)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Любите практикувати інтенсивну анальну стимуляцію? Рекомендуємо вам купити анальний&amp;nbsp;лубрикант pjur BACK DOOR Regenerating &amp;mdash; вона не тільки забезпечує тривале змащення, але і зводить нанівець дискомфорт під час проникнення. Пантенол у складі підтримує природну вологість шкіри, захищає напружені слизові оболонки та сприяє швидкому загоєнню мікротріщин. Екстракт ромашки заспокоює шкіру та запобігає запаленню. А водна основа засобу дає змогу застосовувати його із секс-іграшками.&lt;/p&gt;
@@ -12589,7 +12589,7 @@
         <picture>https://sexopt.com.ua/content/images/10/ps22931-16411433449155.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS22931</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Боді Passion Exclusive HAYA S/M Чорний (PS22931)</name_ua>
         <name>Боді Passion Exclusive HAYA S/M Чорний (PS22931)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Пропонуємо Вашій увазі і рекомендуємо купити вишуканий боді Passion HAYA BODY чорний. Боді вдало поєднує в собі всі найгарячіші елементи зваблення: обтягуючий матеріал, еротичні пружні стрічки, які так ніжно підкреслюють груди, ефектний візерунок внизу живота і в зоні ліфа. Мм, чудо.&lt;/p&gt;
@@ -13510,7 +13510,7 @@
         <picture>https://sexopt.com.ua/content/images/48/ps23605-83239622079393.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS23605</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Панчохи Passion ST003 1/2 Чорний (PS23605)</name_ua>
         <name>Панчохи Passion ST003 1/2 Чорний (PS23605)</name>
         <description>&lt;p align=&quot;JUSTIFY&quot; lang=&quot;ru-RU&quot; style=&quot;font-style: normal&quot;&gt;Пропонуємо купити тонкі панчохи від європейського бренду Passion. Модель ST003 nero має елегантний дизайн і дуже зручний фасон. Ажурна гумка шириною 9 см з двома силіконовими смужками, надійно фіксує панчохи на потрібній висоті. Завдяки цьому, виріб вийшов дуже практичним і у той же час стильним. Силіконові вставки дозволяють надягати тонкі панчохи без додаткових аксесуарів, але при бажанні ви можете комбінувати їх з поясом.&lt;/p&gt;
@@ -13526,7 +13526,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PS23606" available="false">
+      <offer id="PS23606" available="true">
         <price>639</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -13537,7 +13537,7 @@
         <picture>https://sexopt.com.ua/content/images/49/ps23606-93718554862395.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS23606</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Панчохи Passion ST003 3/4 Чорний (PS23606)</name_ua>
         <name>Панчохи Passion ST003 3/4 Чорний (PS23606)</name>
         <description>&lt;p align=&quot;JUSTIFY&quot; lang=&quot;ru-RU&quot; style=&quot;font-style: normal&quot;&gt;Пропонуємо купити тонкі панчохи від європейського бренду Passion. Модель ST003 nero має елегантний дизайн і дуже зручний фасон. Ажурна гумка шириною 9 см з двома силіконовими смужками, надійно фіксує панчохи на потрібній висоті. Завдяки цьому, виріб вийшов дуже практичним і у той же час стильним. Силіконові вставки дозволяють надягати тонкі панчохи без додаткових аксесуарів, але при бажанні ви можете комбінувати їх з поясом.&lt;/p&gt;
@@ -13816,7 +13816,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PS23629" available="true">
+      <offer id="PS23629" available="false">
         <price>1099</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -13828,7 +13828,7 @@
         <picture>https://sexopt.com.ua/content/images/22/ps23629-72259765748567.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS23629</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Панчохи Passion ST102 1/2 Чорний (PS23629)</name_ua>
         <name>Панчохи Passion ST102 1/2 Чорний (PS23629)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;У нашому магазині ви можете купити чорні панчохи від європейської компанії Passion. Модель ST102 nero з перших же секунд приковує погляди своїм оригінальним і у той самий час жіночним дизайном. Чорні панчохи виконані з високоякісної сировини щільністю 60 DEN з додаванням волокон LYCRA. Пікантність цієї моделі надає фантазійний візерунок у верхній частині панчох і напівпрозора вставка щільністю 20 DEN, розташована між візерунком і гумкою.&lt;/p&gt;
@@ -14028,7 +14028,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PS23637" available="true">
+      <offer id="PS23637" available="false">
         <price>1149</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -14038,7 +14038,7 @@
         <picture>https://sexopt.com.ua/content/images/30/ps23637-13127577668081.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS23637</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Панчохи Passion ST105 grey 1/2 Сірий (PS23637)</name_ua>
         <name>Панчохи Passion ST105 grey 1/2 Сірий (PS23637)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;У нас на сайті ви можете купити сексуальні панчохи виробництва європейської компанії Passion. Модель ST105 grey - ваш вибір, якщо ви шукаєте панчохи відмінної якості з елегантним дизайном. Сексуальні панчохи не вимагають спеціального пояса, оскільки мають самопідтримуючу гумку з двома силіконовими вставками. Розкішне чорне мереживо з флористичним орнаментом, яким прикрашена гумка, щільно облягає стегна і підкреслює красу ніжок. Високий вміст волокон LYCRA і посилений мисок, гарантують міцність панчох при щільності всього 20 DEN.&lt;/p&gt;
@@ -14116,7 +14116,7 @@
         <picture>https://sexopt.com.ua/content/images/33/ps23640-79419647874286.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS23640</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Панчохи Passion ST105 3/4 Червоний (PS23640)</name_ua>
         <name>Панчохи Passion ST105 3/4 Червоний (PS23640)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;У нас на сайті ви можете купити сексуальні панчохи виробництва європейської компанії Passion. Модель ST105 red - ваш вибір, якщо ви шукаєте панчохи відмінної якості з елегантним дизайном. Сексуальні панчохи не вимагають спеціального пояса, оскільки мають самопідтримуючу гумку з двома силіконовими вставками. Розкішне чорне мереживо з флористичним орнаментом, яким прикрашена гумка, щільно облягає стегна і підкреслює красу ніжок. Високий вміст волокон LYCRA і посилений мисок, гарантують міцність панчох при щільності всього 20 DEN.&lt;/p&gt;
@@ -14236,7 +14236,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PS23646" available="true">
+      <offer id="PS23646" available="false">
         <price>349</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -14244,7 +14244,7 @@
         <picture>https://sexopt.com.ua/content/images/37/ps23646-77992673944678.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS23646</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Панчохи Passion ST002 Чорний (PS23646)</name_ua>
         <name>Панчохи Passion ST002 Чорний (PS23646)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Додайте трохи кокетства до вашого повсякденного образу, купіть класичні панчохи під пояс із подвійною гумкою ST002 5 nero &amp;ndash; Passion. Красиво облягаючі панчохи, з подвійною гумкою, підійдуть не лише як деталь еротичного костюма, а й стануть чуттєвим доповненням до ділового костюма.&lt;/p&gt;
@@ -14533,7 +14533,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PS23711" available="true">
+      <offer id="PS23711" available="false">
         <price>2759</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -14544,7 +14544,7 @@
         <picture>https://sexopt.com.ua/content/images/7/ps23711-30454667083474.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS23711</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Комплект Passion Exclusive FLORIS S/M Чорний (PS23711)</name_ua>
         <name>Комплект Passion Exclusive FLORIS S/M Чорний (PS23711)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити еротичний комплект PASSION FLORIS SET чорний з ніжною мікрофібри. Включає в себе 3 речі. Бюстгальтер, трусики і пояс. Ексклюзивний дизайн комплекту підкреслює всі принади фігури. Ліф виконаний з двокольорового мережива з оригінальними чорними ремінцями, прозорість білизни дозволяє вгадувати красу і форму жіночих грудей. Поясок з мереживними ставками вміло робить талію ще тонше, маскуючи найменші недоліки. Доповнює ансамбль тоненькі трусики. Відчуйте себе по-іншому в комплекті Floris, чуттєвою, бажаною і зухвалою!&lt;/p&gt;</description>
@@ -14820,7 +14820,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PS24004" available="true">
+      <offer id="PS24004" available="false">
         <price>2799</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -14833,7 +14833,7 @@
         <picture>https://sexopt.com.ua/content/images/18/ps24004-45415510604415.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS24004</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Корсет Passion Exclusive NORTH CORSET L/XL Чорний (PS24004)</name_ua>
         <name>Корсет Passion Exclusive NORTH CORSET L/XL Чорний (PS24004)</name>
         <description>&lt;p align=&quot;JUSTIFY&quot; lang=&quot;ru-RU&quot; style=&quot;font-style: normal&quot;&gt;Пропонуємо купити сексуальний корсет PASSION NORTH CORSET чорний, виготовлений з фатину і лами з мереживними вставками. Елегантна білизна чорного кольору красиво підкреслює всі достоїнства жіночої фігури, вміло маскуючи недоліки. Відвертість білизни зашкалює. Відкритий бюстгальтер з кісточками підтримає вашу груди, роблячи їх ще більш апетитними і бажаними. Стрічки на животі так і ваблять розв&amp;#39;язати їх. Відчуйте себе у новому амплуа! Побачивши вас в такому вбранні, ваш партнер неодмінно захоче вас.&lt;/p&gt;</description>
@@ -14859,7 +14859,7 @@
         <picture>https://sexopt.com.ua/content/images/19/ps24005-85846970942694.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS24005</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Корсет Passion Exclusive NORTH CORSET S/M Чорний (PS24005)</name_ua>
         <name>Корсет Passion Exclusive NORTH CORSET S/M Чорний (PS24005)</name>
         <description>&lt;p align=&quot;JUSTIFY&quot; lang=&quot;ru-RU&quot; style=&quot;font-style: normal&quot;&gt;Пропонуємо купити сексуальний корсет PASSION NORTH CORSET чорний, виготовлений з фатину і лами з мереживними вставками. Елегантна білизна чорного кольору красиво підкреслює всі достоїнства жіночої фігури, вміло маскуючи недоліки. Відвертість білизни зашкалює. Відкритий бюстгальтер з кісточками підтримає вашу груди, роблячи їх ще більш апетитними і бажаними. Стрічки на животі так і ваблять розв&amp;#39;язати їх. Відчуйте себе у новому амплуа! Побачивши вас в такому вбранні, ваш партнер неодмінно захоче вас.&lt;/p&gt;
@@ -16148,7 +16148,7 @@
         <param name="Розмір">3 &lt;br&gt; 4</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PS24521" available="true">
+      <offer id="PS24521" available="false">
         <price>669</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -16161,7 +16161,7 @@
         <picture>https://sexopt.com.ua/content/images/33/ps24521-26277757077267.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS24521</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Колготки Passion TIOPEN 1/2 Чорний (PS24521)</name_ua>
         <name>Колготки Passion TIOPEN 1/2 Чорний (PS24521)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Ви стильна штучка, всередині якої таїться гаряча сексуальна богиня? Тоді рекомендуємо купити еротичні колготки TIOPEN 008 nero 1/2 (30 den) &amp;ndash; Passion, в яких за ідеальною класичною гладкістю ховається суперзбудливий виріз у найпотаємнішому місці! Широкий мереживний пояс забезпечує комфортну посадку.&lt;/p&gt;
@@ -18726,7 +18726,7 @@
         <picture>https://sexopt.com.ua/content/images/24/ps25106-88629099718701.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS25106</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Комплект Passion Exclusive VALERY OpenBra XXL/XXXL Чорний (PS25106)</name_ua>
         <name>Комплект Passion Exclusive VALERY OpenBra XXL/XXXL Чорний (PS25106)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити комплект білизни Passion VALERY SET, адже це справжній витвір мистецтва, створений для жінок, які бажають відчути себе чарівно та спокусливо.&lt;/p&gt;
@@ -19070,7 +19070,7 @@
         <param name="Матеріал">Поліестер</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PS25303" available="true">
+      <offer id="PS25303" available="false">
         <price>839</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -19082,7 +19082,7 @@
         <picture>https://sexopt.com.ua/content/images/41/ps25303-77180986102867.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS25303</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Трусики Passion Exclusive ABLA THONG XXL/XXXL Чорний (PS25303)</name_ua>
         <name>Трусики Passion Exclusive ABLA THONG XXL/XXXL Чорний (PS25303)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Пропонуємо купити трусики ABLA THONG black XXL/XXXL - Passion Exclusive, в яких стильно обіграно класичне поєднання гладкого прозорого матеріалу з ажурним мереживом.&lt;/p&gt;
@@ -22040,7 +22040,7 @@
         <picture>https://sexopt.com.ua/content/images/46/ps26902-40884643645841.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS26902</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Аксесуари Passion Exclusive BRENDA S/M Чорний (PS26902)</name_ua>
         <name>Аксесуари Passion Exclusive BRENDA S/M Чорний (PS26902)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Шукаєте щось незвичайне, гостро модне і особливо сексуальне? Тоді вам точно потрібно купити портупею-стрепи на все тіло BRENDA black S/M - Passion Exclusive. М&amp;#39;які і еластичні ремені охоплюють шию і стегна, і довгою вертикальною лінією створюють витончений силует. Одягайте портупею прямо на тіло, щоб вразити партнера, або комбінуйте з одягом для створення сексі-образу. Ремені регулюються для ідеальної посадки і досить еластичні.&lt;/p&gt;
@@ -22212,7 +22212,7 @@
         <picture>https://sexopt.com.ua/content/images/33/ps27103-46949867553177.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS27103</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Комплект Passion Exclusive GLAMISS XXL/XXXL Чорний (PS27103)</name_ua>
         <name>Комплект Passion Exclusive GLAMISS XXL/XXXL Чорний (PS27103)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Шукаєте білизну, яка буде одночасно комфортною, стильною, спортивною і еротичною? І ви її знайшли! Пропонуємо купити комплект білизни GLAMISS SET black XXL/XXXL - Passion Exclusive: трусики-сліпи з м&amp;#39;якого еластичного мережива на широкій резинці і трендовий зручний бюстгальтер. Якісні матеріали і сучасний крій, що підкреслює фігуру, роблять цю білизну по-справжньому універсальною.&lt;/p&gt;
@@ -23063,7 +23063,7 @@
         <picture>https://sexopt.com.ua/content/images/22/ps27805-86524701194374.jpg</picture>
         <vendor>Passion</vendor>
         <article>PS27805</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Трусики Passion Exclusive NICKY THONG S/M Чорний (PS27805)</name_ua>
         <name>Трусики Passion Exclusive NICKY THONG S/M Чорний (PS27805)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Незвично, стильно і неймовірно сексуально - рекомендуємо купити трусики зі стреп NICKY THONG black S/M - Passion Exclusive, створені з еластичних ременів, які красиво охоплюють попку і спокусливо переплітаються спереду.&lt;/p&gt;
@@ -26175,7 +26175,7 @@
         <picture>https://sexopt.com.ua/content/images/26/pss012r-60589654468013.jpg</picture>
         <vendor>Passion</vendor>
         <article>PSS012R</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Боді Passion S012 One Size Червоний (PSS012R)</name_ua>
         <name>Боді Passion S012 One Size Червоний (PSS012R)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;З приходом холодів необхідно утеплюватися, і настав час діставати колготки із засіків! Але цей елемент гардероба може виконувати ще й естетичну функцію. Тому рекомендуємо купити колготки-бодістокінги Passion S012 у червоному кольорі, які поєднують у собі стиль, сексуальність та комфорт.&lt;/p&gt;
@@ -26843,7 +26843,7 @@
         <picture>https://sexopt.com.ua/content/images/31/pss014b-11265045979354.jpg</picture>
         <vendor>Passion</vendor>
         <article>PSS014B</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Passion S014 One Size Чорний (PSS014B)</name_ua>
         <name>Боді Passion S014 One Size Чорний (PSS014B)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Пропонуємо купити мереживні колготки-бодістокінги Passion S014 в чорному кольорі, які виготовлені з якісних матеріалів, що забезпечують комфорт та тривалий термін служби. Вони містять спеціальні волокна, що забезпечують еластичність та добру посадку на фігурі.&lt;/p&gt;
@@ -27603,7 +27603,7 @@
         <param name="Країна-виробник товару">Італія</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="PSS016B" available="true">
+      <offer id="PSS016B" available="false">
         <price>779</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -27617,7 +27617,7 @@
         <picture>https://sexopt.com.ua/content/images/37/pss016b-48303961252863.jpg</picture>
         <vendor>Passion</vendor>
         <article>PSS016B</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Панчохи Passion S016 One Size Чорний (PSS016B)</name_ua>
         <name>Панчохи Passion S016 One Size Чорний (PSS016B)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити сітчасті панчохи-стокінги Passion S016 в чорному кольорі, які додадуть вашому образу нотку пристрасті та романтики. Вони ідеальні для особливих випадків, вечірніх заходів, романтичних побачень або фотосесій, а також для створення ефектного повсякденного стилю.&lt;/p&gt;
@@ -30576,7 +30576,7 @@
         <picture>https://sexopt.com.ua/content/images/13/pss024w-14521452519864.jpg</picture>
         <vendor>Passion</vendor>
         <article>PSS024W</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Панчохи Passion S024 One Size Білий (PSS024W)</name_ua>
         <name>Панчохи Passion S024 One Size Білий (PSS024W)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити еротичні панчохи-стокінги Passion S024 в білому&amp;nbsp;кольорі, які додадуть вашим ногам вишуканого та загадкового вигляду.&lt;/p&gt;
@@ -31399,14 +31399,14 @@
         <param name="Країна виробник">Франція</param>
         <param name="Країна реєстрації бренду">Франція</param>
       </offer>
-      <offer id="SO1357" available="true">
+      <offer id="SO1357" available="false">
         <price>569</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/9/so1357-75142440039877.jpg</picture>
         <vendor>MixGliss</vendor>
         <article>SO1357</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант MixGliss SWEET BUBBLE GUM 70 мл (SO1357)</name_ua>
         <name>Лубрикант MixGliss SWEET BUBBLE GUM 70 мл (SO1357)</name>
         <description>&lt;p align=&quot;JUSTIFY&quot; lang=&quot;ru-RU&quot; style=&quot;font-style: normal&quot;&gt;Интимная смазка-любрикант на водной основе с конфетным и мягкий ароматом жевательной резинки.&lt;/p&gt;
@@ -32142,7 +32142,7 @@
         <param name="Країна-виробник">Китай</param>
         <param name="Країна реєстрації бренда">Франція</param>
       </offer>
-      <offer id="SO1433" available="true">
+      <offer id="SO1433" available="false">
         <price>679</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -32151,7 +32151,7 @@
         <picture>https://sexopt.com.ua/content/images/42/so1433-27629284440697.jpg</picture>
         <vendor>JO</vendor>
         <article>SO1433</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант JO PREMIUM ORIGINAL 30 мл (SO1433)</name_ua>
         <name>Лубрикант JO PREMIUM ORIGINAL 30 мл (SO1433)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;JO&amp;reg; PREMIUM &amp;mdash; це інтимний лубрикант на основі силікону, що використовується як доповнення до природної змазки для отримання більшого задоволення від інтимної близькості. Забезпечує довге ніжне оліїсте ковзання, водостійкий, ідеально підходить для пестощів у нестандартних умовах. JO&amp;reg; PREMIUM не містить консервантів і виготовлений із застосуванням силікону лише найвищої якості. Невеликої кількості вистачає надовго!&lt;/p&gt;
@@ -34726,7 +34726,7 @@
         <picture>https://sexopt.com.ua/content/images/24/so1618-39559049367711.jpg</picture>
         <vendor>MixGliss</vendor>
         <article>SO1618</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Лубрикант MixGliss Addict Citrus 70 мл (SO1618)</name_ua>
         <name>Лубрикант MixGliss Addict Citrus 70 мл (SO1618)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Змазка-лубрикант на водній основі з ніжним і гармонійним ароматом цитрусів. Основа лубриканта - водна, що дозволяє його використовувати не тільки в інтимних іграх між собою, але з різними секс-іграшками та презервативами. Змазка MixGliss була створена для тих, хто бажає використовувати натуральний продукт, найвищої якості. Продукт дерматологічно тестований. Об&amp;rsquo;єм: 70 мл.&lt;/p&gt;</description>
@@ -35980,7 +35980,7 @@
         <param name="Країна виробник">США</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SO1695" available="true">
+      <offer id="SO1695" available="false">
         <price>789</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -35989,7 +35989,7 @@
         <picture>https://sexopt.com.ua/content/images/6/so1695-69955146805230.jpg</picture>
         <vendor>JO</vendor>
         <article>SO1695</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант JO ANAL H2O COOLING 120 мл (SO1695)</name_ua>
         <name>Лубрикант JO ANAL H2O COOLING 120 мл (SO1695)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Щоб анальні ігри були максимально приємними та комфортними, рекомендуємо купити лубрикант на водній основі JO ANAL H2O &amp;mdash; COOLING (120 мл). До складу входить лише чистий рослинний гліцерин, який забезпечує довге природне ковзання без зайвої липкості. З легким ефектом охолодження.&lt;/p&gt;
@@ -36622,7 +36622,7 @@
         <picture>https://sexopt.com.ua/content/images/40/so1796-73325873666116.jpg</picture>
         <vendor>JO</vendor>
         <article>SO1796</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Лубрикант JO PREMIUM ORIGINAL 480 мл (SO1796)</name_ua>
         <name>Лубрикант JO PREMIUM ORIGINAL 480 мл (SO1796)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;JO&amp;reg; PREMIUM &amp;mdash; це інтимний лубрикант на основі силікону, що використовується як доповнення до природної змазки для отримання більшого задоволення від інтимної близькості. Забезпечує довге ніжне оліїсте ковзання, водостійкий, ідеально підходить для пестощів у нестандартних умовах. JO&amp;reg; PREMIUM не містить консервантів і виготовлений із застосуванням силікону лише найвищої якості. Невеликої кількості вистачає надовго!&lt;/p&gt;
@@ -36804,7 +36804,7 @@
         <param name="Країна-виробник">Франція</param>
         <param name="Країна реєстрації бренда">Франція</param>
       </offer>
-      <offer id="SO1839" available="true">
+      <offer id="SO1839" available="false">
         <price>639</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
@@ -36813,7 +36813,7 @@
         <picture>https://sexopt.com.ua/content/images/29/so1839-76367178224745.jpg</picture>
         <vendor>Plaisirs Secrets</vendor>
         <article>SO1839</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Олія для тіла Plaisirs Secrets Exotic Fruits 59 мл (SO1839)</name_ua>
         <name>Олія для тіла Plaisirs Secrets Exotic Fruits 59 мл (SO1839)</name>
         <description>&lt;p align=&quot;JUSTIFY&quot; lang=&quot;ru-RU&quot; style=&quot;font-style: normal&quot;&gt;Масажна олія Plaisirs Secrets Exotic Fruits (59 мл) - масажне&amp;nbsp;масло&amp;nbsp;безпечне&amp;nbsp;при ковтанні. Містить природні афродизіаки. Для масажу та розслаблюючих процедур. Флакон зручного формату ідеально підійде, щоби взяти його з собою на відпочинок. Запакована у гарну подарункову коробку.&lt;/p&gt;
@@ -39316,7 +39316,7 @@
         <param name="Країна-виробник товару">Китай</param>
         <param name="Країна реєстрації бренду">Китай</param>
       </offer>
-      <offer id="SO2274" available="true">
+      <offer id="SO2274" available="false">
         <price>649</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -39325,7 +39325,7 @@
         <picture>https://sexopt.com.ua/content/images/24/so2274-71924891606011.jpg</picture>
         <vendor>JSY</vendor>
         <article>SO2274</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Комплект JSY One Size (SO2274)</name_ua>
         <name>Комплект JSY One Size (SO2274)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Грайливий комплект для побачень і романтичного настрою. Пропонуємо придбати еротичний комплект трусики, пояс для панчіх і панчохи, в комплекті з якими також йдуть еротичні трусики-стрінги. Комплект з мережива і гіпюру, прикрашений кокетливими бантиками і прекрасно підкреслює різницю між талією і стегнами завдяки сексуальним летючим &amp;quot;крильцям&amp;quot;.&lt;/p&gt;
@@ -39410,7 +39410,7 @@
         <param name="Країна-виробник">Китай</param>
         <param name="Країна реєстрації бренда">Франція</param>
       </offer>
-      <offer id="SO2357" available="true">
+      <offer id="SO2357" available="false">
         <price>789</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
@@ -39420,7 +39420,7 @@
         <picture>https://sexopt.com.ua/content/images/13/so2357-35331613562690.jpg</picture>
         <vendor>Exsens</vendor>
         <article>SO2357</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ваніль Exsens Hot Vanilla 50 мл (SO2357)</name_ua>
         <name>Ваніль Exsens Hot Vanilla 50 мл (SO2357)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Якщо ви бажаєте привнести в свої інтимні стосунки трохи екзотичної пристрасті, рекомендуємо придбати масажну олію Exsens Hot Vanilla 50 мл. Олія відрізняється неймовірним ванільним ароматом, солодким смаком без хімічної гіркоти і ефектом розігріву, який збільшується при контакті олії з вашим диханням.&lt;/p&gt;
@@ -39945,7 +39945,7 @@
         <picture>https://sexopt.com.ua/content/images/27/so2371-44358141759290.jpg</picture>
         <vendor>Exsens</vendor>
         <article>SO2371</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Мигдальна Exsens Amethyst Sweet Almond 100 мл (SO2371)</name_ua>
         <name>Мигдальна Exsens Amethyst Sweet Almond 100 мл (SO2371)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Подаруйте собі і своєму партнерові моменти ніжності і чуттєвості! Якщо ви вирішите придбати масажну олію Exsens Amethyst Sweet Almond (розслаблюючу, з аметистом), ви забезпечите собі неймовірне розслаблення і відчуття благополуччя, яке наповнить вас після легкого масажу. Тонкий мигдальний аромат створює безтурботну атмосферу, аметист сприяє релаксу, а органічні речовини, у тому числі мигдальна олія, роблять шкіру ніжною і бархатистою.&lt;/p&gt;
@@ -42504,7 +42504,7 @@
         <param name="Країна-виробник">Португалія</param>
         <param name="Країна реєстрації бренда">Бразилия-Португалия</param>
       </offer>
-      <offer id="SO2928" available="true">
+      <offer id="SO2928" available="false">
         <price>1169</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
@@ -42513,7 +42513,7 @@
         <picture>https://sexopt.com.ua/content/images/40/so2928-95098114902864.jpg</picture>
         <vendor>Intt</vendor>
         <article>SO2928</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Олія для тіла Intt Pearls in Love (SO2928)</name_ua>
         <name>Олія для тіла Intt Pearls in Love (SO2928)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Навіть якщо ви випробували в еротичних іграх все, що тільки можна собі уявити, спробуйте придбати набір для масажу Intt Pearls in Love, що складається з перлинного намиста і силіконового масажного гелю з особливо довгим ефектом ковзання. Оберніть перли навколо члена або покладіть намисто на клітор, візьміть трохи гелю і насолоджуйтеся незвичністю відчуттів.&lt;/p&gt;
@@ -45267,14 +45267,14 @@
         <param name="Країна виробник">США</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SO3272" available="true">
+      <offer id="SO3272" available="false">
         <price>869</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/26/so3272-21795224128764.jpg</picture>
         <vendor>Sensuva</vendor>
         <article>SO3272</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Sensuva Ultra-Stimulating On Insane Cherry Pop 57 мл (SO3272)</name_ua>
         <name>Лубрикант Sensuva Ultra-Stimulating On Insane Cherry Pop 57 мл (SO3272)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Хочете спробувати щось новеньке? Тоді рекомендуємо купити лубрикант на комбінованій основі Sensuva &amp;mdash; Ultra-Stimulating On Insane &amp;mdash; найінтенсивніший стимулювальний лубрикант! Він не тільки забезпечить довге та легке ковзання, а й посилить задоволення від близькості за рахунок додаткових відчуттів: тепла та пульсацій. Можна використовувати як для проникнень, так і для пестощів клітора &amp;mdash; тут враження будуть не меншими!&lt;/p&gt;
@@ -45875,7 +45875,7 @@
         <picture>https://sexopt.com.ua/content/images/16/so3285-22767624799042.jpg</picture>
         <vendor>Sensuva</vendor>
         <article>SO3285</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Лубрикант Sensuva Premium Silicone 240 мл (SO3285)</name_ua>
         <name>Лубрикант Sensuva Premium Silicone 240 мл (SO3285)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Суперчистий, суперскользящий, без смаку і запаху &amp;mdash; пропонуємо купити лубрикант на силіконовій основі Sensuva - Premium Silicone. Він створений з використанням трьох медичних силіконів вищої якості і забезпечує тривале ковзання. Приємна шовковиста текстура робить використання особливо приємним.&lt;/p&gt;
@@ -45971,7 +45971,7 @@
         <picture>https://sexopt.com.ua/content/images/46/so3287-57052944040648.jpg</picture>
         <vendor>Sensuva</vendor>
         <article>SO3287</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Лубрикант Sensuva UltraThick Silicone 100 мл (SO3287)</name_ua>
         <name>Лубрикант Sensuva UltraThick Silicone 100 мл (SO3287)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Шукаєте лубрикант, який забезпечить нескінченне ковзання і при цьому не буде липнути і змиватися в душі або ванні? Тоді рекомендуємо купити лубрикант на силіконовій основі Sensuva Ultra-Thick Silicone: преміальну густе змазку, виготовлену із суміші трьох медичних силіконів вищої якості. Прозорий, без запаху, він буде ковзати стільки, скільки вам потрібно, і підійде як для сексу, так і для масажу або еротичних ігор у воді.&lt;/p&gt;
@@ -47622,14 +47622,14 @@
         <param name="Країна виробник">США</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SO3548" available="true">
+      <offer id="SO3548" available="false">
         <price>99</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/12/so3548-23581562044935.jpg</picture>
         <vendor>Sensuva</vendor>
         <article>SO3548</article>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Sensuva Ultra-Thick Hybrid Formula 6 мл (SO3548)</name_ua>
         <name>Лубрикант Sensuva Ultra-Thick Hybrid Formula 6 мл (SO3548)</name>
         <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;
@@ -53859,7 +53859,7 @@
         <param name="Матеріал">Бавовна</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SO4198" available="true">
+      <offer id="SO4198" available="false">
         <price>899</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -53870,7 +53870,7 @@
         <picture>https://sexopt.com.ua/content/images/31/so4198-87474430185795.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO4198</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Трусики Passion PS002 PANTIES XL XL Білий (SO4198)</name_ua>
         <name>Трусики Passion PS002 PANTIES XL XL Білий (SO4198)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити трусики з прозорою вставкою PS002 PANTIES - неймовірно зручні, привабливі і виготовлені з натурального матеріалу. Ці трусики спеціально створені для сучасного темпу життя, адже в них легко можна піти у спортзал, відправитися на роботу або створити спокусливий образ для побачення. Еластична бавовна приємна до тіла і добре сідає по фігурі.&lt;/p&gt;
@@ -54207,7 +54207,7 @@
         <param name="Матеріал">Бавовна</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SO4203" available="true">
+      <offer id="SO4203" available="false">
         <price>979</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -54218,7 +54218,7 @@
         <picture>https://sexopt.com.ua/content/images/18/so4203-24436445143874.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO4203</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Топ Passion PS002 L L Білий (SO4203)</name_ua>
         <name>Топ Passion PS002 L L Білий (SO4203)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Стримана сексапільність, стиль і комфорт - тренди останнього часу. Пропонуємо купити топ з прозорою вставкою PS002 TOP, який відмінно тримає груди, шикарно виглядає і дуже приємний до тіла. Топ під сорочку, комфортний бюстгальтер на кожен день або сексуальну білизну - у цій моделі поєднується все, що потрібно. Широкі бретелі піднімають бюст, а оригінальний крій виглядає дуже стильно. Виготовлений з еластичної бавовни.&lt;/p&gt;
@@ -58392,7 +58392,7 @@
         <picture>https://sexopt.com.ua/content/images/44/so4265-60455927821858.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO4265</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Топ Passion PS007 S S Сірий (SO4265)</name_ua>
         <name>Топ Passion PS007 S S Сірий (SO4265)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Якщо вам потрібна універсальна і зручна білизна на всі випадки життя, то ось вона! Пропонуємо купити спортивний топ з подвійними бретелями PS007 TOP - модель з еластичної бавовни, на тонких регульованих бретелях, з додатковими бретельками на спинці. Така модель не тільки стильно виглядає, але і відмінно підтримує груди!&lt;/p&gt;
@@ -60626,7 +60626,7 @@
         <picture>https://sexopt.com.ua/content/images/35/so4380-26269764262507.jpg</picture>
         <vendor>Penthouse</vendor>
         <article>SO4380</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Боді Penthouse Turned On M/L Чорний (SO4380)</name_ua>
         <name>Боді Penthouse Turned On M/L Чорний (SO4380)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Мрієте вразити вашого партнера сміливим та диявольськи сексуальним вбранням? Тоді рекомендуємо купити мегасексуальний боді з відкритими грудьми та спиною Penthouse - Turned On Black M/L. Відвертий боді дозволить вам створити хвилююче-пікантний образ, при цьому не залишаючи ніяких загадок.&lt;/p&gt;
@@ -63458,7 +63458,7 @@
         <picture>https://sexopt.com.ua/content/images/22/so4755-15630176428887.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO4755</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Боді Passion LOVELIA XXL/XXXL Чорний (SO4755)</name_ua>
         <name>Боді Passion LOVELIA XXL/XXXL Чорний (SO4755)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Настільки вишуканого поєднання ніжності, сексуальності і витонченості ви ще не бачили! Якщо ви бажаєте вразити партнера у саме серце, вам обов&amp;#39;язково потрібно купити еротичний боді з малюнком LOVELIA BODY black XXL/XXXL - Passion. Він розкішно підкреслює груди, робить вас стрункішою і візуально подовжує ноги, завдяки високим вирізам на стегнах. Акуратні бантики і стильний малюнок доповнюють образ. Бретелі регулюються, а матеріал - еластичний і відмінно облягає фігуру.&lt;/p&gt;
@@ -66591,7 +66591,7 @@
         <picture>https://sexopt.com.ua/content/images/9/so5060-85444019357035.jpg</picture>
         <vendor>Pjur</vendor>
         <article>SO5060</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Лубрикант Pjur Light 250 мл (SO5060)</name_ua>
         <name>Лубрикант Pjur Light 250 мл (SO5060)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо вам купити лубрикант на силіконовій основі pjur Light &amp;mdash; лубрикант, який вдало поєднує в собі всі найкращі якості pjur Original, але наноситься набагато швидше через свою більш рідку консистенцію.&lt;/p&gt;
@@ -66679,7 +66679,7 @@
         <picture>https://sexopt.com.ua/content/images/40/so5094-69270642508125.jpg</picture>
         <vendor>Love To Love</vendor>
         <article>SO5094</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Олія для тіла Love To Love Me Tender Coconut 10 мл (SO5094)</name_ua>
         <name>Олія для тіла Love To Love Me Tender Coconut 10 мл (SO5094)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Якщо ви мрієте про романтичне побачення із чуттєвим масажем, то ми рекомендуємо купити масажну олію Love To Love &amp;mdash; Love Me Tender&amp;nbsp; Coconut (10 мл) з ароматом кокоса. Ароматна зволожувальна та зігрівальна олія стане справжньою родзинкою побачення. Подуйте на ділянку тіла, яку масажуєте, і ваш партнер відчує приємне тепло.&lt;/p&gt;
@@ -67070,7 +67070,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SO5193" available="false">
+      <offer id="SO5193" available="true">
         <price>369</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -67080,7 +67080,7 @@
         <picture>https://sexopt.com.ua/content/images/44/so5193-47403476532746.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO5193</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Трусики Art of Sex Villa 2XL Срібний (SO5193)</name_ua>
         <name>Трусики Art of Sex Villa 2XL Срібний (SO5193)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Сексуальні трусики з ланцюжком Art of Sex - Villa Silver створені, щоб зводити з розуму. Тонкі тасьми і гладкий ланцюжок з металу створюють несподівано гарячий тандем.&lt;/p&gt;
@@ -67364,7 +67364,7 @@
         <picture>https://sexopt.com.ua/content/images/40/so5246-85883807884989.jpg</picture>
         <vendor>Penthouse</vendor>
         <article>SO5246</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Комплект Penthouse Double Spice L/XL Тілесний (SO5246)</name_ua>
         <name>Комплект Penthouse Double Spice L/XL Тілесний (SO5246)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Підкресліть свої чуттєві форми та сексуальність, купить комплект бралет та стрінги Penthouse - Double Spice Nude L/XL. Цей чудовий костюм-двійка складається з ультра-жіночого чорного мереживного топа-бюстгальтера, з квітковим візерунком та мініатюрних трусиків.&lt;/p&gt;
@@ -73135,7 +73135,7 @@
         <picture>https://sexopt.com.ua/content/images/50/so5387-94970149110556.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO5387</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Панчохи Passion ST002 1/2 Білий (SO5387)</name_ua>
         <name>Панчохи Passion ST002 1/2 Білий (SO5387)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Додайте трохи кокетства до вашого повсякденного образу, купіть класичні панчохи під пояс із подвійною гумкою ST002 1/2 bianco &amp;ndash; Passion. Красиво облягаючі панчохи, з подвійною гумкою, підійдуть не лише як деталь еротичного костюма, а й стануть чуттєвим доповненням до ділового костюма.&lt;/p&gt;
@@ -73905,7 +73905,7 @@
         <picture>https://sexopt.com.ua/content/images/9/so5503-77668993598155.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO5503</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Трусики Art of Sex Bad Bitch L- 2XL Червоний (SO5503)</name_ua>
         <name>Трусики Art of Sex Bad Bitch L- 2XL Червоний (SO5503)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Відверті трусики для зухвалих і впевнених у собі. Виготовлені з приємною на дотик, якісної тканини. Основний акцент - металевий ланцюжок з декоративними підвісками-літерами, які складаються в провокаційну фразу &amp;laquo;Bad Bitch&amp;raquo;. У цих стрінгах ви не залишитися без уваги, гарантовано!&lt;/p&gt;
@@ -74915,7 +74915,7 @@
         <picture>https://sexopt.com.ua/content/images/19/kombidress-lakirovannyy-belyy-derzkaya-stella-m-molniya-na-vse-telo-11728417564946.jpg</picture>
         <vendor>D&amp;A</vendor>
         <article>SO5628</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді D&amp;A M M Білий (SO5628)</name_ua>
         <name>Боді D&amp;A M M Білий (SO5628)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Перетворіть будь-який вечір на незабутню подорож із приємним грайливим присмаком сексу, купіть лакований комбідрес &amp;ldquo;Зухвала Стелла&amp;rdquo;. Цікавий комбінезон із блискучої тканини вигідно підкреслює спокусливі форми та вигини жіночого тіла. Довга блискавка через усе тіло дає можливість створювати цнотливо-закритий або відверто-доступний образ.&amp;nbsp;&lt;/p&gt;
@@ -75998,14 +75998,14 @@
         <param name="Країна виробник">США</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SO5666" available="true">
+      <offer id="SO5666" available="false">
         <price>389</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/32/so5666-18153108138589.jpg</picture>
         <vendor>Swiss Navy</vendor>
         <article>SO5666</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Swiss Navy Water-Based 29.5 мл (SO5666)</name_ua>
         <name>Лубрикант Swiss Navy Water-Based 29.5 мл (SO5666)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити густий лубрикант на водній основі Swiss Navy Water-Based з унікальною текстурою та властивостями! Ця змазка &amp;mdash; це ніжний гель, який не розтікається і не липне, і тільки при терті розріджується, забезпечуючи довге ковзання. Природні відчуття, довготривалий ефект та сумісність із більшістю іграшок &amp;mdash; те, що потрібно доброму лубриканту! Зручний флакон із дозатором робить використання максимально комфортним.&lt;/p&gt;
@@ -76694,14 +76694,14 @@
         <param name="Країна виробник">США</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SO5684" available="true">
+      <offer id="SO5684" available="false">
         <price>859</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/50/so5684-97467516617021.jpg</picture>
         <vendor>Swiss Navy</vendor>
         <article>SO5684</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Swiss Navy Warming 118 мл (SO5684)</name_ua>
         <name>Лубрикант Swiss Navy Warming 118 мл (SO5684)</name>
         <description>&lt;p&gt;Бажаєте гарячіше? Тоді вам обов&amp;#39;язково потрібно купити розігрівальний лубрикант на водній основі Swiss Navy Warming з особливо потужним тепловим ефектом! До його складу входить ваніліл бутиловий ефір &amp;mdash; компонент, що розігріває, з пролонгованим ефектом і низьким потенціалом подразнення. Він створює відчуття тепла в кілька разів сильніше за екстракт червоного перцю! Неймовірне збудження зростатиме разом із теплом, а кожен рух &amp;mdash; буде посилювати ефект. Лубрикант приємної консистенції, легко змивається водою і розфасований в в економічне пакування з дозатором.&lt;/p&gt;
@@ -86836,7 +86836,7 @@
         <param name="Країна-виробник">Іспанія</param>
         <param name="Країна реєстрації бренда">Іспанія</param>
       </offer>
-      <offer id="SO5906" available="true">
+      <offer id="SO5906" available="false">
         <price>869</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
@@ -86848,7 +86848,7 @@
         <picture>https://sexopt.com.ua/content/images/11/so5906-91897934610335.jpg</picture>
         <vendor>Bijoux Indiscrets</vendor>
         <article>SO5906</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Олія для тіла Bijoux Indiscrets Slow Sex Warming massage oil 50 мл (SO5906)</name_ua>
         <name>Олія для тіла Bijoux Indiscrets Slow Sex Warming massage oil 50 мл (SO5906)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Перетворіть вашу спальню на тропічний рай, а тіло вашого партнера - на екзотичний десерт, купіть їстівну масажну олію Bijoux Indiscrets Slow Sex Warming massage oil. Зігрівальний ефект олії посилює задоволення від дотиків, розслабляє і надає шкірі оксамитовості із солодкувато-кокосовими нотками. Чудова новина для шанувальників орального сексу - олія приємна на смак і повністю безпечна.&lt;/p&gt;
@@ -87492,14 +87492,14 @@
         <param name="Країна виробник">Іспанія</param>
         <param name="Країна реєстрації бренду">Іспанія</param>
       </offer>
-      <offer id="SO5947" available="true">
+      <offer id="SO5947" available="false">
         <price>29</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/24/so5947-85594233792681.jpg</picture>
         <vendor>Bijoux Indiscrets</vendor>
         <article>SO5947</article>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Bijoux Indiscrets Slow Sex Finger play gel 2 мл (SO5947)</name_ua>
         <name>Лубрикант Bijoux Indiscrets Slow Sex Finger play gel 2 мл (SO5947)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Зміцніть збудження і подовжте задоволення від мануальних пестощів, купіть пробник гель-змазки&amp;nbsp;для мастурбації Bijoux Indiscrets Slow Sex. Лубрикант&amp;nbsp;на водній основі збільшує кількість природної змазки у жінки, робить дотики до клітора, вульви, пеніса більш чуттєвими та ніжними. Алое вера, що входить до складу гелю, забезпечує зволоження та догляд за шкірою інтимних зон.&lt;/p&gt;
@@ -87797,7 +87797,7 @@
         <picture>https://sexopt.com.ua/content/images/49/so5963-13231672244041.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO5963</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Комплект Passion Exclusive ARMANDA S/M Чорний (SO5963)</name_ua>
         <name>Комплект Passion Exclusive ARMANDA S/M Чорний (SO5963)</name>
         <description>&lt;p&gt;Тільки кілька ременців, що спокусливо охоплюють тіло, і нічого зайвого! Пропонуємо купити комплект білизни зі стреп ARMANDA SET black &amp;mdash; набір для найсміливіших і гарячих. У комплект входять трусики стрінги та бюстгальтер, все складається з регульованих еластичних стрічок-ременів. Бюстгальтер можна носити і поверх одягу як портупею!&lt;/p&gt;
@@ -89159,7 +89159,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SO6172" available="false">
+      <offer id="SO6172" available="true">
         <price>489</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -89169,7 +89169,7 @@
         <picture>https://sexopt.com.ua/content/images/24/so6172-74909088918719.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO6172</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Трусики Art of Sex Joni plug panties size S XS Чорний (SO6172)</name_ua>
         <name>Трусики Art of Sex Joni plug panties size S XS Чорний (SO6172)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Чоловічі еротичні труси поєднані з силіконовою анальною пробкою &amp;ndash; незвичайний та цікавий спосіб додати нових емоцій у інтимні стосунки. Труси ручної роботи абсолютно відкриті спереду, і регулюються за об`ємом стегон для більшої зручності. Силіконова пробка із кристалом під колір білизни, надійно з&amp;#39;єднана з чоловічими трусиками. Цей девайс подарує вам новий досвід та масу приємних відчуттів.&lt;/p&gt;
@@ -93206,7 +93206,7 @@
         <param name="Країна-виробник товару">Китай</param>
         <param name="Країна реєстрації бренду">Німеччина</param>
       </offer>
-      <offer id="SO6436" available="true">
+      <offer id="SO6436" available="false">
         <price>579</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -93216,7 +93216,7 @@
         <picture>https://sexopt.com.ua/content/images/11/so6436-53421981387202.jpg</picture>
         <vendor>Penthouse</vendor>
         <article>SO6436</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Боді Penthouse Blooming Era XL XL Чорний (SO6436)</name_ua>
         <name>Боді Penthouse Blooming Era XL XL Чорний (SO6436)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Ви легко відкриєте нові грані вашої чуттєвості, якщо купите ніжне боді Penthouse Blooming Era. Привабливе боді з напівпрозорої сіточки з ажурними вставками на грудях і в промежині &amp;mdash; безпрограшний спосіб підкреслити вашу чуттєвість. Відкриті плечі та тонка зав&amp;rsquo;язка навколо шиї допоможуть створити граціозний образ.&lt;/p&gt;
@@ -94024,7 +94024,7 @@
         <param name="Країна-виробник товару">Китай</param>
         <param name="Країна реєстрації бренду">Німеччина</param>
       </offer>
-      <offer id="SO6445" available="true">
+      <offer id="SO6445" available="false">
         <price>659</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -94034,7 +94034,7 @@
         <picture>https://sexopt.com.ua/content/images/20/so6445-53338231501274.jpg</picture>
         <vendor>Penthouse</vendor>
         <article>SO6445</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Боді Penthouse Under My Spell S/L Чорний (SO6445)</name_ua>
         <name>Боді Penthouse Under My Spell S/L Чорний (SO6445)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Якщо ви шукаєте щось сексуальне, але елегантне для особливого побачення чи вечірки, то рекомендуємо купити боді Penthouse Under My Spell &amp;mdash; це спокуса, яка перебуває в рамках пристойності. Неймовірне боді зі щільної тканини з гарним декором, який формується із прозорих плавно-вертикальних ліній та відкритої спинки, &amp;mdash; це втілення стилю та ніжної сексуальності.&lt;/p&gt;
@@ -103140,7 +103140,7 @@
         <picture>https://sexopt.com.ua/content/images/21/so6767-39078589697089.jpg</picture>
         <vendor>JO</vendor>
         <article>SO6767</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Жожоба JO Aromatix Massage Oil Chocolate 120 мл (SO6767)</name_ua>
         <name>Жожоба JO Aromatix Massage Oil Chocolate 120 мл (SO6767)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Прелюдія &amp;mdash; це подорож, повна задоволення. Вирушайте в цю подорож разом із партнером &amp;mdash; купіть натуральну масажну олію JO Aromatix &amp;mdash; Massage Oil &amp;mdash; Chocolate. Завдяки унікальному поєднанню натуральних олій і приємного аромату масажна олія з лінійки JO Aromatix може перетворити інтимну близькість на захопливий чуттєвий досвід, а тіло вашого партнера &amp;mdash; на чудовий &amp;laquo;десерт&amp;raquo;. Натуральні олії сої, маракуї, жожоба, насіння фісташки, олія солодкого мигдалю, кокосова та оливкова олія &amp;mdash; ​​це справжній вітамінний бум, який живить, зволожує, доглядає і надає регенерувальну дію на шкіру.&lt;/p&gt;
@@ -103402,7 +103402,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SO6784" available="false">
+      <offer id="SO6784" available="true">
         <price>369</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -103412,7 +103412,7 @@
         <picture>https://sexopt.com.ua/content/images/8/so6784-43726118272381.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO6784</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Трусики Art of Sex Lina 2XL (SO6784)</name_ua>
         <name>Трусики Art of Sex Lina 2XL (SO6784)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Сексуальні трусики Art of Sex &amp;mdash; Lina з перлинами, РАЗМЕР &amp;mdash; еротичні трусики з ніжного, напівпрозорого чорного мережива. Цей елемент білизни не тільки підкреслить вашу красу та сексуальність, але й подарує приємні відчуття від ніжної стимуляції. Завдяки нитці перлин кожен рух вашого тіла відгукуватиметься солодкими припливами задоволення внизу живота.&lt;br /&gt;
@@ -106649,7 +106649,7 @@
         <picture>https://sexopt.com.ua/content/images/18/so7090-93753219607019.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO7090</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Passion ECO S003 Чорний (SO7090)</name_ua>
         <name>Боді Passion ECO S003 Чорний (SO7090)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Внесіть у свій щоденний образ трохи зухвалості та провокації, купіть еротичні колготки-бодістокінг Passion ECO S003. Еротичні колготки з нової екологічної колекції Passion &amp;mdash; це приємний еластичний матеріал, висока талія та плетіння з великих круглих комірок, які ідеально підкреслюють красу жіночих ніжок.&lt;/p&gt;
@@ -109697,7 +109697,7 @@
         <param name="Матеріал">Тканина</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SO7159" available="true">
+      <offer id="SO7159" available="false">
         <price>2329</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -109710,7 +109710,7 @@
         <picture>https://sexopt.com.ua/content/images/11/so7159-30382250391199.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO7159</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Корсет Obsessive 810-COR-2 babydoll thong L/XL Білий (SO7159)</name_ua>
         <name>Корсет Obsessive 810-COR-2 babydoll thong L/XL Білий (SO7159)</name>
         <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -110139,7 +110139,7 @@
         <picture>https://sexopt.com.ua/content/images/25/so7173-64282014501640.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO7173</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Obsessive 828-THC-1 crotchless thong S/M Чорний (SO7173)</name_ua>
         <name>Obsessive 828-THC-1 crotchless thong S/M Чорний (SO7173)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Рекомендуємо купити мереживні танга з доступом Obsessive 828-THC-1 crotchless thong, щоб спостерігати, як крихітний шматочок тканини може світити з розуму партнера.&lt;/p&gt;
@@ -110312,7 +110312,7 @@
         <picture>https://sexopt.com.ua/content/images/28/so7176-85088601122796.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO7176</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Obsessive 831-THC-1 crotchless thongL XL XL Чорний (SO7176)</name_ua>
         <name>Obsessive 831-THC-1 crotchless thongL XL XL Чорний (SO7176)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Ці манюні здатні здивувати та завести! Купити мереживні танги з двома отворами Obsessive 831-THC-1 crotchless thong можна вже зараз.&lt;/p&gt;
@@ -113175,7 +113175,7 @@
         <picture>https://sexopt.com.ua/content/images/38/99682829299256.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO7344</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Панчохи Art of Sex Lora S Чорний (SO7344)</name_ua>
         <name>Панчохи Art of Sex Lora S Чорний (SO7344)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Панчохи з вінілу ручної роботи, прикрашені ніжним напівпрозорим мереживом. Панчохи підкреслять красу та стрункість Ваших ніжок та ідеально впишуться у будь-який образ. Ви можете одягати вінілові панчохи разом з вініловим або мереживним комплектом білизни, з корсетом і трусиками або рольовим костюмом.&lt;/p&gt;
@@ -113217,7 +113217,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SO7346" available="true">
+      <offer id="SO7346" available="false">
         <price>759</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -113227,7 +113227,7 @@
         <picture>https://sexopt.com.ua/content/images/36/so7346-35142951044973.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO7346</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Панчохи Art of Sex Lora L Чорний (SO7346)</name_ua>
         <name>Панчохи Art of Sex Lora L Чорний (SO7346)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Панчохи з вінілу ручної роботи, прикрашені ніжним напівпрозорим мереживом. Панчохи підкреслять красу та стрункість Ваших ніжок та ідеально впишуться у будь-який образ. Ви можете одягати вінілові панчохи разом з вініловим або мереживним комплектом білизни, з корсетом і трусиками або рольовим костюмом.&lt;/p&gt;
@@ -113698,7 +113698,7 @@
         <picture>https://sexopt.com.ua/content/images/29/30525262389627.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO7366</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Спідниця Art of Sex Stela XS Чорний (SO7366)</name_ua>
         <name>Спідниця Art of Sex Stela XS Чорний (SO7366)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Спідниця Art of Sex - Stella зшита з високоякісного вінілу. Ідеально комфортна посадка не сковує рухи, а дозволяє вільно рухатися і почувати себе комфортно. Коротенька спідничка буде однаково спокусливо виглядати як в парі з вініловим бра або топом, так і з мереживною білизною. А доповнивши образ інтимними іграшками, ви можете створити безліч варіантів сценаріїв для небанального отримання задоволення.&lt;/p&gt;
@@ -113928,7 +113928,7 @@
         <picture>https://sexopt.com.ua/content/images/13/so7456-29909038621748.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO7456</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Трусики Art of Sex Lea XS Білий (SO7456)</name_ua>
         <name>Трусики Art of Sex Lea XS Білий (SO7456)</name>
         <description>&lt;p&gt;Вишукані та привабливі трусики Art of Sex - Lea для тих, хто любить сяяти та привертати увагу з першого погляду. Трусики з ідеальною посадкою на стегнах, підкреслять красу та витонченість вашої фігури. Рухаючись в такт з вашим тілом, блискуча бахрома з десятками кристалів наведе магнетичний ефект на вашого партнера. Він не захоче відводити очі від вашої сліпучої краси.&lt;/p&gt;
@@ -113944,7 +113944,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SO7457" available="false">
+      <offer id="SO7457" available="true">
         <price>479</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -113954,7 +113954,7 @@
         <picture>https://sexopt.com.ua/content/images/14/85548919836747.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO7457</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Трусики Art of Sex Lea 2XL Білий (SO7457)</name_ua>
         <name>Трусики Art of Sex Lea 2XL Білий (SO7457)</name>
         <description>&lt;p&gt;Вишукані та привабливі трусики Art of Sex - Lea для тих, хто любить сяяти та привертати увагу з першого погляду. Трусики з ідеальною посадкою на стегнах, підкреслять красу та витонченість вашої фігури. Рухаючись в такт з вашим тілом, блискуча бахрома з десятками кристалів наведе магнетичний ефект на вашого партнера. Він не захоче відводити очі від вашої сліпучої краси.&lt;/p&gt;
@@ -114377,7 +114377,7 @@
         <picture>https://sexopt.com.ua/content/images/3/26796662326227.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO7476</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Рукавички Art of Sex Lora M Червоний (SO7476)</name_ua>
         <name>Рукавички Art of Sex Lora M Червоний (SO7476)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Короткі вінілові мітенки Art of Sex - Lora &amp;ndash; хороший спосіб освіжити свій образ, доповнивши його оригінальними аксесуарами. Мітенки легко одягати та знімати, вони не сковують рухи. Мітенки з вінілу додають рукам магнетичної привабливості та граціозності.&lt;/p&gt;
@@ -114403,7 +114403,7 @@
         <picture>https://sexopt.com.ua/content/images/46/so7477-77603181108552.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO7477</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Рукавички Art of Sex Lora L Червоний (SO7477)</name_ua>
         <name>Рукавички Art of Sex Lora L Червоний (SO7477)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Довгі мітенки з вінілу ручної роботи. Провокативні, сексуальні, звабливі. Мітенки доповнять Ваш рольовий костюм, стануть яскравим акцентом у обраному вбранні або забезпечать біль комфортну роботу стеком чи флогером. Так, завдяки мітенкам, Ваші долоні не буде натирати матеріал ударного девайсу, тож практики з флагеляції стануть ще приємнішими.&lt;/p&gt;
@@ -114814,7 +114814,7 @@
         <picture>https://sexopt.com.ua/content/images/4/so7552-73027965617437.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO7552</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Passion BRUNO L/XL Чорний (SO7552)</name_ua>
         <name>Боді Passion BRUNO L/XL Чорний (SO7552)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Чоловіче відкрите боді Passion Bruno &amp;mdash; це справжній хіт, який можна купити на нашому сайті просто зараз. Мінімалістичне, але дуже сексуальне, воно підкреслить усі переваги вашого тіла. Класичний крій цієї моделі з відкритою спиною й низьким відвертим вирізом приховує сюрприз: боді виконане у вигляді вінілових мінітрусиків, що спокусливо відкривають сідниці. Еластичний матеріал чорного кольору завдяки &amp;laquo;мокрому&amp;raquo; ефекту розкішно підкреслить вашу принаду, а стильні нерегульовані шлейки з логотипом Passion надають образу грайливості та довершеності. Завдяки перехрещеним на спині шлейкам навіть таке мінімалістичне боді може стати справжньою знахідкою в процесі сексуальної гри.&lt;/p&gt;
@@ -115316,7 +115316,7 @@
         <picture>https://sexopt.com.ua/content/images/15/so7563-82461643624511.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO7563</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Трусики Passion SLIP TOM XXL/XXXL Чорний (SO7563)</name_ua>
         <name>Трусики Passion SLIP TOM XXL/XXXL Чорний (SO7563)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Купити чоловічі труси з ланцюжком Passion Slip Tom &amp;mdash; означає додати пікантної родзинки в стосунки, а можливо, і в робочі будні, адже виріб дуже комфортний. Пошиті чоловічі труси з ланцюжком Passion Slip Tom з дуже м&amp;rsquo;якої екологічної шкіри. Матеріал пройшов спеціальну сертифікацію в ЄС, тому можна бути на 100% впевненими у високій якості виробу: під час носіння не виникне почервонінь, неприємних відчуттів і подразнень на шкірі.&amp;nbsp;&lt;/p&gt;
@@ -115853,7 +115853,7 @@
         <param name="Матеріал">Шкіра</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SO7574" available="true">
+      <offer id="SO7574" available="false">
         <price>1299</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -115865,7 +115865,7 @@
         <picture>https://sexopt.com.ua/content/images/26/so7574-30572488770373.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO7574</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Трусики Passion OPEN LUKE S/M Чорний (SO7574)</name_ua>
         <name>Трусики Passion OPEN LUKE S/M Чорний (SO7574)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Ці дивовижні сліпи &amp;mdash; справжня знахідка для прихильників сексуальної мінімалістичної білизни. Купіть чоловічі відкриті сліпи Passion Open Luke і переконайтеся, що відчуття комфорту й упевненості може подарувати навіть невеликий шматочок м&amp;rsquo;якої екошкіри.&lt;br /&gt;
@@ -117053,7 +117053,7 @@
         <param name="Матеріал">Поліестер</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SO7622" available="true">
+      <offer id="SO7622" available="false">
         <price>1869</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -117065,7 +117065,7 @@
         <picture>https://sexopt.com.ua/content/images/24/so7622-31270395505880.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO7622</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Passion SHORT PATRICK S/M Чорний (SO7622)</name_ua>
         <name>Passion SHORT PATRICK S/M Чорний (SO7622)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Шкіряні боксери з відкидною пілочкою &amp;mdash; це приваблива класика з цікавим нюансом. Купити чоловічі шкіряні боксери з клапаном Passion Short Patrick можна просто зараз за одне натискання мишки.&amp;nbsp;&lt;/p&gt;
@@ -118310,7 +118310,7 @@
         <picture>https://sexopt.com.ua/content/images/38/so7713-99223835512822.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO7713</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Боді Obsessive Leocatia teddy L/XL (SO7713)</name_ua>
         <name>Боді Obsessive Leocatia teddy L/XL (SO7713)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Котячі звички, м&amp;rsquo;яка хода, але непокірна й норовлива &amp;mdash; якщо ці характеристики про вас, то вам обов&amp;rsquo;язково потрібно придбати еротичний костюм леопарда Obsessive Leocatia teddy.&lt;br /&gt;
@@ -118953,14 +118953,14 @@
         <param name="Країна виробник">США</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SO7840" available="true">
+      <offer id="SO7840" available="false">
         <price>109</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/43/so7840-63928785797221.jpg</picture>
         <vendor>Sensuva</vendor>
         <article>SO7840</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Sensuva Ultra-Stimulating On Insane Cotton Candy 6 мл (SO7840)</name_ua>
         <name>Лубрикант Sensuva Ultra-Stimulating On Insane Cotton Candy 6 мл (SO7840)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Хочете спробувати щось новеньке? Тоді рекомендуємо купити лубрикант на комбінованій основі Sensuva &amp;mdash; Ultra-Stimulating On Insane Cotton Candy &amp;mdash; найінтенсивніший стимулювальний лубрикант! Він не тільки забезпечить тривале та легке ковзання, але й посилить задоволення від близькості завдякки додатковим відчуттям &amp;mdash; тепла та пульсацій. Можна використовувати як для проникнень, так і для пестощів клітора &amp;mdash; тут враження будуть не меншими!&lt;/p&gt;
@@ -123383,7 +123383,7 @@
         <param name="Країна виробник">Малайзія</param>
         <param name="Країна реєстрації бренда">Німеччина</param>
       </offer>
-      <offer id="SO8039" available="true">
+      <offer id="SO8039" available="false">
         <price>129</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
@@ -123391,7 +123391,7 @@
         <picture>https://sexopt.com.ua/content/images/1/so8039-29558357955797.jpg</picture>
         <vendor>Mister Size</vendor>
         <article>SO8039</article>
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Презервативи Mister Size pure feel condoms (SO8039)</name_ua>
         <name>Презервативи Mister Size pure feel condoms (SO8039)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Якщо ви хочете отримати максимальну насолоду під час близькості й зовсім не хвилюватися про те, що презерватив може зісковзнути або порватися, вам обов&amp;rsquo;язково потрібно купити набір презервативів Mister Size - pure feel. Він дасть можливість ідеально підібрати розмір презерватива, і він сяде на пеніс буквально як друга шкіра! До набору входить 3 презервативи різних розмірів, щоб ви дослідним способом вибрали найбільш відповідний. Кондоми Mister Size виготовлені з якісного латексу товщиною всього 0,05 мм, чудово тягнуться і дуже міцні. Забезпечують надійний захист від ЗПСШ та небажаної вагітності. Кожен презерватив індивідуально упакований та покритий силіконовою змазкою. Без запаху.&lt;/p&gt;
@@ -132730,7 +132730,7 @@
         <picture>https://sexopt.com.ua/content/images/21/so8450-40239861198767.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO8450</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Боді Passion MOONLIGHT XXL/XXXL Чорний (SO8450)</name_ua>
         <name>Боді Passion MOONLIGHT XXL/XXXL Чорний (SO8450)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Купити боді-халтер з відкритим доступом Passion MOONLIGHT BODY воліють жінки, які звикли підкреслювати свою сексуальність. За допомогою такого виробу можна подарувати коханому чоловікові безліч приємних відчуттів. Боді класичного чорного кольору розміру XXL/XXXL налаштує другу половинку на гарячу та пристрасну ніч.&lt;/p&gt;
@@ -136478,7 +136478,7 @@
         <picture>https://sexopt.com.ua/content/images/47/so8503-50736463125100.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SO8503</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Трусики Art of Sex Love 2XL Червоний (SO8503)</name_ua>
         <name>Трусики Art of Sex Love 2XL Червоний (SO8503)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Трусики Art of Sex - Love з вирізом на попі &amp;ndash; неймовірно еротична та спокуслива білизна. Комфортні і майже невагомі на тілі, вони підкреслять красу ваших принад та зроблять прелюдію більш насиченою та різноманітною. Виготовлені із поєднанням двох матеріалів, таким чином, щоб сердечко на попі було об&amp;rsquo;ємним і максимально привертало увагу красою та оригінальністю дизайну. Не треба знімати ці сексуальні трусики під час прелюдії. Ця модель еротичних трусиків стане в нагоді в якості приємного сюрпризу на день Святого Валентина, річницю відносин або як елемент цікавого рольового костюму.&lt;/p&gt;
@@ -138206,7 +138206,7 @@
         <picture>https://sexopt.com.ua/content/images/27/so8596-51637328404246.jpg</picture>
         <vendor>Leg Avenue</vendor>
         <article>SO8596</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Панчохи Leg Avenue Thigh Highs One size Чорний (SO8596)</name_ua>
         <name>Панчохи Leg Avenue Thigh Highs One size Чорний (SO8596)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Ви закохаєтесь у них із першого погляду! Пропонуємо купити панчохи-сітку з атласним бантиком Leg Avenue Fishnet Thigh Highs With Bow. Самі панчохи чорного кольору, а бантик вишукано виділяється яскравим рожевим&amp;nbsp;кольором. Вони виготовлені з високоякісного матеріалу, міцні, добре облягають ногу і стануть у пригоді як для інтимного побачення, так і для вечірнього виходу. Тим більше, що бантик розташований вгорі, і його можна побачити, лише якщо ви самі цього захочете!&lt;/p&gt;
@@ -139064,7 +139064,7 @@
         <picture>https://sexopt.com.ua/content/images/14/so8634-57450183917866.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO8634</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Obsessive Donna Dream crotchless teddy M/L Чорний (SO8634)</name_ua>
         <name>Боді Obsessive Donna Dream crotchless teddy M/L Чорний (SO8634)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Шукаєте вишукану білизну, яка поєднує в собі стиль, комфорт та чуттєвість? Тоді ви можете купити боді Obsessive Donna Dream crotchless teddy, дизайн якого підкреслює жіночу красу, надаючи родзинку формам фігури.&lt;/p&gt;
@@ -139413,7 +139413,7 @@
         <picture>https://sexopt.com.ua/content/images/17/so8637-59852653042645.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO8637</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Комплект Obsessive Donna Dream 3-pcs M/L Чорний (SO8637)</name_ua>
         <name>Комплект Obsessive Donna Dream 3-pcs M/L Чорний (SO8637)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Білизна, що пробуджує уяву &amp;mdash; усе що вам потрібно! Купіть комплект білизни Obsessive Donna Dream 3-pcs set, який складається з бюстгальтера, стрінгів та пояса для панчіх. М&amp;rsquo;яке мереживо надасть образу спокусливості та сексуальності, що залишить відбиток у пам&amp;rsquo;яті чоловіка на все життя.&lt;/p&gt;
@@ -140962,7 +140962,7 @@
         <picture>https://sexopt.com.ua/content/images/40/so8660-36167926254782.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO8660</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Панчохи Obsessive Lacelove stockings XL/2XL (SO8660)</name_ua>
         <name>Панчохи Obsessive Lacelove stockings XL/2XL (SO8660)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Рекомендуємо купити панчохи під пояс із широким мереживом Obsessive Lacelove stockings &amp;mdash; універсальний та стильний аксесуар, що підходить як для повсякденного використання, так і для романтичних зустрічей із вашою другою половинкою.&lt;/p&gt;
@@ -143426,7 +143426,7 @@
         <picture>https://sexopt.com.ua/content/images/36/so9027-40667206444490.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO9027</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Obsessive Ingridia crotchless teddy XL/2XL Червоний (SO9027)</name_ua>
         <name>Боді Obsessive Ingridia crotchless teddy XL/2XL Червоний (SO9027)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Рекомендуємо купити боді з доступом Obsessive Ingridia crotchless teddy &amp;mdash; чудову білизну для шикарної вас. Це приголомшливе боді навряд чи залишить байдужим вашого партнера: гарний крій і текстура тканини, пікантні деталі та яскравий колір, що манить, роблять цю білизну особливою.&lt;/p&gt;
@@ -143857,7 +143857,7 @@
         <picture>https://sexopt.com.ua/content/images/41/so9041-47509643824244.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO9041</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Панчохи Obsessive Ingridia stockings M/L Червоний (SO9041)</name_ua>
         <name>Панчохи Obsessive Ingridia stockings M/L Червоний (SO9041)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Рекомендуємо купити панчохи Obsessive Ingridia stockings &amp;mdash; чудовий варіант для комфортного носіння щодня або інтимного побачення.&lt;/p&gt;
@@ -144616,7 +144616,7 @@
         <picture>https://sexopt.com.ua/content/images/5/so9072-74043186727649.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SO9072</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Комплект Obsessive Roxelia 2-pcs crotchless M/L (SO9072)</name_ua>
         <name>Комплект Obsessive Roxelia 2-pcs crotchless M/L (SO9072)</name>
         <description>Комплект жіночої білизни Obsessive — розмір M/L. Країна виробництва — Польща.</description>
@@ -145315,7 +145315,7 @@
         <picture>https://sexopt.com.ua/content/images/24/so9104-87368800903842.jpg</picture>
         <vendor>Leg Avenue</vendor>
         <article>SO9104</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Топ Leg Avenue Long Sleeves T-Shiets One Size Чорний (SO9104)</name_ua>
         <name>Топ Leg Avenue Long Sleeves T-Shiets One Size Чорний (SO9104)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Рекомендуємо купити сітчастий топ Leg Avenue Long Sleeves T-Shirts &amp;mdash; ідеальний для інтимної зустрічі та сексуальних образів на кожен день.&lt;/p&gt;
@@ -146650,7 +146650,7 @@
         <picture>https://sexopt.com.ua/content/images/49/so9183-64848336115418.jpg</picture>
         <vendor>Leg Avenue</vendor>
         <article>SO9183</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Рукавички Leg Avenue Opera length bow gloves Білий (SO9183)</name_ua>
         <name>Рукавички Leg Avenue Opera length bow gloves Білий (SO9183)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Рекомендуємо купити довгі рукавички з бантом Leg Avenue Opera length bow top gloves &amp;mdash; легкий симпатичний аксесуар, який вам точно сподобається.&lt;/p&gt;
@@ -148405,7 +148405,7 @@
         <picture>https://sexopt.com.ua/content/images/11/so9343-19842269716274.jpg</picture>
         <vendor>Bijoux Indiscrets</vendor>
         <article>SO9343</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Олія для тіла Bijoux Indiscrets Light my Fire Strawberry Bubblegum 100 мл (SO9343)</name_ua>
         <name>Олія для тіла Bijoux Indiscrets Light my Fire Strawberry Bubblegum 100 мл (SO9343)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Хочете знайти щось особливе для ніжного масажу та оральних пестощів? Рекомендуємо купити розігрівальну олію Bijoux Indiscrets Light my Fire &amp;ndash; Strawberry Bubblegum.&lt;/p&gt;
@@ -148529,7 +148529,7 @@
         <picture>https://sexopt.com.ua/content/images/40/so9350-53092966657656.jpg</picture>
         <vendor>D&amp;A</vendor>
         <article>SO9350</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Боді D&amp;A M (SO9350)</name_ua>
         <name>Боді D&amp;A M (SO9350)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Зверніть увагу на цю приголомшливу білизну від українського бренду. Рекомендуємо купити сітчасте боді з пір&amp;rsquo;ям D&amp;amp;A &amp;mdash; шикарне вбрання для інтимних побачень, епатажних вечірок та прогулянок у приємній компанії.&lt;/p&gt;
@@ -149109,7 +149109,7 @@
         <picture>https://sexopt.com.ua/content/images/27/so9423-90920660975628.jpg</picture>
         <vendor>Feral Feelings</vendor>
         <article>SO9423</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Трусики Feral Feelings String Чорний (SO9423)</name_ua>
         <name>Трусики Feral Feelings String Чорний (SO9423)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Відкрийте для себе світ елегантності та спокуси з ексклюзивними чорними трусиками від Feral Feelings. Ці трусики не просто одяг, вони &amp;mdash; заява про ваш стиль і сексуальність. Створені для тих, хто цінує красу та комфорт, вони ідеально підкреслюють кожну лінію вашого тіла. З витонченими та зручними регульованими ремінцями ці трусики забезпечують ідеальну посадку для будь-якого типу фігури, даруючи вам відчуття впевненості та комфорту. Виготовлені з натуральної шкіри, вони не тільки безпечні для шкіри, але й неймовірно приємні на дотик. Легке очищення та яскравий блиск, що нагадує лаковану шкіру або латекс, роблять їх ідеальним вибором для тих, хто хоче виділитися. Кожна деталь цих трусиків продумана до дрібниць, завдяки чому вони мають не лише стильний, а й елегантний вигляд. Ергономічна форма ефектно підкреслює вигини тіла, роблячи вашу фігуру ще більш привабливою та сексуальною. Ці трусики стануть не просто доповненням до вашого гардероба, а і яскравим акцентом у БДСМ-образі або на рейв-вечірці. Не пропустіть можливість доповнити ваш образ шикарним топом від Feral Feelings, який також доступний для придбання. З Feral Feelings ви створите образ, який ніхто не забуде.&lt;/p&gt;
@@ -150123,14 +150123,14 @@
         <param name="Країна-виробник товару">Китай</param>
         <param name="Країна реєстрації бренду">Німеччина</param>
       </offer>
-      <offer id="SO9611" available="true">
+      <offer id="SO9611" available="false">
         <price>199</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/36/so9611-40373349834521.jpg</picture>
         <vendor>Pjur</vendor>
         <article>SO9611</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Pjur Woman 10 мл (SO9611)</name_ua>
         <name>Лубрикант Pjur Woman 10 мл (SO9611)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Чиста турбота про здоров&amp;rsquo;я та комфорт жінки в одному флаконі! Рекомендуємо вам купити лубрикант на водній основі pjur Woman Nude &amp;mdash; бездоганний зволожувальний продукт без будь-яких добавок.&lt;/p&gt;
@@ -150223,14 +150223,14 @@
         <param name="Країна виробник">Німеччина</param>
         <param name="Країна реєстрації бренду">Люксембург</param>
       </offer>
-      <offer id="SO9612" available="false">
+      <offer id="SO9612" available="true">
         <price>1699</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/37/so9612-63084124054417.jpg</picture>
         <vendor>Pjur</vendor>
         <article>SO9612</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur Woman 250 мл (SO9612)</name_ua>
         <name>Лубрикант Pjur Woman 250 мл (SO9612)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Чиста турбота про здоров&amp;rsquo;я та комфорт жінки в одному флаконі! Рекомендуємо вам купити лубрикант на водній основі pjur Woman Nude &amp;mdash; бездоганний зволожувальний продукт без будь-яких добавок.&lt;/p&gt;
@@ -151170,7 +151170,7 @@
         <picture>https://sexopt.com.ua/content/images/43/so9695-57842967561399.jpg</picture>
         <vendor>Passion</vendor>
         <article>SO9695</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Боді Passion CHIKA L/XL (SO9695)</name_ua>
         <name>Боді Passion CHIKA L/XL (SO9695)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Рекомендуємо купити боді з доступом Passion CHIKA BODY &amp;mdash; пікантне та неймовірно витончене. М&amp;rsquo;яке мереживо, еластичний тонкий матеріал, ефектне поєднання кольору екрю з чорними деталями: це чудове боді стане родзинкою вашого побачення. Відкриті груди та промежина роблять боді незвичайним.&lt;/p&gt;
@@ -154832,14 +154832,14 @@
         <param name="Країна-виробник">Іспанія</param>
         <param name="Країна реєстрації бренда">Іспанія</param>
       </offer>
-      <offer id="SO9825" available="true">
+      <offer id="SO9825" available="false">
         <price>539</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
         <picture>https://sexopt.com.ua/content/images/6/so9825-90987544104489.jpg</picture>
         <vendor>Sensuva</vendor>
         <article>SO9825</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Олія для тіла Sensuva Sizzle Lips Blueberry Ice Pop 59 мл (SO9825)</name_ua>
         <name>Олія для тіла Sensuva Sizzle Lips Blueberry Ice Pop 59 мл (SO9825)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити зігрівальний масажний гель Sensuva Sizzle Lips Blueberry Ice Pop &amp;mdash; абсолютно неймовірний засіб, щоб побалувати партнера! Зробіть йому розслаблюваьний масаж, подуйте на гель, щоб партнер відчув збуджувальне тепло, і доведіть його до екстазу, злизуючи гель з найбільш хвилювальних ділянок тіла! Незвичайне смакове рішення без хімічного присмаку, відсутність цукру та глибоке тепло сподобаються найвибагливішим гурманам.&lt;/p&gt;
@@ -157556,14 +157556,14 @@
         <param name="Країна реєстрації бренду">США</param>
         <param name="Сумісність з презервативом">З латексним</param>
       </offer>
-      <offer id="SO9928" available="true">
+      <offer id="SO9928" available="false">
         <price>469</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/14/so9928-20209596680579.jpg</picture>
         <vendor>Amoreane</vendor>
         <article>SO9928</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Amoreane Warming Effect 50 мл (SO9928)</name_ua>
         <name>Лубрикант Amoreane Warming Effect 50 мл (SO9928)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Хочете зробити ваше інтимне побачення ще спекотнішим? Рекомендуємо купити лубрикант із зігрівальним ефектом Amoreane Warming Effect. Прозорий гелеподібний лубрикант працює моментально, варто лише нанести невелику кількість гелю на шкіру. Тепловий ефект активується, як тільки ви подуєте на цю ділянку. Гель добре ковзає і довго не висихає. Завдяки водній основі він сумісний з іграшками та презервативами, добре змивається зі шкіри, одягу та предметів.&lt;/p&gt;
@@ -159284,7 +159284,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SX0023" available="true">
+      <offer id="SX0023" available="false">
         <price>2639</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -159294,7 +159294,7 @@
         <picture>https://sexopt.com.ua/content/images/6/sx0023-51489057271713.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX0023</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Шорти Noir Handmade F138 Powerwetlook shorts S (SX0023)</name_ua>
         <name>Шорти Noir Handmade F138 Powerwetlook shorts S (SX0023)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Щоб розпалити гарячі фантазії вашого партнера, достатньо надіти ці шорти. Рекомендуємо купити шортики з мокрим ефектом Noir Handmade F138 Powerwetlook shorts &amp;mdash; ультракороткі та максимально сексуальні. М&amp;rsquo;яка еластична тканина з &amp;laquo;мокрим&amp;raquo; ефектом ідеально облягає попку. Шнурівка зі стрічок на накладних кишенях привертає увагу до соковитих сідниць. Подвійна блискавка на промежині &amp;mdash; родзинка цих шортів. Вона може розстібатися ззаду наперед і спереду назад &amp;mdash; усе для зручності доступу до найніжніших місць. Спереду на шортах є коротка блискавка та кнопка для зручності вдягання. Шльовки по поясу шортів призначені для протягування пояса або для кріплення до них інших аксесуарів.&lt;/p&gt;
@@ -165246,7 +165246,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SX0099" available="true">
+      <offer id="SX0099" available="false">
         <price>2899</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -165257,7 +165257,7 @@
         <picture>https://sexopt.com.ua/content/images/48/sx0099-55571338946343.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX0099</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Плаття Noir Handmade F229 Powerwetlook dress lace inserts L (SX0099)</name_ua>
         <name>Плаття Noir Handmade F229 Powerwetlook dress lace inserts L (SX0099)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;У цій сукні ви можете закрутити голову будь-кому, хто на вас погляне. Додайте до образу загадковий погляд, яскраву помаду, спокусливу посмішку, і ваш партнер ще довго не забуде вашу зустріч. Рекомендуємо купити сукню з мереживними вставками Noir Handmade F229 Powerwetlook dress with lace inserts. Це крихітне вбрання &amp;mdash; саме те, що потрібно для привернення уваги, створення вау-ефекту або навіть ефектного прощання. Сукня виконана з матеріалу з мокрим ефектом і вставок із сітки з квітковою вишивкою з боків. Тонкі бретелі красиво підкреслюють ніжні плечі. Еластичний матеріал добре тягнеться і, немов друга шкіра, облягає фігуру. Глибокий виріз і довжина міні роблять сукню особливо привабливою &amp;mdash; будь-який ваш рух може спровокувати бурю захопливих емоцій у оточення. Або, можливо, ви самі керуватимете цією грою, злегка нахиляючись уперед низьким декольте або красиво відставляючи попку назад? Натяки на солодкі моменти, які можуть подарувати соковиті персики й загадкові глибини, здатні довести до екстазу.&lt;/p&gt;
@@ -178690,7 +178690,7 @@
         <picture>https://sexopt.com.ua/content/images/41/sx0347-85506659620881.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX0347</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Комбінезон Noir Handmade F319 Caged L (SX0347)</name_ua>
         <name>Комбінезон Noir Handmade F319 Caged L (SX0347)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо вам купити комбінезон Noir Handmade F319 Caged &amp;mdash; гріховно-спокусливий і водночас дуже практичний. Ця модель допоможе вам втілити фантазії про секс в одязі або створити чудовий образ для БДСМ-сесії.&amp;nbsp;&lt;/p&gt;
@@ -181162,7 +181162,7 @@
         <picture>https://sexopt.com.ua/content/images/3/sx0371-56492001022571.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX0371</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Легінси Noir Handmade F323 Rebel L Чорний (SX0371)</name_ua>
         <name>Легінси Noir Handmade F323 Rebel L Чорний (SX0371)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Прихильницям рольових ігор і домінування пропонуємо купити легінси Noir Handmade F323 Rebel з оригінальним відвертим дизайном. Ця модель навіяна ковбойськими штанами-чапами: вона повністю відкриває стегна, сідниці та інтимну зону. Штанини приєднані до пояса лише спереду з допомогою вузьких смужок тканини, що нагадують підв&amp;#39;язки для панчіх.&lt;/p&gt;
@@ -181540,7 +181540,7 @@
         <picture>https://sexopt.com.ua/content/images/14/sx0375-87247719672978.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX0375</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Топ Noir Handmade F324 Glam S Чорний (SX0375)</name_ua>
         <name>Топ Noir Handmade F324 Glam S Чорний (SX0375)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Подобаються рольові ігри настільки сильно, як і універсальні речі в гардеробі? Тоді радимо вам купити топ Noir Handmade F324 Glam на блискавці з відкритими плечима, який підійде для розваг будь-якого роду.&amp;nbsp;&lt;/p&gt;
@@ -189048,14 +189048,14 @@
         <param name="Країна реєстрації бренду">США</param>
         <param name="Сумісність з презервативом">З усіма типами</param>
       </offer>
-      <offer id="SX0585" available="true">
+      <offer id="SX0585" available="false">
         <price>1359</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/9/sx0585-74741014123707.jpg</picture>
         <vendor>Swiss Navy</vendor>
         <article>SX0585</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Swiss Navy NATURAL All 237 мл (SX0585)</name_ua>
         <name>Лубрикант Swiss Navy NATURAL All 237 мл (SX0585)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Власникам сухої та чутливої ​​шкіри рекомендуємо купити лубрикант на водній основі Swiss Navy Naked All Natural. Ця змазка преміум-якості не тільки забезпечує комфортне проникнення та тривале шовковисте ковзання, але й доглядає за шкірою інтимних зон, пом&amp;rsquo;якшуючи та зволожуючи її.&lt;/p&gt;
@@ -191694,7 +191694,7 @@
         <picture>https://sexopt.com.ua/content/images/33/sx0622-75677873278844.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX0622</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Трусики Obsessive Novenes crotchless thong XS/S (SX0622)</name_ua>
         <name>Трусики Obsessive Novenes crotchless thong XS/S (SX0622)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Чуттєві пестощі, не знімаючи білизни? Для цього вам варто купити трусики-стрінги Obsessive Novenes crotchless thong з доступом. Їхній головний сюрприз &amp;mdash; виріз у промежині, оздоблений чорним кантом.&lt;/p&gt;
@@ -192022,14 +192022,14 @@
         <param name="Країна виробник">США</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SX0660" available="true">
+      <offer id="SX0660" available="false">
         <price>209</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/46/sx0660-47694041937851.jpg</picture>
         <vendor>Sensuva</vendor>
         <article>SX0660</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Sensuva Happy Hiney 6 мл (SX0660)</name_ua>
         <name>Лубрикант Sensuva Happy Hiney 6 мл (SX0660)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Щоб анальний секс приносив лише радість, радимо купити анальний крем Sensuva &amp;mdash; Happy Hiney (6 мл). Цей ніжний вишневий крем був спеціально розроблений, щоб розслабити м&amp;rsquo;язи і зменшити тертя в момент введення. Екстракт чайного дерева у складі зніме запалення, а також матиме бактерицидну дію. Крем можна використати і для оральних ігор!&lt;/p&gt;
@@ -195062,7 +195062,7 @@
         <picture>https://sexopt.com.ua/content/images/12/sx0746-88348508010767.jpg</picture>
         <vendor>ONE</vendor>
         <article>SX0746</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Класичні ONE Fun Mix (SX0746)</name_ua>
         <name>Класичні ONE Fun Mix (SX0746)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Експерименти та захищений секс &amp;mdash; ці поняття чудово поєднуються! Пропонуємо вам переконатися в цьому та купити набір презервативів ONE Fun Mix. Це величезний запас для любителів тактильних новинок: у комплекті є 500 виробів із 6 колекцій-бестселерів бренду. Тут ви знайдете презервативи з різними типами рельєфу, з додатковою змазкою, ультратонкі та світні.&lt;/p&gt;
@@ -195506,7 +195506,7 @@
         <param name="Кількість в упаковці">500</param>
         <param name="Країна реєстрації бренда">США</param>
       </offer>
-      <offer id="SX0755" available="false">
+      <offer id="SX0755" available="true">
         <price>49</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
@@ -195514,7 +195514,7 @@
         <picture>https://sexopt.com.ua/content/images/21/sx0755-85680807275503.jpg</picture>
         <vendor>ONE</vendor>
         <article>SX0755</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name_ua>Презервативи ONE Tattoo Touch Синій (SX0755)</name_ua>
         <name>Презервативи ONE Tattoo Touch Синій (SX0755)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Любите експерименти в ліжку та дбаєте про надійний захист під час сексу? Рекомендуємо купити презерватив ONE Tattoo Touch Blue з незвичайним рельєфним малюнком. Дизайн, натхненний арт-татуюванням, додасть нових граней вашим відчуттям, ніжно стимулюючи внутрішні ерогенні зони. А суперм&amp;rsquo;який латекс та анатомічна форма зроблять контакт ще комфортнішим.&lt;/p&gt;
@@ -195633,7 +195633,7 @@
         <param name="Кількість в упаковці">1</param>
         <param name="Країна реєстрації бренда">США</param>
       </offer>
-      <offer id="SX0756" available="false">
+      <offer id="SX0756" available="true">
         <price>49</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
@@ -195641,7 +195641,7 @@
         <picture>https://sexopt.com.ua/content/images/22/sx0756-96791313340474.jpg</picture>
         <vendor>ONE</vendor>
         <article>SX0756</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name_ua>Презервативи ONE Tattoo Touch Червоний (SX0756)</name_ua>
         <name>Презервативи ONE Tattoo Touch Червоний (SX0756)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Експерименти в сексі можуть бути яскравими та стильними! Переконатись у цьому можна, якщо купити презервативи ONE Tattoo Touch Red з незвичайним рельєфним малюнком. Тонкі, але відчутні реберця нанесені на гладенький червоний латекс у вигляді химерного татуювання. Воно посилить задоволення під час стимуляції ерогенних зон. А завдяки розширеній донизу формі презерватив легко одягається і щільно сидить, не з&amp;rsquo;їжджаючи.&lt;/p&gt;
@@ -195766,7 +195766,7 @@
         <param name="Кількість в упаковці">1</param>
         <param name="Країна реєстрації бренда">США</param>
       </offer>
-      <offer id="SX0757" available="false">
+      <offer id="SX0757" available="true">
         <price>49</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
@@ -195774,7 +195774,7 @@
         <picture>https://sexopt.com.ua/content/images/23/sx0757-83977453518069.jpg</picture>
         <vendor>ONE</vendor>
         <article>SX0757</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name_ua>Презервативи ONE Tattoo Touch Purple Фіолетовий (SX0757)</name_ua>
         <name>Презервативи ONE Tattoo Touch Purple Фіолетовий (SX0757)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Експерименти в сексі можуть бути яскравими та стильними! Переконатись у цьому можна, якщо купити презервативи ONE Tattoo Touch Purple з незвичайним рельєфним малюнком. Тонкі, але відчутні реберця нанесені на гладенький фіолетовий латекс у вигляді химерного татуювання. Воно посилить задоволення під час стимуляції ерогенних зон. А завдяки розширеній донизу формі презерватив легко одягається і щільно сидить, не з&amp;rsquo;їжджаючи.&lt;/p&gt;
@@ -199833,7 +199833,7 @@
         <param name="Кількість в упаковці">10</param>
         <param name="Країна реєстрації бренда">США</param>
       </offer>
-      <offer id="SX0788" available="true">
+      <offer id="SX0788" available="false">
         <price>1049</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
@@ -199841,7 +199841,7 @@
         <picture>https://sexopt.com.ua/content/images/4/sx0788-78818296796139.jpg</picture>
         <vendor>ONE</vendor>
         <article>SX0788</article>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Класичні ONE Mixed Pleasures (SX0788)</name_ua>
         <name>Класичні ONE Mixed Pleasures (SX0788)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Задоволення не буває занадто багато! Тим, хто хоче спробувати в сексі все, пропонуємо купити набір презервативів ONE Mixed Pleasures. У яскравому тубусі представлено вироби із 6 найпопулярніших колекцій торгової марки &amp;mdash; по 2 презервативи кожного виду. Тут ви знайдете презервативи з різними видами рельєфу, кольорові ароматизовані, що світяться в темряві, з додатковою змазкою та ультратонкі.&lt;/p&gt;
@@ -201694,7 +201694,7 @@
         <picture>https://sexopt.com.ua/content/images/48/bodi-obsessive-lobellis-teddy-xl-2xl-19881174681371.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX1016</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Бюстгальтер Obsessive Lobellis teddy XL/2XL Чорний (SX1016)</name_ua>
         <name>Бюстгальтер Obsessive Lobellis teddy XL/2XL Чорний (SX1016)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Вибираєте білизну за принципом: &amp;laquo;комфортна вдень, спокуслива вночі&amp;raquo;? Тоді вам неодмінно варто купити тедді Obsessive Lobellis teddy із глянцевої чорної тканини з повітряним мереживним декором. Спереду вона має вигляд класичної закритої моделі на тонких бретельках із високими вирізами для ніг. Але головний сюрприз розташований ззаду: відкриту попку доповнює глибокий виріз на спині, прикрашений кокетливими зав&amp;rsquo;язками.&lt;/p&gt;
@@ -204804,14 +204804,14 @@
         <param name="Матеріал">Нейлон</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SX1055" available="true">
+      <offer id="SX1055" available="false">
         <price>659</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
         <picture>https://sexopt.com.ua/content/images/28/sx1055-91021236747048.jpg</picture>
         <vendor>Leg Avenue</vendor>
         <article>SX1055</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Рукавички Leg Avenue Lace Opera Length Gloves One Size Чорний (SX1055)</name_ua>
         <name>Рукавички Leg Avenue Lace Opera Length Gloves One Size Чорний (SX1055)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Чиста сексуальність &amp;mdash; у кожному русі ваших рук! Пропонуємо купити рукавички Leg Avenue Lace Opera Length Gloves із ніжного еластичного мережива. Витончений аксесуар із квітковим малюнком прекрасно доповнить як еротичний образ для рольової гри, так і урочисте вечірнє вбрання. Сексуальний мереживний дизайн приверне всі погляди присутніх. А довжина трохи вище ліктя додасть вашому вигляду драматичних ноток: відчуйте себе загадковою незнайомкою з минулого!&lt;/p&gt;
@@ -210198,7 +210198,7 @@
         <picture>https://sexopt.com.ua/content/images/40/sx1175-73377380749006.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX1175</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Панчохи Obsessive Nutris stockings XS/S Чорний (SX1175)</name_ua>
         <name>Панчохи Obsessive Nutris stockings XS/S Чорний (SX1175)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Шукаєте універсальний аксесуар, який доповнить повсякденний, вечірній та еротичний гардероб? Пропонуємо купити панчохи Obsessive Nutris stockings, які поєднують у собі зухвалу еротичність та елегантну жіночність. Ця пара виготовлена ​​з високоякісного панчішного матеріалу, який м&amp;rsquo;яко огорне ноги й не дасть їм спітніти. Верхня резинка з м&amp;rsquo;якого мережива з малюнком із листя контрастує з основним полотном та створює ілюзію, що на ноги одягнені тільки мереживні підв&amp;rsquo;язки.&lt;/p&gt;
@@ -210404,7 +210404,7 @@
         <picture>https://sexopt.com.ua/content/images/39/sx1177-73812282057127.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX1177</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Панчохи Obsessive Nutris stockings XL/2XL Чорний (SX1177)</name_ua>
         <name>Панчохи Obsessive Nutris stockings XL/2XL Чорний (SX1177)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Шукаєте універсальний аксесуар, який доповнить повсякденний, вечірній та еротичний гардероб? Пропонуємо купити панчохи Obsessive Nutris stockings, які поєднують у собі зухвалу еротичність та елегантну жіночність. Ця пара виготовлена ​​з високоякісного панчішного матеріалу, який м&amp;rsquo;яко огорне ноги й не дасть їм спітніти. Верхня резинка з м&amp;rsquo;якого мережива з малюнком із листя контрастує з основним полотном та створює ілюзію, що на ноги одягнені тільки мереживні підв&amp;rsquo;язки.&lt;/p&gt;
@@ -211804,7 +211804,7 @@
         <picture>https://sexopt.com.ua/content/images/36/sx1295-60024150959725.jpg</picture>
         <vendor>Lelo</vendor>
         <article>SX1295</article>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <name_ua>Збільшеного розміру Lelo HEX Condoms Respect XL Pack (SX1295)</name_ua>
         <name>Збільшеного розміру Lelo HEX Condoms Respect XL Pack (SX1295)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Великі презервативи для великого задоволення! Пропонуємо купити презервативи LELO HEX Condoms Respect XL, виконані в збільшеному розмірі. Неймовірно міцні завдяки унікальній технології LELO HEX, вони практично не відчуваються під час близькості. Гексагональна структура &amp;mdash; ​​350 найтонших шестикутників замість абсолютної гладкості &amp;mdash; забезпечує ідеальне облягання пеніса та додатковий захист, а дуже тонкий латекс (0,045 мм) не заважає природній насолоді. Розмір збільшено на 10&amp;thinsp;% щодо LELO HEX Condoms Original. У пакованні 12 шт.&lt;/p&gt;
@@ -212472,14 +212472,14 @@
         <param name="Країна реєстрації бренду">Япония</param>
         <param name="Сумісність з презервативом">З усіма типами</param>
       </offer>
-      <offer id="SX1343" available="true">
+      <offer id="SX1343" available="false">
         <price>569</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/40/sx1343-78161540032065.jpg</picture>
         <vendor>Swiss Navy</vendor>
         <article>SX1343</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Swiss Navy Slip&#x27;N Slide Premium Jelly 59 мл (SX1343)</name_ua>
         <name>Лубрикант Swiss Navy Slip&#x27;N Slide Premium Jelly 59 мл (SX1343)</name>
         <description>Лубрикант на водній основі  Swiss Navy Slip&#x27;N Slide Premium Jelly 59 мл.</description>
@@ -215408,7 +215408,7 @@
         <param name="Призначення">Масажна</param>
         <param name="Країна реєстрації бренда">Бразилія-Португалія</param>
       </offer>
-      <offer id="SX1546" available="true">
+      <offer id="SX1546" available="false">
         <price>1399</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
@@ -215418,7 +215418,7 @@
         <picture>https://sexopt.com.ua/content/images/39/sx1546-45761705590456.jpg</picture>
         <vendor>Orgie</vendor>
         <article>SX1546</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Ваніль Orgie Sexy Therapy Secret 200 мл (SX1546)</name_ua>
         <name>Ваніль Orgie Sexy Therapy Secret 200 мл (SX1546)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пориньте в атмосферу справжньої насолоди та релаксу! Пропонуємо купити масажну олію Orgie &amp;ndash; Sexy Therapy &amp;mdash; гібридну мінеральну олію для тіла, збагачену цінними натуральними компонентами. Її унікальна формула поєднує в собі олії солодкого мигдалю та виноградних кісточок, які глибоко живлять і зволожують шкіру, надаючи їй шовковисту гладкість та здорове сяйво. Олія має&amp;nbsp;чуттєвий ванільно-квітковий аромат. Ніжність, догляд і чуттєвість у кожній краплі!&lt;/p&gt;
@@ -218001,7 +218001,7 @@
         <param name="Розмір">One Size</param>
         <param name="Країна реєстрації бренду">Китай</param>
       </offer>
-      <offer id="SX1820" available="true">
+      <offer id="SX1820" available="false">
         <price>479</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -218013,7 +218013,7 @@
         <picture>https://sexopt.com.ua/content/images/14/sx1820-71889767195823.jpg</picture>
         <vendor>JSY</vendor>
         <article>SX1820</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Комплект JSY WW7040 One Size Чорний (SX1820)</name_ua>
         <name>Комплект JSY WW7040 One Size Чорний (SX1820)</name>
         <description>Комплект жіночої білизни JSY — чорний колір, розмір One Size.</description>
@@ -218886,7 +218886,7 @@
         <picture>https://sexopt.com.ua/content/images/25/sx1936-30821785267306.jpg</picture>
         <vendor>Passion</vendor>
         <article>SX1936</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Колготки Passion TIOPEN 3/4 Чорний (SX1936)</name_ua>
         <name>Колготки Passion TIOPEN 3/4 Чорний (SX1936)</name>
         <description>Жіночі колготки Passion — чорний колір, розмір 3/4.</description>
@@ -220219,7 +220219,7 @@
         <picture>https://sexopt.com.ua/content/images/39/sx2012-47569703468902.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX2012</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Комбінезон Noir Handmade F353 powerwetlook overall XXL Червоний (SX2012)</name_ua>
         <name>Комбінезон Noir Handmade F353 powerwetlook overall XXL Червоний (SX2012)</name>
         <description>Жіночий комбінезон Noir Handmade — червоний колір, розмір XXL.</description>
@@ -221696,7 +221696,7 @@
         <picture>https://sexopt.com.ua/content/images/1/sx2116-84227809626248.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX2116</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Шорти Noir Handmade F335 Powerwetlook shorts L L (SX2116)</name_ua>
         <name>Шорти Noir Handmade F335 Powerwetlook shorts L L (SX2116)</name>
         <description>Жіночі шорти Noir Handmade — розмір L.</description>
@@ -222945,7 +222945,7 @@
         <picture>https://sexopt.com.ua/content/images/50/sx2372-63510153520341.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX2372</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Art of Sex Josephine M M Чорний (SX2372)</name_ua>
         <name>Боді Art of Sex Josephine M M Чорний (SX2372)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Спокусливе боді в новому форматі Art of Sex - Josephine - саме те, що вам потрібно! Боді виготовлене з високоякісного лакованого вінілу та ідеально підкреслює всі принади жіночого тіла. Відверте боді комфортне під час носіння та неймовірно гладеньке і приємне на дотик. Боді прикрашене пікантною шнурівкою по всій довжині виробу, що робить її ще більш сексуальною та відвертішою.&lt;/p&gt;
@@ -222969,7 +222969,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SX2375" available="true">
+      <offer id="SX2375" available="false">
         <price>1689</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -222979,7 +222979,7 @@
         <picture>https://sexopt.com.ua/content/images/5/sx2375-14963963088110.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX2375</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Боді Art of Sex Josephine L L Червоний (SX2375)</name_ua>
         <name>Боді Art of Sex Josephine L L Червоний (SX2375)</name>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Спокусливе боді в новому форматі Art of Sex - Josephine - саме те, що вам потрібно! Боді виготовлене з високоякісного лакованого вінілу та ідеально підкреслює всі принади жіночого тіла. Відверте боді комфортне під час носіння та неймовірно гладеньке і приємне на дотик. Боді прикрашене пікантною шнурівкою по всій довжині виробу, що робить її ще більш сексуальною та відвертішою.&lt;/p&gt;
@@ -223457,14 +223457,14 @@
         <param name="Кількість в упаковці">3</param>
         <param name="Країна реєстрації бренда">Бельгія</param>
       </offer>
-      <offer id="SX2383" available="false">
+      <offer id="SX2383" available="true">
         <price>959</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://sexopt.com.ua/content/images/11/sx2383-40811768056534.jpg</picture>
         <vendor>SKYN</vendor>
         <article>SX2383</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name_ua>Безлатексні SKYN Elite (SX2383)</name_ua>
         <name>Безлатексні SKYN Elite (SX2383)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;На 15&amp;thinsp;% тонші, ніж SKYN Original! Пропонуємо купити безлатексні презервативи SKYN Elite &amp;mdash; ультратонкі та ультрам&amp;rsquo;які, створені для чуттєвого досвіду. Ідеальний варіант для тих, хто не може використовувати латекс, і водночас хоче отримати максимум від близькості! Дуже добре розтягуються, ідеально облягають тіло й не мають жодного запаху. Виготовлені із запатентованого матеріалу SKYNFEEL&amp;reg;.&lt;/p&gt;
@@ -224356,14 +224356,14 @@
         <param name="Кількість в упаковці">40</param>
         <param name="Країна реєстрації бренда">Бельгія</param>
       </offer>
-      <offer id="SX2392" available="false">
+      <offer id="SX2392" available="true">
         <price>1669</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://sexopt.com.ua/content/images/14/sx2392-81479956171014.jpg</picture>
         <vendor>SKYN</vendor>
         <article>SX2392</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name_ua>Безлатексні SKYN Selection Original+Intense Feel+Elite Extra Lubricated (SX2392)</name_ua>
         <name>Безлатексні SKYN Selection Original+Intense Feel+Elite Extra Lubricated (SX2392)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити набір безлатексних презервативів SKYN Selection &amp;mdash; комплект із найкращих і найкомфортніших презервативів SKYN! У ньому є одразу три види кондомів: SKYN Original &amp;mdash; класичні тонкі презервативи для максимально природних відчуттів; презервативи SKYN Intense Feel &amp;mdash; з опуклою точковою текстурою для додаткових відчуттів, а також SKYN Elite Extra Lubricated &amp;mdash; ультратонкі презервативи (на 15&amp;thinsp;% тонші за оригінальні) з додатковою змазкою (на 40&amp;thinsp;% більше лубриканту, ніж у стандартних) для тривалого приємного ковзання! По 10 штук кожного виду плюс 5 безкоштовних презервативів!&lt;/p&gt;
@@ -224440,14 +224440,14 @@
         <param name="Кількість в упаковці">35</param>
         <param name="Країна реєстрації бренда">Бельгія</param>
       </offer>
-      <offer id="SX2393" available="false">
+      <offer id="SX2393" available="true">
         <price>1599</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://sexopt.com.ua/content/images/22/sx2393-85390439163579.jpg</picture>
         <vendor>SKYN</vendor>
         <article>SX2393</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name_ua>Безлатексні SKYN Elite (SX2393)</name_ua>
         <name>Безлатексні SKYN Elite (SX2393)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;На 15&amp;thinsp;% тонші, ніж SKYN Original! Пропонуємо купити безлатексні презервативи SKYN Elite &amp;mdash; ультратонкі та ультрам&amp;rsquo;які, створені для чуттєвого досвіду. Ідеальний варіант для тих, хто не може використовувати латекс, і водночас хоче отримати максимум від близькості! Дуже добре розтягуються, ідеально облягають тіло й не мають жодного запаху. Виготовлені із запатентованого матеріалу SKYNFEEL&amp;reg;.&lt;/p&gt;
@@ -225185,7 +225185,7 @@
         <param name="Країна реєстрації бренду">Бельгія</param>
         <param name="Сумісність з презервативом">З усіма типами</param>
       </offer>
-      <offer id="SX2400" available="false">
+      <offer id="SX2400" available="true">
         <price>829</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -225193,7 +225193,7 @@
         <picture>https://sexopt.com.ua/content/images/12/sx2400-35161903993009.jpg</picture>
         <vendor>SKYN</vendor>
         <article>SX2400</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант SKYN All Night Long 80 мл (SX2400)</name_ua>
         <name>Лубрикант SKYN All Night Long 80 мл (SX2400)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити лубрикант на силіконовій основі SKYN All Night Long &amp;mdash; абсолютно чисту змазку з двох видів силікону, яка дарує тривале відчуття м&amp;rsquo;якості та оксамитовості. Жодних запашників, консервантів і парабенів &amp;mdash; тільки шовковистий силікон для тривалого ковзання. Ідеально для цілої ночі гарячих пестощів та близькості!&lt;/p&gt;
@@ -225594,14 +225594,14 @@
         <param name="Форма випуску">Гель</param>
         <param name="Країна реєстрації бренду">Бельгія</param>
       </offer>
-      <offer id="SX2407" available="false">
+      <offer id="SX2407" available="true">
         <price>2379</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://sexopt.com.ua/content/images/24/sx2407-98095638891212.jpg</picture>
         <vendor>SKYN</vendor>
         <article>SX2407</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name_ua>Безлатексні SKYN Elite (SX2407)</name_ua>
         <name>Безлатексні SKYN Elite (SX2407)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;На 15&amp;thinsp;% тонші, ніж SKYN Original! Пропонуємо купити безлатексні презервативи SKYN Elite &amp;mdash; ультратонкі та ультрам&amp;rsquo;які, створені для чуттєвого досвіду. Ідеальний варіант для тих, хто не може використовувати латекс, і водночас хоче отримати максимум від близькості! Дуже добре розтягуються, ідеально облягають тіло й не мають жодного запаху. Виготовлені із запатентованого матеріалу SKYNFEEL&amp;reg;.&lt;/p&gt;
@@ -226180,7 +226180,7 @@
         <picture>https://sexopt.com.ua/content/images/14/sx2495-17431873875981.jpg</picture>
         <vendor>Passion</vendor>
         <article>SX2495</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Колготки Passion TIOPEN 1/2 Чорний (SX2495)</name_ua>
         <name>Колготки Passion TIOPEN 1/2 Чорний (SX2495)</name>
         <description>Жіночі колготки Passion — чорний колір, розмір 1/2.</description>
@@ -227729,7 +227729,7 @@
         <param name="Матеріал">Нейлон</param>
         <param name="Країна реєстрації бренду">Франція</param>
       </offer>
-      <offer id="SX2607" available="true">
+      <offer id="SX2607" available="false">
         <price>279</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -227738,7 +227738,7 @@
         <picture>https://sexopt.com.ua/content/images/21/sx2607-20496966039127.jpg</picture>
         <vendor>Fashion Secret</vendor>
         <article>SX2607</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Трусики Fashion Secret Victoria Білий (SX2607)</name_ua>
         <name>Трусики Fashion Secret Victoria Білий (SX2607)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Купіть трусики з відкритим доступом Fashion Secret Victoria &amp;mdash; вони стануть справжнім відкриттям для вашої колекції білизни. Елегантні, з гладеньким і мінімалістичним дизайном, вони ідеально поєднують стиль і комфорт. Практичність тут на першому місці: не потрібно витрачати час на зайві рухи &amp;mdash; трусики залишаються на місці навіть у найпристрасніші моменти.&lt;/p&gt;
@@ -227889,7 +227889,7 @@
         <param name="Матеріал">Поліамід</param>
         <param name="Країна реєстрації бренду">Франція</param>
       </offer>
-      <offer id="SX2611" available="true">
+      <offer id="SX2611" available="false">
         <price>279</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -227898,7 +227898,7 @@
         <picture>https://sexopt.com.ua/content/images/25/sx2611-65789121511703.jpg</picture>
         <vendor>Fashion Secret</vendor>
         <article>SX2611</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Трусики Fashion Secret Ambre Червоний (SX2611)</name_ua>
         <name>Трусики Fashion Secret Ambre Червоний (SX2611)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Купіть трусики з відкритим доступом Fashion Secret Ambre &amp;mdash; вони стануть ідеальним доповненням для романтичних вечорів та грайливого настрою. Вишукане поєднання тонкого мережива та прозорої сітки елегантно облягає тіло, підкреслюючи всі вигини, а витончений дизайн із декоративними квітковими елементами спереду та ззаду додає образу ніжності та шарму. Конструкція з відкритим доступом надає моделі сміливості, перетворюючи звичайну білизну на справжній предмет притягання. Кожна деталь продумана, щоб ви відчували себе впевнено, жіночно та по-справжньому привабливою.&lt;/p&gt;
@@ -228121,7 +228121,7 @@
         <param name="Матеріал">Мереживо</param>
         <param name="Країна реєстрації бренду">Франція</param>
       </offer>
-      <offer id="SX2615" available="true">
+      <offer id="SX2615" available="false">
         <price>349</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -228130,7 +228130,7 @@
         <picture>https://sexopt.com.ua/content/images/29/sx2615-94029624140711.jpg</picture>
         <vendor>Fashion Secret</vendor>
         <article>SX2615</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Трусики Fashion Secret Zoe Чорний (SX2615)</name_ua>
         <name>Трусики Fashion Secret Zoe Чорний (SX2615)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Мереживні трусики з доступом Fashion Secret Zoe &amp;mdash; ідеальний вибір для тих, хто хоче поєднувати комфорт, спокусу й зухвалу жіночність. Кожна деталь створена, щоб підкреслювати вашу індивідуальність. Легке мереживо й тонкі резиночки мають не просто гарний вигляд &amp;mdash; вони створюють відчуття невагомості та свободи.&lt;/p&gt;
@@ -228539,7 +228539,7 @@
         <picture>https://sexopt.com.ua/content/images/36/sx2622-39119233974826.jpg</picture>
         <vendor>Fashion Secret</vendor>
         <article>SX2622</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Трусики Fashion Secret Cindy Білий (SX2622)</name_ua>
         <name>Трусики Fashion Secret Cindy Білий (SX2622)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Пропонуємо купити трусики з відкритим доступом Fashion Secret Cindy &amp;mdash; білизну, яка робить образ неймовірно сексуальним і зухвалим. Вони виготовлені з м&amp;rsquo;якого, приємного до тіла матеріалу, ідеально тягнуться та дихають, підкреслюють лінії стегон і витончено закривають сідниці. Тонке мереживо та яскравий дизайн створюють особливо пікантний вигляд, а сміливі вирізи в інтимній зоні дають змогу бути готовою до пристрасті миттєво, без зайвих рухів.&lt;/p&gt;
@@ -228726,7 +228726,7 @@
         <param name="Країна-виробник товару">Китай</param>
         <param name="Країна реєстрації бренду">Китай</param>
       </offer>
-      <offer id="SX2632" available="true">
+      <offer id="SX2632" available="false">
         <price>1239</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -228738,7 +228738,7 @@
         <picture>https://sexopt.com.ua/content/images/12/sx2632-16178306420766.jpg</picture>
         <vendor>JSY</vendor>
         <article>SX2632</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Комплект JSY One Size (SX2632)</name_ua>
         <name>Комплект JSY One Size (SX2632)</name>
         <description>Комплект жіночої білизни JSY — розмір One Size. Країна виробництва — Китай.</description>
@@ -228893,7 +228893,7 @@
         <param name="Призначення">Масажна</param>
         <param name="Країна реєстрації бренда">Бразилия-Португалия</param>
       </offer>
-      <offer id="SX2662" available="true">
+      <offer id="SX2662" available="false">
         <price>689</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -228902,7 +228902,7 @@
         <picture>https://sexopt.com.ua/content/images/48/sx2662-38736686524436.jpg</picture>
         <vendor>Intt</vendor>
         <article>SX2662</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Intt Slide Vibe 35 мл (SX2662)</name_ua>
         <name>Лубрикант Intt Slide Vibe 35 мл (SX2662)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Вібролубрикант Intt Slide and Vibe дає ефект легкої вібрації без жодного пристрою — достатньо кількох крапель. Водна основа забезпечує сумісність з презервативами та іграшками, а також легке змивання. Об&#x27;єм 35 мл розрахований на знайомство з форматом, бо витрата тут мінімальна. Стимулювальний ефект стає приємною несподіванкою для партнера, якщо не попереджати заздалегідь. Перевірте реакцію на невеликій ділянці шкіри. Замовляйте та спробуйте вібрацію без батарейок.&lt;/p&gt;</description>
@@ -230574,14 +230574,14 @@
         <param name="Матеріал">Нейлон</param>
         <param name="Країна реєстрації бренду">США</param>
       </offer>
-      <offer id="SX2809" available="true">
+      <offer id="SX2809" available="false">
         <price>99</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://sexopt.com.ua/content/images/1/sx2809-57032693703372.jpg</picture>
         <vendor>Intt</vendor>
         <article>SX2809</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Лубрикант Intt Coconut 2 мл (SX2809)</name_ua>
         <name>Лубрикант Intt Coconut 2 мл (SX2809)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Якісна змазка &amp;mdash; це гарантія комфортної, приємної та тривалої близькості. Купуйте доглядальний лубрикант Intt Coconut, який не тільки зробить проникнення ще приємнішим, але й ніжно доглядатиме за чутливою шкірою інтимних зон. Змазка на водній основі з приємним ароматом кокоса підійде для тривалого інтенсивного сексу, для використання з іграшками з будь-яких матеріалів і з презервативами.&lt;/p&gt;
@@ -231600,7 +231600,7 @@
         <picture>https://sexopt.com.ua/content/images/48/sx2920-98117971650921.jpg</picture>
         <vendor>Passion</vendor>
         <article>SX2920</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Passion EVALIE S S Чорний (SX2920)</name_ua>
         <name>Боді Passion EVALIE S S Чорний (SX2920)</name>
         <description>Жіноче боді Passion — чорний колір, розмір S.</description>
@@ -232010,7 +232010,7 @@
         <picture>https://sexopt.com.ua/content/images/14/sx2936-48933656803579.jpg</picture>
         <vendor>Passion</vendor>
         <article>SX2936</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Комплект Passion RESILQUE S S Білий (SX2936)</name_ua>
         <name>Комплект Passion RESILQUE S S Білий (SX2936)</name>
         <description>Комплект жіночої білизни Passion — білий колір, розмір S.</description>
@@ -232083,7 +232083,7 @@
         <picture>https://sexopt.com.ua/content/images/17/sx2939-75733893059846.jpg</picture>
         <vendor>Passion</vendor>
         <article>SX2939</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Боді Passion SENSIE M M Чорний (SX2939)</name_ua>
         <name>Боді Passion SENSIE M M Чорний (SX2939)</name>
         <description>Жіноче боді Passion — чорний колір, розмір M.</description>
@@ -232324,7 +232324,7 @@
         <picture>https://sexopt.com.ua/content/images/27/sx2949-96172961127749.jpg</picture>
         <vendor>Passion</vendor>
         <article>SX2949</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Passion SENSIE coral XL XL (SX2949)</name_ua>
         <name>Боді Passion SENSIE coral XL XL (SX2949)</name>
         <description>Жіноче боді Passion — розмір XL.</description>
@@ -233105,7 +233105,7 @@
         <picture>https://sexopt.com.ua/content/images/8/sx2980-19164314923846.jpg</picture>
         <vendor>Passion</vendor>
         <article>SX2980</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Passion VELMORE S S Чорний (SX2980)</name_ua>
         <name>Боді Passion VELMORE S S Чорний (SX2980)</name>
         <description>Жіноче боді Passion — чорний колір, розмір S.</description>
@@ -234807,7 +234807,7 @@
         <picture>https://sexopt.com.ua/content/images/10/sx3045-68327315883753.jpg</picture>
         <vendor>Lelo</vendor>
         <article>SX3045</article>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>8</stock_quantity>
         <name_ua>Презервативи Lelo HEX Condoms Organic Pack (SX3045)</name_ua>
         <name>Презервативи Lelo HEX Condoms Organic Pack (SX3045)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Якщо вам потрібні по-справжньому міцні презервативи, які забезпечують максимально природні відчуття, то рекомендуємо купити презервативи LELO HEX Condoms Organic. Революційна знахідка розробників LELO &amp;mdash; унікальна гексагональна текстура, яка одночасно забезпечує максимальну міцність та чутливість. Крім того, така текстура, схожа на стільники, дає змогу кондому ідеально облягати пеніс. Цей презерватив практично неможливо порвати, він чудово тягнеться та особливо ніжний на дотик. Товщина презерватива 0,045 мм, розмір універсальний, у пакованні 36 шт.&lt;/p&gt;
@@ -239317,7 +239317,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SX3383" available="false">
+      <offer id="SX3383" available="true">
         <price>889</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -239327,7 +239327,7 @@
         <picture>https://sexopt.com.ua/content/images/43/sx3383-55020535300036.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX3383</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Панчохи Art of Sex Mistress M Чорний (SX3383)</name_ua>
         <name>Панчохи Art of Sex Mistress M Чорний (SX3383)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Ефектні вінілові панчохи створені для сміливих і виразних образів. Висока посадка візуально подовжує ноги та підкреслює силует, створюючи яскравий акцент у будь-якому комплекті.&lt;/p&gt;
@@ -240049,7 +240049,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SX3406" available="false">
+      <offer id="SX3406" available="true">
         <price>1099</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -240057,7 +240057,7 @@
         <picture>https://sexopt.com.ua/content/images/12/63199602257449.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX3406</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Рукавички Art of Sex Mistress M Чорний (SX3406)</name_ua>
         <name>Рукавички Art of Sex Mistress M Чорний (SX3406)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Довгі рукавички з вінілу &amp;mdash; виразний аксесуар для сміливих і продуманих образів. Подовжена форма красиво підкреслює лінію рук і робить силует більш витонченим та ефектним. Це деталь, яка одразу привертає увагу й задає характер усьому образу.&lt;/p&gt;
@@ -241413,7 +241413,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SX3464" available="true">
+      <offer id="SX3464" available="false">
         <price>1219</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -241422,7 +241422,7 @@
         <picture>https://sexopt.com.ua/content/images/49/sx3464-68039689003360.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX3464</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Спідниця Art of Sex Molly 2XL Чорний (SX3464)</name_ua>
         <name>Спідниця Art of Sex Molly 2XL Чорний (SX3464)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Смілива міні-спідниця з щільного вінілу &amp;mdash; акцентна модель для впевнених і виразних образів. Висока посадка підкреслює лінію талії та формує чіткий, зібраний силует, візуально витягуючи фігуру. Матеріал красиво облягає тіло, тримає форму й створює ефект гладкої, дзеркальної поверхні.&lt;/p&gt;
@@ -241585,7 +241585,7 @@
         <picture>https://sexopt.com.ua/content/images/33/32311933986342.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX3528</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Плаття Art of Sex Demeter L Чорний (SX3528)</name_ua>
         <name>Плаття Art of Sex Demeter L Чорний (SX3528)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Ця міні-сукня створена для сценаріїв, де ти задаєш правила. Облягаючий крій підкреслює груди, талію та стегна, формуючи зухвалий, привабливий силует. Міні-довжина посилює ефект і робить образ максимально відвертим.&lt;/p&gt;
@@ -241614,7 +241614,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SX3529" available="true">
+      <offer id="SX3529" available="false">
         <price>669</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -241623,7 +241623,7 @@
         <picture>https://sexopt.com.ua/content/images/34/sx3529-17988530770954.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX3529</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Рукавички Art of Sex Margo S Чорний (SX3529)</name_ua>
         <name>Рукавички Art of Sex Margo S Чорний (SX3529)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Ці вінілові мітенки &amp;mdash; чистий характер. Довгі, глянцеві, з відкритими пальцями &amp;mdash; вони візуально подовжують силует рук і додають образу хижої впевненості. Щільний вініл красиво облягає шкіру, створюючи ефект другої шкіри з дзеркальним блиском.&lt;/p&gt;
@@ -241993,7 +241993,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SX3561" available="true">
+      <offer id="SX3561" available="false">
         <price>1899</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -242007,7 +242007,7 @@
         <picture>https://sexopt.com.ua/content/images/28/sx3561-99057252491201.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX3561</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Боді Obsessive Dominna crotchless teddy S/M (SX3561)</name_ua>
         <name>Боді Obsessive Dominna crotchless teddy S/M (SX3561)</name>
         <description>Жіноче боді Obsessive — розмір S/M. Країна виробництва — Польща.</description>
@@ -242216,7 +242216,7 @@
         <picture>https://sexopt.com.ua/content/images/40/sx3573-20755096863049.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX3573</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Трусики Obsessive Dominna crotchless thong 2XL/3XL (SX3573)</name_ua>
         <name>Трусики Obsessive Dominna crotchless thong 2XL/3XL (SX3573)</name>
         <description>Жіночі трусики Obsessive — розмір 2XL/3XL. Особливості моделі: трусики-стринги. Країна виробництва — Польща.</description>
@@ -242283,7 +242283,7 @@
         <picture>https://sexopt.com.ua/content/images/43/sx3576-32590809922478.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX3576</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Obsessive Euridia crotchless teddy XL/2XL (SX3576)</name_ua>
         <name>Боді Obsessive Euridia crotchless teddy XL/2XL (SX3576)</name>
         <description>Жіноче боді Obsessive — розмір XL/2XL. Країна виробництва — Польща.</description>
@@ -242327,7 +242327,7 @@
         <picture>https://sexopt.com.ua/content/images/45/sx3578-96552435858264.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX3578</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Корсет Obsessive Euridia corset tanga M/L Чорний (SX3578)</name_ua>
         <name>Корсет Obsessive Euridia corset tanga M/L Чорний (SX3578)</name>
         <description>Жіночий корсет Obsessive — чорний колір, розмір M/L. Матеріал — поліамід. Країна виробництва — Китай.</description>
@@ -242695,7 +242695,7 @@
         <picture>https://sexopt.com.ua/content/images/23/sx3606-15442284467520.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX3606</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Obsessive Matildea crotchless teddy S/M (SX3606)</name_ua>
         <name>Боді Obsessive Matildea crotchless teddy S/M (SX3606)</name>
         <description>Жіноче боді Obsessive — розмір S/M. Країна виробництва — Польща.</description>
@@ -242735,7 +242735,7 @@
         <picture>https://sexopt.com.ua/content/images/25/sx3608-82374299166048.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX3608</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Комплект Obsessive Matildea 2-pcs crotchless S/M (SX3608)</name_ua>
         <name>Комплект Obsessive Matildea 2-pcs crotchless S/M (SX3608)</name>
         <description>Комплект жіночої білизни Obsessive — розмір S/M. Країна виробництва — Польща.</description>
@@ -242855,7 +242855,7 @@
         <picture>https://sexopt.com.ua/content/images/31/sx3614-74784369115630.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX3614</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Трусики Obsessive Matildea crotchless thong S/M (SX3614)</name_ua>
         <name>Трусики Obsessive Matildea crotchless thong S/M (SX3614)</name>
         <description>Жіночі трусики Obsessive — розмір S/M. Особливості моделі: трусики-стринги. Країна виробництва — Польща.</description>
@@ -242992,7 +242992,7 @@
         <picture>https://sexopt.com.ua/content/images/37/sx3620-54791144402822.jpg</picture>
         <vendor>Obsessive</vendor>
         <article>SX3620</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Боді Obsessive Soranna long-sleeved teddy S/M Коричневий (SX3620)</name_ua>
         <name>Боді Obsessive Soranna long-sleeved teddy S/M Коричневий (SX3620)</name>
         <description>Жіноче боді Obsessive — коричневий колір, розмір S/M. Матеріал — поліестер. Країна виробництва — Китай.</description>
@@ -243381,7 +243381,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SX3636" available="false">
+      <offer id="SX3636" available="true">
         <price>3799</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
@@ -243389,7 +243389,7 @@
         <picture>https://sexopt.com.ua/content/images/18/sx3636-92174393875867.jpg</picture>
         <vendor>Pjur</vendor>
         <article>SX3636</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Лубрикант Pjur Original 500 мл (SX3636)</name_ua>
         <name>Лубрикант Pjur Original 500 мл (SX3636)</name>
         <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify;&quot;&gt;Розраховуєте на тривалі любовні ігри та підшукуєте відповідний лубрикант? Рекомендуємо купити універсальний&amp;nbsp;лубрикант на силіконовій основі pjur Original &amp;mdash; з нею ви дізнаєтеся, що таке по-справжньому стійке зволоження! Особливість продукту &amp;mdash; високоякісний силікон, який створює на поверхні гладеньку плівку, забезпечуючи тривале комфортне ковзання. Водночас у силіконового &amp;laquo;бар&amp;rsquo;єра&amp;raquo; є бонусний ефект: він робить шкіру м&amp;rsquo;якою, гладенькою і шовковистою. Такий&amp;nbsp;лубрикант підійде не тільки для інтимної близькості, але і для масажу. Крім того, вона сумісна із латексними презервативами.&lt;/p&gt;
@@ -245239,7 +245239,7 @@
         <picture>https://sexopt.com.ua/content/images/33/68228236319958.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX3821</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>Трусики Art of Sex Isabell 2XL Червоний (SX3821)</name_ua>
         <name>Трусики Art of Sex Isabell 2XL Червоний (SX3821)</name>
         <description>&lt;p&gt;Мереживні трусики, які підкреслюють кожну лінію тіла та створюють привабливий, чуттєвий образ. М&amp;rsquo;яке мереживо ніжно огортає шкіру, додаючи легкості та спокусливої прозорості.&lt;/p&gt;
@@ -245557,7 +245557,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SX3876" available="false">
+      <offer id="SX3876" available="true">
         <price>669</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -245566,7 +245566,7 @@
         <picture>https://sexopt.com.ua/content/images/27/98981816067869.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX3876</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Рукавички Art of Sex Margo M Чорний (SX3876)</name_ua>
         <name>Рукавички Art of Sex Margo M Чорний (SX3876)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Ці вінілові мітенки &amp;mdash; чистий характер. Довгі, глянцеві, з відкритими пальцями &amp;mdash; вони візуально подовжують силует рук і додають образу хижої впевненості. Щільний вініл красиво облягає шкіру, створюючи ефект другої шкіри з дзеркальним блиском.&lt;/p&gt;
@@ -245791,7 +245791,7 @@
         <param name="Країна-виробник товару">Україна</param>
         <param name="Країна реєстрації бренду">Україна</param>
       </offer>
-      <offer id="SX3887" available="true">
+      <offer id="SX3887" available="false">
         <price>669</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -245800,7 +245800,7 @@
         <picture>https://sexopt.com.ua/content/images/38/90243686168492.jpg</picture>
         <vendor>Art of Sex</vendor>
         <article>SX3887</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Рукавички Art of Sex Margo L Чорний (SX3887)</name_ua>
         <name>Рукавички Art of Sex Margo L Чорний (SX3887)</name>
         <description>&lt;p dir=&quot;ltr&quot;&gt;Ці вінілові мітенки &amp;mdash; чистий характер. Довгі, глянцеві, з відкритими пальцями &amp;mdash; вони візуально подовжують силует рук і додають образу хижої впевненості. Щільний вініл красиво облягає шкіру, створюючи ефект другої шкіри з дзеркальним блиском.&lt;/p&gt;
@@ -248268,7 +248268,7 @@
         <picture>https://sexopt.com.ua/content/images/17/sx4143-91378241178709.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX4143</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Корсет Noir Handmade F381 Dominae Venom PVC corset-belt L L (SX4143)</name_ua>
         <name>Корсет Noir Handmade F381 Dominae Venom PVC corset-belt L L (SX4143)</name>
         <description>Жіночий корсет Noir Handmade — розмір L. Матеріал — пвх. Особливості моделі: пажі для панчіх. Країна виробництва — Польща.</description>
@@ -248307,7 +248307,7 @@
         <param name="Країна-виробник товару">Польща</param>
         <param name="Країна реєстрації бренду">Польща</param>
       </offer>
-      <offer id="SX4145" available="true">
+      <offer id="SX4145" available="false">
         <price>3829</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
@@ -248322,7 +248322,7 @@
         <picture>https://sexopt.com.ua/content/images/19/sx4145-25988571191513.jpg</picture>
         <vendor>Noir Handmade</vendor>
         <article>SX4145</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Корсет Noir Handmade F381 Dominae Venom PVC corset-belt XXL (SX4145)</name_ua>
         <name>Корсет Noir Handmade F381 Dominae Venom PVC corset-belt XXL (SX4145)</name>
         <description>Жіночий корсет Noir Handmade — розмір XXL. Матеріал — пвх. Особливості моделі: пажі для панчіх. Країна виробництва — Польща.</description>
