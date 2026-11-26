@@ -57,7 +57,7 @@
     </categories>
     <offers>
       <offer id="ECOMini1500XAF8BAA" available="true">
-        <price>2170</price>
+        <price>1840</price>
         <currencyId>UAH</currencyId>
         <categoryId>80192</categoryId>
         <picture>https://katran.vn.ua/assets/img/shop/products/media/d5/4d/d54ded32cfeb6ac1252e91ec557bb5f655b68987.jpg</picture>
@@ -128,7 +128,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/9c/62/9c620c41e72d36f7ac35695799839c824a1c6305.jpg</picture>
         <vendor>Ariston</vendor>
         <article>3201455</article>
-        <stock_quantity>28</stock_quantity>
+        <stock_quantity>25</stock_quantity>
         <name>Водонагрівач електричний накопичувальний Ariston BLU1 R 100V 1,5K PL DRY (3201455)</name>
         <name_ua>Водонагрівач електричний накопичувальний Ariston BLU1 R 100V 1,5K PL DRY (3201455)</name_ua>
         <description>&lt;p&gt;Водонагрівач Ariston 3201455 — це настінна модель об'ємом 100 л, призначена для забезпечення гарячою водою побутових потреб. Циліндрична форма бака та нижнє підведення труб дозволяють зручно розмістити пристрій у приміщенні, а механічне керування з зовнішнім регулятором температури робить налаштування простим і зрозумілим.&lt;/p&gt;
@@ -187,7 +187,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/f6/85/f6850e37e0ea6635d25811b984a7c7887bb44715.jpg</picture>
         <vendor>Ariston</vendor>
         <article>3201453</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name>Бойлер Ariston BLU1 R 50 V 1,5K PL DRY (3201453)</name>
         <name_ua>Бойлер Ariston BLU1 R 50 V 1,5K PL DRY (3201453)</name_ua>
         <description>&lt;p&gt;Бойлер Ariston 3201453 — це настінний вертикальний водонагрівач об'ємом 50 л, призначений для стабільного забезпечення гарячою водою побутових потреб. Модель оснащена сухим мідним ТЕНом потужністю 1500 Вт, який нагріває повний бак приблизно за 1.45 години, а механічний регулятор температури на корпусі та механічний індикатор дозволяють просто й наочно керувати роботою приладу.&lt;/p&gt;
@@ -424,7 +424,7 @@
         <param name="Колір">Білий</param>
         <param name="Додаткові характеристики">«Сухий» нагрівальний елемент Технологія Water Plus: на 16% - гарячої води більше Зовнішній регулятор температури Термостат з подвійним захистом Титанове внутрішнє покриття бака Водостійка ізоляція з екологічно чистого поліуретану</param>
       </offer>
-      <offer id="3201451" available="true">
+      <offer id="3201451" available="false">
         <price>11670</price>
         <currencyId>UAH</currencyId>
         <categoryId>80131</categoryId>
@@ -432,7 +432,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/3b/39/3b392499ff5232d5929cd5ee6725cdd7a7308a9b.jpg</picture>
         <vendor>Ariston</vendor>
         <article>3201451</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name>Електричний водонагрівач Ariston PRO1 R 80 V 1,5K PL DRY (3201451)</name>
         <name_ua>Електричний водонагрівач Ariston PRO1 R 80 V 1,5K PL DRY (3201451)</name_ua>
         <description>&lt;p&gt;Електричний водонагрівач Ariston 3201451 з об'ємом бака 80 л призначений для стабільного забезпечення гарячою водою побутових потреб. Настінне вертикальне встановлення та нижнє підведення труб дозволяють компактно розмістити пристрій у приміщенні, а циліндрична форма бака з білим корпусом робить його зручним для повсякденного використання.&lt;/p&gt;
@@ -541,7 +541,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="3100910" available="true">
-        <price>28930</price>
+        <price>23300</price>
         <currencyId>UAH</currencyId>
         <categoryId>80131</categoryId>
         <picture>https://usa1.tail3a617f.ts.net/img/katran/3100910_rz1.jpg</picture>
@@ -768,7 +768,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/90/ae/90ae5cb3907419385b5d392a8ddcb5350b06601d.jpg</picture>
         <vendor>Nova Tec</vendor>
         <article>NT-S 80</article>
-        <stock_quantity>27</stock_quantity>
+        <stock_quantity>26</stock_quantity>
         <name>Бойлер Nova Tec NT-S 80 Standard Мокрий тен циліндричний</name>
         <name_ua>Бойлер Nova Tec NT-S 80 Standard Мокрий тен циліндричний</name_ua>
         <description>&lt;p&gt;Бойлер Nova Tec NT-S 80 Standard, Об'єм: 80л. Потужність: 1500Вт. Тип нагрівального елемента: відкритий (мокрий) Кількість ТЕНів: 1. Тип керування: механічне. Форма: циліндрична (кругла). Тип установки: вертикальна. Матеріал внутрішнього бака: емальований. Номінальний тиск - 6 бар. Габарити (В*Ш*Г): 735x460x460 мм Колір: Білий&lt;/p&gt;</description>
@@ -2109,7 +2109,7 @@
         <param name="Тип батарейок">AAA (мізинчик)</param>
         <param name="Колір виробу">Білий</param>
       </offer>
-      <offer id="HSK1818X1F3891" available="false">
+      <offer id="HSK1818X1F3891" available="true">
         <price>510</price>
         <currencyId>UAH</currencyId>
         <categoryId>80148</categoryId>
@@ -2117,7 +2117,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/d7/00/d7007ed41e54abb1165e5ff9b8a1640459f27c40.jpg</picture>
         <vendor>Holmer</vendor>
         <article>HSK-1818</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>24</stock_quantity>
         <name>Веси кухонні електронні Holmer HSK-1818 (HSK-1818)</name>
         <name_ua>Веси кухонні електронні Holmer HSK-1818 (HSK-1818)</name_ua>
         <description>&lt;p&gt;Електронні ваги Holmer HSK-1818 — це практичний помічник для точного зважування на кухні чи в побуті. Пласка платформа зі скла забезпечує зручне розміщення продуктів і легкість догляду, а електронний принцип роботи робить процес вимірювання швидким та простим.&lt;/p&gt;
@@ -4101,7 +4101,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/78/a3/78a35f0376f8e3de6b8965ee200d88383f366864.jpg</picture>
         <vendor>Hotpoint-Ariston</vendor>
         <article>HI5020WEF</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name>Посудомийна машина Hotpoint-Ariston HI 5020 WEF (HI5020WEF)</name>
         <name_ua>Посудомийна машина Hotpoint-Ariston HI 5020 WEF (HI5020WEF)</name_ua>
         <description>&lt;p&gt;Посудомийна машина Hotpoint-Ariston HI5020WEF — це вбудована повногабаритна модель, яка органічно впишеться в кухонний гарнітур і забезпечить ретельне миття посуду завдяки класам мийки A та сушіння A. Конденсаційне сушіння в поєднанні з технологією &lt;b&gt;Active Dry&lt;/b&gt; підвищує ефективність сушіння та знижує енергоспоживання, а інверторний мотор працює надійно й ощадливо.&lt;/p&gt;
@@ -5849,7 +5849,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/94/07/9407e73317da0ab6bf11dd4c6d0cad0a25b3c6d4.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>HS-Y700PERL</article>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>14</stock_quantity>
         <name>Випрямляч для волосся Ardesto HS-Y700PERL Pearl Cream (HS-Y700PERL)</name>
         <name_ua>Випрямляч для волосся Ardesto HS-Y700PERL Pearl Cream (HS-Y700PERL)</name_ua>
         <description>&lt;p&gt;Випрямляч Ardesto HS-Y700PERL — це побутовий прилад для створення гладкої зачіски, який поєднує керамічне покриття нагрівального елемента з механічним керуванням. Пластини розміром 10 х 2.5 см і діаметр щипців 25 мм дають змогу працювати з різними типами волосся, а діапазон нагріву від 140 до 230 °C із п'ятьма температурними режимами дозволяє підібрати комфортний рівень для конкретної зачіски.&lt;/p&gt;
@@ -5974,7 +5974,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/fc/63/fc6311770a0706968aca7a0f74a773f266a5cc14.jpg</picture>
         <vendor>Hansa</vendor>
         <article>OSC6133SIH</article>
-        <stock_quantity>28</stock_quantity>
+        <stock_quantity>27</stock_quantity>
         <name>Витяжка Hansa OSC6133SIH (OSC6133SIH)</name>
         <name_ua>Витяжка Hansa OSC6133SIH (OSC6133SIH)</name_ua>
         <description>&lt;p&gt;Витяжка Hansa OSC6133SIH — це пристінна модель шириною 60 см у сріблястому кольорі, яка підійде для компактного компонування кухонного простору над варильною поверхнею. Плаский тип корпусу дозволяє встановити прилад навіть за умов обмеженої висоти, а продуктивність 170 м³/год забезпечує ефективне видалення пари та запахів під час приготування.&lt;/p&gt;
@@ -7224,7 +7224,7 @@
         <param name="EAN">5902767904476</param>
       </offer>
       <offer id="HK6214WH700LEDXF7014E" available="true">
-        <price>5280</price>
+        <price>3580</price>
         <currencyId>UAH</currencyId>
         <categoryId>80140</categoryId>
         <picture>https://usa1.tail3a617f.ts.net/img/katran/HK6214WH700LED_rz1.jpg</picture>
@@ -7538,7 +7538,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/48/96/48966e236a2e16cffbc99f377efe125bdc426a09.jpg</picture>
         <vendor>Minola</vendor>
         <article>HPL 612 BR</article>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
         <name>Витяжка MINOLA HPL 612 BR Пристінна плоска</name>
         <name_ua>Витяжка MINOLA HPL 612 BR Пристінна плоска</name_ua>
         <description>&lt;p&gt;Витяжка MINOLA HPL 612 BR, Тип монтажу: Пристінний. Продуктивність: 450 куб. м / год. Тип управління: кнопкове. Дисплей: немає. Таймер: немає. Кількість швидкостей: 3. Матеріал: Фарбований метал.Габарити (ВхШхГ): 59.5х44х8,5 см. Колір: Коричневий&lt;/p&gt;</description>
@@ -7571,7 +7571,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/b7/b3/b7b36962e2720f9118a67323c6d4507f76cbd090.jpg</picture>
         <vendor>Minola</vendor>
         <article>HPL 612 WH</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name>Витяжка Minola HPL 612 WH (HPL 612 WH)</name>
         <name_ua>Витяжка Minola HPL 612 WH (HPL 612 WH)</name_ua>
         <description>&lt;p&gt;Витяжка Minola HPL 612 WH — практичне рішення для кухні, де важливі чистота повітря та зручність щоденного користування. Модель шириною &lt;b&gt;60 см&lt;/b&gt; добре вписується в стандартний кухонний гарнітур і підходить для встановлення над варильною поверхнею.&lt;/p&gt;
@@ -7776,7 +7776,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/cd/5c/cd5c8463ef4289a4250594158a67d53b0636ac38.jpg</picture>
         <vendor>Minola</vendor>
         <article>HPL 622 BR</article>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
         <name>Витяжка плоска Minola HPL 622 BR (HPL 622 BR)</name>
         <name_ua>Витяжка плоска Minola HPL 622 BR (HPL 622 BR)</name_ua>
         <description>&lt;p&gt;Витяжка Minola HPL 622 BR — це пласка модель у коричневому кольорі, призначена для пристінного монтажу на кухні. Вона поєднує лаконічний дизайн із практичністю та підходить для тих, хто шукає надійний прилад для щоденного очищення повітря під час приготування їжі.&lt;/p&gt;
@@ -8882,7 +8882,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/56/fb/56fb22f45bb752159f3d7864e7379e0a2b2a919a.jpg</picture>
         <vendor>Minola</vendor>
         <article>HTL 6614 I 1000 LED</article>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name>Витяжка Minola HTL 6614 I 1000 LED (HTL 6614 I 1000 LED)</name>
         <name_ua>Витяжка Minola HTL 6614 I 1000 LED (HTL 6614 I 1000 LED)</name_ua>
         <description>&lt;p&gt;Витяжка &lt;b&gt;Minola HTL 6614 I 1000 LED&lt;/b&gt; — це телескопічна модель для монтажу у шафу, яка органічно поєднується з кухонними меблями завдяки корпусу з нержавіючої сталі. Завдяки продуктивності до 1000 м³/год вона ефективно видаляє пару, запахи та продукти горіння під час інтенсивного приготування, а максимальний рівень шуму 64 дБ робить її комфортною у щоденному використанні.&lt;/p&gt;
@@ -9018,7 +9018,7 @@
         <param name="Тип освітлення">LED</param>
       </offer>
       <offer id="HTL6615I1000LEDX5F11B9" available="true">
-        <price>4730</price>
+        <price>4200</price>
         <currencyId>UAH</currencyId>
         <categoryId>80140</categoryId>
         <picture>https://usa1.tail3a617f.ts.net/img/katran/HTL6615I1000LED_rz1.jpg</picture>
@@ -10446,7 +10446,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/92/ba/92baa3b6f41552ea16bbad282a02d7a86b34fe36.jpg</picture>
         <vendor>Perfelli</vendor>
         <article>VIOLA 5JWRB NERO</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name>Витяжка повновбудована Perfelli VIOLA 5JWRB NERO (VIOLA 5JWRB NERO)</name>
         <name_ua>Витяжка повновбудована Perfelli VIOLA 5JWRB NERO (VIOLA 5JWRB NERO)</name_ua>
         <description>&lt;p&gt;Витяжка Perfelli VIOLA 5JWRB NERO — це вбудована модель шириною 55 см, призначена для монтажу в шафу, яка органічно поєднує лаконічний чорний глянцевий декор зі склом із високою функціональністю. Продуктивність 800 м³/год і рекомендована площа приміщення до 25 м² роблять її слушним вибором для кухні, де важливо швидко та ефективно позбуватися кіптяви й випарів під час активного готування.&lt;/p&gt;
@@ -11341,7 +11341,7 @@
         <param name="Час заряджання">6 год</param>
         <param name="Колір виробу">Білий</param>
       </offer>
-      <offer id="58CE2315HQXXXDBB00E" available="true">
+      <offer id="58CE2315HQXXXDBB00E" available="false">
         <price>27930</price>
         <currencyId>UAH</currencyId>
         <categoryId>80122</categoryId>
@@ -11349,7 +11349,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/44/13/4413b4c0ac563214afb45235145548d1c574a3a4.jpg</picture>
         <vendor>Amica</vendor>
         <article>58CE2.315HQ(XX)</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name>Електрична плита Amica 58CE2.315HQ (58CE2.315HQ(XX))</name>
         <name_ua>Електрична плита Amica 58CE2.315HQ (58CE2.315HQ(XX))</name_ua>
         <description>&lt;p&gt;Електрична плита Amica 58CE2.315HQ(XX) — це практичне рішення для щоденного приготування їжі на кухні. Модель оснащена чотирма конфорками, що дозволяє одночасно готувати кілька страв, а електричний тип роботи забезпечує рівномірний нагрів без відкритого полум'я.&lt;/p&gt;
@@ -11557,7 +11557,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/4d/b7/4db7b0ed77ee027dda0d74487e7ac032219c38a7.jpg</picture>
         <vendor>Hansa</vendor>
         <article>FCCXS58363</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name>Електрична плита HANSA FCCXS 58363 50ка Склокераміка Дисплей Очищення паром Нержавіюча сталь (FCCXS58363)</name>
         <name_ua>Електрична плита HANSA FCCXS 58363 50ка Склокераміка Дисплей Очищення паром Нержавіюча сталь (FCCXS58363)</name_ua>
         <description>&lt;p&gt;Електрична плита HANSA FCCXS 58363, Тип: електрична. Зони нагріву: 4шт. Склокераміка Hi-Light. Матеріал решіток поверхні: немає. Кришка: немає. Тип керування: Електронне. Тип дух. шафи: електрична. Корисний об'єм: 65 л. Гриль: є. Конвекція: є. Таймер: є. Підсвітка: є. Електропідпал: немає. Газ-контроль: немає. Дисплей: є. Кількість функцій приготування в духові: 10. Клас енергоспоживання: A. Кількість стекол: 2. Напрямні: Телескопічні напрямні з висуненням 75%. Хромовані напрямні. Внутрішнє покриття: Емаль легкого очищення. Тип очищення: очищення парою. Габарити (ВхШхГ): 85х50х60 см. Колір: Нержавіюча сталь&lt;/p&gt;</description>
@@ -11935,7 +11935,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/3b/78/3b78bf9ce2c2b631bedff7f3554b0bd6d212c995.jpg</picture>
         <vendor>Amica</vendor>
         <article>KF3040</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name>Електрочайник AMICA KF 3040 2200Вт Колір чорний Нержавіюча сталь (KF3040)</name>
         <name_ua>Електрочайник AMICA KF 3040 2200Вт Колір чорний Нержавіюча сталь (KF3040)</name_ua>
         <description>&lt;p&gt;Електрочайник AMICA KF 3040 (Виробництво Польща) Тип: звичайний. Потужність: 2200 Вт. Об'єм: 1,7 л. Тип нагрівального елемента: прихований (диск). Індикатор рівня води: є. Захист від перегріву: є. Матеріал: Нержавіюча сталь. Колір: Чорний&lt;/p&gt;</description>
@@ -12036,7 +12036,7 @@
         <param name="Вага">0.92 кг</param>
         <param name="Вага в пакованні">1.15 кг</param>
       </offer>
-      <offer id="KM3010" available="true">
+      <offer id="KM3010" available="false">
         <price>1970</price>
         <currencyId>UAH</currencyId>
         <categoryId>80160</categoryId>
@@ -12049,7 +12049,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/53/4d/534d0df60adb4b41d034c452d95611043b8a5386.jpg</picture>
         <vendor>Amica</vendor>
         <article>KM3010</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name>Електрочайник AMICA KM 3010 2200 Колір чорний пластик (KM3010)</name>
         <name_ua>Електрочайник AMICA KM 3010 2200 Колір чорний пластик (KM3010)</name_ua>
         <description>&lt;p&gt;Електрочайник AMICA KM 3010 (Виробництво Польща) Тип: звичайний. Потужність: 2200 Вт. Об'єм: 1,7 л. Тип нагрівального елемента: прихований (диск). Індикатор рівня води: є. Захист від перегріву: є. Матеріал: Пластик. Колір: Чорний&lt;/p&gt;</description>
@@ -12146,7 +12146,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/08/7b/087be5fe080d14ba27cb0131d613099fed810041.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>EKL-450W</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name>Електрочайник Ardesto Otter Білий матовий (EKL-450W)</name>
         <name_ua>Електрочайник Ardesto Otter Білий матовий (EKL-450W)</name_ua>
         <description>&lt;p&gt;Електрочайник Ardesto EKL-450W — практичний прилад для щоденного приготування гарячих напоїв. Об'єм 1.7 л дозволяє за один раз підготувати воду для кількох порцій чаю чи кави, а потужність 2200 Вт забезпечує швидке закипання. Прихований нагрівальний елемент (диск) спрощує догляд за внутрішньою поверхнею, а знімний фільтр від накипу допомагає підтримувати чистоту води.&lt;/p&gt;
@@ -12394,7 +12394,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/99/b6/99b6d6d0bb6aeca9db94fe561e6b2162a98c9f94.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>EKL-F300W</article>
-        <stock_quantity>32</stock_quantity>
+        <stock_quantity>30</stock_quantity>
         <name>Електрочайник Ardesto EKL-F300W (EKL-F300W)</name>
         <name_ua>Електрочайник Ardesto EKL-F300W (EKL-F300W)</name_ua>
         <description>&lt;p&gt;Електрочайник Ardesto EKL-F300W — практичний помічник для щоденного приготування гарячих напоїв. Завдяки об'єму &lt;b&gt;1.7 л&lt;/b&gt; він дозволяє за один раз закип'ятити достатньо води для кількох чашок чаю або кави, що зручно як для родини, так і для офісу.&lt;/p&gt;
@@ -13973,7 +13973,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/3c/b9/3cb93b7eead7c3addf82ecf97d532575f624ab99.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>FCM-D3100</article>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name>Кавоварка крапельна Ardesto FCM-D3100 (FCM-D3100)</name>
         <name_ua>Кавоварка крапельна Ardesto FCM-D3100 (FCM-D3100)</name_ua>
         <description>&lt;p&gt;Кавоварка Ardesto FCM-D3100 — це крапельна (фільтраційна) модель для приготування меленої кави, розрахована на щоденне використання вдома чи в офісі. Резервуар для води об'ємом 1.5 л дозволяє приготувати кілька порцій за один цикл, а сенсорне керування з дисплеєм робить налаштування простими та зрозумілими. Завдяки регулюванню міцності та об'єму напою можна підлаштувати смак кави під власні вподобання.&lt;/p&gt;
@@ -14481,7 +14481,7 @@
         <param name="Країна-виробник товару">Китай</param>
         <param name="EAN">767637175623</param>
       </offer>
-      <offer id="HCD023BX37E7D3" available="false">
+      <offer id="HCD023BX37E7D3" available="true">
         <price>730</price>
         <currencyId>UAH</currencyId>
         <categoryId>4674720</categoryId>
@@ -14489,7 +14489,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/b2/d1/b2d1d34b1afc9addfb52bf335eeed9c8481b7afa.jpg</picture>
         <vendor>HOLMER</vendor>
         <article>HCD-023B</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>16</stock_quantity>
         <name>Кавоварка Holmer HCD-023B</name>
         <name_ua>Кавоварка Holmer HCD-023B</name_ua>
         <description>&lt;p&gt;Кавоварка Holmer HCD-023B, Тип: Крапельна. Потужність: Вт. Тип управління: механічне. Приготування капучіно: ручне. Тип кави: мелений. Обсяг резервуара для води: л Колір:&lt;/p&gt;</description>
@@ -15469,14 +15469,14 @@
         <param name="Вага">Вага: 41.8 кг кг</param>
       </offer>
       <offer id="FCMX69235" available="true">
-        <price>30850</price>
+        <price>25040</price>
         <currencyId>UAH</currencyId>
         <categoryId>80122</categoryId>
         <picture>https://usa1.tail3a617f.ts.net/img/katran/FCMX69235_rz1.jpg</picture>
         <picture>https://usa1.tail3a617f.ts.net/img/katran/FCMX69235_1.jpg</picture>
         <vendor>Hansa</vendor>
         <article>FCMX69235</article>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
         <name>Плита комбінована Hansa FCMX69235 (FCMX69235)</name>
         <name_ua>Плита комбінована Hansa FCMX69235 (FCMX69235)</name_ua>
         <description>&lt;p&gt;Плита Hansa FCMX69235 — це комбінована модель (газ + електро), яка поєднує газову варильну поверхню з чотирма конфорками та електричну духову шафу об'ємом 65 л. Газ-контроль поверхні забезпечує безпечне користування, а чавунні решітки та скляна кришка роблять поверхню зручною й охайною. Електрозапалювання в ручці дозволяє запускати конфорки без сірників.&lt;/p&gt;
@@ -15568,7 +15568,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/31/ca/31ca03420b476a9c5ee32f6ff3be2e0ea7cf8240.jpg</picture>
         <vendor>Hansa</vendor>
         <article>FCGI69326</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name>Духова шафа + Газова поверхня Hansa FCGI69326 (FCGI69326)</name>
         <name_ua>Духова шафа + Газова поверхня Hansa FCGI69326 (FCGI69326)</name_ua>
         <description>&lt;p&gt;Комплект Hansa FCGI69326 — це поєднання газової варильної поверхні та духової шафи, створене для тих, хто цінує зручність і практичність на кухні. Варильна поверхня з чорного глянцевого загартованого скла без рамки має чотири конфорки різного діаметра й потужності, а газ-контроль та електропідпалювання роблять користування нею безпечним і простим. Поворотні перемикачі фронтального розташування забезпечують звичне керування.&lt;/p&gt;
@@ -15680,14 +15680,14 @@
         <param name="Сумісність">ARDESTO HCP, Teploceramic TCH, Teploceramic TCM</param>
         <param name="Країна-виробник товару">Україна</param>
       </offer>
-      <offer id="VCE306FXD4198E" available="false">
+      <offer id="VCE306FXD4198E" available="true">
         <price>2350</price>
         <currencyId>UAH</currencyId>
         <categoryId>80192</categoryId>
         <picture>https://katran.vn.ua/assets/img/shop/products/media/09/0e/090ead9ec4fe84cfac91eacd7f9e42efe00a40bc.png</picture>
         <vendor>VIMAR</vendor>
         <article>VCE-306F</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <name>Конвектор електричний Vimar VCE-306F</name>
         <name_ua>Конвектор електричний Vimar VCE-306F</name_ua>
         <description>&lt;p&gt;Конвектор електричний Vimar VCE-306F - Площа обігріву 24 кв.м; Потужність нагріву макс. 2 кВт; Кількість режимів нагрівання 3; Захист від перегріву; Відключення при перекиданні;&lt;/p&gt;</description>
@@ -16133,7 +16133,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/56/b4/56b4448149852b1b434fb04a8494e4c26e108f5f.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>MGL-1790R</article>
-        <stock_quantity>28</stock_quantity>
+        <stock_quantity>27</stock_quantity>
         <name>М'ясорубка Ardesto 1700Вт 1.6кг хв 2 решітки насадка для ковбас кеббе томатів пластик метал чорно-срібний (MGL-1790R)</name>
         <name_ua>М'ясорубка Ardesto 1700Вт 1.6кг хв 2 решітки насадка для ковбас кеббе томатів пластик метал чорно-срібний (MGL-1790R)</name_ua>
         <description>&lt;p&gt;М'ясорубка Ardesto MGL-1790R — практичний помічник для тих, хто готує вдома фарш, домашні ковбаси та заготовки з томатів і ягід. Завдяки номінальній потужності &lt;b&gt;1700 Вт&lt;/b&gt; прилад працює продуктивно — до &lt;b&gt;1.6 кг/хв&lt;/b&gt;, тож навіть великі обсяги м'яса можна переробити без зайвих зупинок. Функція реверсу допомагає впоратися із застряганням продуктів у робочій камері, а металевий завантажувальний лоток робить завантаження сировини зручним.&lt;/p&gt;
@@ -16581,7 +16581,7 @@
         <picture>https://usa1.tail3a617f.ts.net/img/katran/GO-E745S_1.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>GO-E745S</article>
-        <stock_quantity>27</stock_quantity>
+        <stock_quantity>26</stock_quantity>
         <name>Мікрохвильова піч Ardesto GO-E745S (GO-E745S)</name>
         <name_ua>Мікрохвильова піч Ardesto GO-E745S (GO-E745S)</name_ua>
         <description>&lt;p&gt;Мікрохвильова піч Ardesto GO-E745S — практичне рішення для щоденного розігрівання страв, розморожування продуктів та швидкого приготування. Модель соло потужністю 700 Вт з об'ємом 20 л підходить для невеликої кухні чи офісу, а окрема установка дозволяє розмістити її на будь-якій зручній поверхні. Кнопкове керування з поворотним перемикачем робить налаштування простим і зрозумілим.&lt;/p&gt;
@@ -16743,7 +16743,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/fa/68/fa687c210770bf519bdc27bb4eca815a2a105962.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>GO-M923B</article>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <name>Мікрохвильова піч Ardesto GO-M923B (GO-M923B)</name>
         <name_ua>Мікрохвильова піч Ardesto GO-M923B (GO-M923B)</name_ua>
         <description>&lt;p&gt;Мікрохвильова піч Ardesto GO-M923B — це окремо встановлювана модель для повсякденного розігрівання та приготування страв. Об'єм 23 л і потужність 900 Вт дозволяють швидко працювати з типовими порціями, а механічне керування робить налаштування простим і зрозумілим. Шість рівнів потужності дають змогу обирати потрібну інтенсивність, а функція підтримання страви в теплому стані допомагає зберегти готову їжу теплою до подачі.&lt;/p&gt;
@@ -16930,7 +16930,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/d3/3a/d33ac14eeb8224d1b14a87e912b3a1188be45040.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>GO-S825S</article>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name>Мікрохвильова піч Ardesto GO-S825S 20л 800Вт механічне управління відкриття ручкою срібляста (GO-S825S)</name>
         <name_ua>Мікрохвильова піч Ardesto GO-S825S 20л 800Вт механічне управління відкриття ручкою срібляста (GO-S825S)</name_ua>
         <description>&lt;p&gt;Мікрохвильова піч Ardesto GO-S825S — практичне рішення для повсякденного розігрівання страв на кухні. Модель призначена для окремого встановлення, тож її можна зручно розмістити на робочій поверхні або полиці без потреби у вбудовуванні.&lt;/p&gt;
@@ -17374,7 +17374,7 @@
         <param name="Країна-виробник товару">Китай</param>
         <param name="Колір">Білий / Блакитний</param>
       </offer>
-      <offer id="VX414BXC33368" available="false">
+      <offer id="VX414BXC33368" available="true">
         <price>1080</price>
         <currencyId>UAH</currencyId>
         <categoryId>80156</categoryId>
@@ -17382,7 +17382,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/a8/51/a8510ba94acc1e80651f4c6212dbf6c394fc351a.jpg</picture>
         <vendor>Vimar</vendor>
         <article>VX-414B</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <name>Міксер ручний Vimar VX-414B (VX-414B)</name>
         <name_ua>Міксер ручний Vimar VX-414B (VX-414B)</name_ua>
         <description>&lt;p&gt;Міксер Vimar VX-414B — це ручний прилад, створений для тих, хто хоче швидко та зручно впоратися з приготуванням тіста, кремів і збиванням інгредієнтів. Завдяки ручному типу конструкції ви повністю контролюєте процес, а компактність робить його зручним для щоденного використання на кухні.&lt;/p&gt;
@@ -17853,7 +17853,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/04/b3/04b3338214e9c4a4884f781612a9a7ab4aeba33b.png</picture>
         <vendor>Blaufisch</vendor>
         <article>BFU-1760</article>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name>Морозильна камера Blaufisch BFU-1760 (BFU-1760)</name>
         <name_ua>Морозильна камера Blaufisch BFU-1760 (BFU-1760)</name_ua>
         <description>&lt;p&gt;Морозильна камера Blaufisch BFU-1760 — це практичне рішення для тих, кому потрібен надійний запас заморожених продуктів. Загальний об'єм &lt;b&gt;245 л&lt;/b&gt; дозволяє зручно розподілити м'ясо, овочі, фрукти та напівфабрикати, а &lt;b&gt;7 полиць і секцій&lt;/b&gt; допомагають упорядкувати продукти за категоріями. Механічне керування робить налаштування простим і зрозумілим, без зайвих складнощів.&lt;/p&gt;
@@ -17901,7 +17901,7 @@
         <param name="Колір">Білий</param>
         <param name="Рівень шуму">42 дБ</param>
       </offer>
-      <offer id="BFU853X3AE7F3" available="true">
+      <offer id="BFU853X3AE7F3" available="false">
         <price>8660</price>
         <currencyId>UAH</currencyId>
         <categoryId>80203</categoryId>
@@ -17910,7 +17910,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/8f/85/8f854efc5622dce7995ab946987e428ba3a89fcd.jpg</picture>
         <vendor>BLAUFISCH</vendor>
         <article>BFU-853</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name>Морозильна камера Blaufisch BFU-853 0.85м 90л 3 ящики</name>
         <name_ua>Морозильна камера Blaufisch BFU-853 0.85м 90л 3 ящики</name_ua>
         <description>&lt;p&gt;Морозильна камера Blaufisch BFU-853, Тип: Окремостояча. Дисплей: немає. Тип керування: механічне. Кількість контейнерів, шт/матеріал: 3/пластик. Загальний/корисний, об'єм л: 90/82. Система розморожування: No Frost (Frost Free): немає. Кліматичний клас: N,ST. Клас енергоспоживання: А+. Рівень шуму: 41 дБ. Температура у режимі заморозки: ~-16 °C до ~-22 °C. Автономне збереження холоду, год: 24. Потужність заморожування: 4 кг/ 24 год. Габарити (ВхШхГ): 850*550*580 мм. Колір: Білий&lt;/p&gt;</description>
@@ -18143,7 +18143,7 @@
         <param name="Країна-виробник товару">Китай</param>
         <param name="Рівень шуму">41 дБ</param>
       </offer>
-      <offer id="FRM250ECMX5BEE92" available="true">
+      <offer id="FRM250ECMX5BEE92" available="false">
         <price>13530</price>
         <currencyId>UAH</currencyId>
         <categoryId>80203</categoryId>
@@ -18159,7 +18159,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/4e/99/4e999e0245ffb66217c6a70e81c278897528aa11.jpg</picture>
         <vendor>Ardesto</vendor>
         <article>FRM-250ECM</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name>Морозильник Ardesto FRM-250ECM (FRM-250ECM)</name>
         <name_ua>Морозильник Ardesto FRM-250ECM (FRM-250ECM)</name_ua>
         <description>&lt;p&gt;Морозильник Ardesto FRM-250ECM — це окремо встановлювана скриня, яка підходить для зберігання великих запасів продуктів. Загальний об'єм 249 л дозволяє вмістити значну кількість заморожених продуктів, а електронне керування робить налаштування зручним і точним.&lt;/p&gt;
@@ -18339,7 +18339,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/8d/00/8d000937c5e3fe88ced9038ce4295363c2cf9a8c.jpg</picture>
         <vendor>Blaufisch</vendor>
         <article>BCF-20DW</article>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>14</stock_quantity>
         <name>Морозильна скриня Blaufisch BCF-20DW (BCF-20DW)</name>
         <name_ua>Морозильна скриня Blaufisch BCF-20DW (BCF-20DW)</name_ua>
         <description>&lt;p&gt;Морозильна скриня Blaufisch BCF-20DW — практичне рішення для зберігання великих запасів продуктів вдома, на дачі чи в господарстві. Загальний об'єм 200 л дозволяє вмістити значну кількість заморожених продуктів, а окреме встановлення (соло) дає змогу розмістити скриню в будь-якому зручному місці. Статична система охолодження та механічне керування без дисплея роблять прилад простим і надійним у повсякденному використанні.&lt;/p&gt;
@@ -19698,7 +19698,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/78/cc/78cc820263aacbf96c3cb5f63af2773aefa663f9.jpg</picture>
         <vendor>Karcher</vendor>
         <article>1.081-150.0</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name>Пилосос миючий Karcher SE 4 (1.081-150.0)</name>
         <name_ua>Пилосос миючий Karcher SE 4 (1.081-150.0)</name_ua>
         <description>&lt;p&gt;Пилосос Karcher 1.081-150.0 — це модель для вологого прибирання, яка поєднує компактні габарити з достатнім об'ємом для побутових задач. Завдяки вологому типу прибирання пристрій підходить для догляду за поверхнями, де потрібне саме таке очищення, а білий колір виробу робить його нейтральним доповненням до інтер'єру.&lt;/p&gt;
@@ -19967,7 +19967,7 @@
         <param name="EAN">4054278656021</param>
       </offer>
       <offer id="16281700XC8A329" available="true">
-        <price>7820</price>
+        <price>6710</price>
         <currencyId>UAH</currencyId>
         <categoryId>4631249</categoryId>
         <picture>https://usa1.tail3a617f.ts.net/img/katran/1.628-170.0_rz1.jpg</picture>
@@ -20095,7 +20095,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/67/1d/671ddea9d5f054bf09a127060e585ea81def3e91.jpg</picture>
         <vendor>Vimar</vendor>
         <article>VVC-1834B</article>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <name>Пилосос мішковий Vimar VVC-1834B (VVC-1834B)</name>
         <name_ua>Пилосос мішковий Vimar VVC-1834B (VVC-1834B)</name_ua>
         <description>&lt;p&gt;Пилосос Vimar VVC-1834B — практичний вибір для регулярного прибирання оселі. Модель оснащена пилозбірником з мішком, що дозволяє зручно збирати пил і сміття та легко його утилізувати після прибирання.&lt;/p&gt;
@@ -20128,7 +20128,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/43/8c/438c47934e7b0561e6f26828c9d0a490b8a90e00.jpg</picture>
         <vendor>Vimar</vendor>
         <article>VVC-221B</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name>Пилосос контейнерний Vimar VVC-221B (VVC-221B)</name>
         <name_ua>Пилосос контейнерний Vimar VVC-221B (VVC-221B)</name_ua>
         <description>&lt;p&gt;Пилосос Vimar VVC-221B — практичний вибір для щоденного прибирання оселі. Модель контейнерного типу працює без мішка, тож спорожняти пилозбірник можна швидко й без зайвих витрат на витратні матеріали.&lt;/p&gt;
@@ -22282,7 +22282,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/50/11/501198508459abfe436d7f62bcf512ce782cee37.jpg</picture>
         <vendor>VIMAR</vendor>
         <article>VBM 725</article>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <name>Хлібопічка VIMAR VBM 725</name>
         <name_ua>Хлібопічка VIMAR VBM 725</name_ua>
         <description>&lt;p&gt;Хлібопічка VIMAR VBM 725 Максимальна вага випічки: 1,5 кг. Вибір розміру хліба: є. Форма для випічки хліба: Прямокутна. Диспенсер: немає. Кількість лопатей: 2шт.Кількість програм: 15. Потужність: 850 Вт. Матеріал корпусу: нержавіюча сталь. Колір: нержавіюча сталь.&lt;/p&gt;</description>
@@ -22466,7 +22466,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/20/f7/20f754f55b05bd7107b5d72ecea8ded99aa7395c.jpg</picture>
         <vendor>CANDY</vendor>
         <article>CNCQ2T518EX</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name>Холодильник Candy CNCQ2T518EX 1,83м Нульова камера No Frost Нержавіюча сталь</name>
         <name_ua>Холодильник Candy CNCQ2T518EX 1,83м Нульова камера No Frost Нержавіюча сталь</name_ua>
         <description>&lt;p&gt;Холодильник Candy CNCQ2T518EX, Тип холодильника: двокамерний. Заг.корисний об'єм холодильника: 279л. Дисплей: внутрішній. Тип управління: електронне. Корисний об'єм холод. камери: 197 л. Корисний об'єм мор. камери: 82 л. Ти компресора: Звичайний. Система розморожування No Frost (Frost Free): є. Габарити (ВхШхГ): 182,5х54.5х60,2 см. Колір: Нержавіюча сталь&lt;/p&gt;</description>
@@ -22519,7 +22519,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/d8/9c/d89c53c33798b41b0ce2b39cc82da958c1716dd1.jpg</picture>
         <vendor>Gorenje</vendor>
         <article>NRK418ECS4</article>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <name>Холодильник Gorenje NRK418ECS4 No Frost/1,8м Морозильна камера 4 шухляди</name>
         <name_ua>Холодильник Gorenje NRK418ECS4 No Frost/1,8м Морозильна камера 4 шухляди</name_ua>
         <description>&lt;p&gt;Холодильник Gorenje NRK418ECS4 Тип холодильника: двокамерний. Загальний об'єм холодильника: 256л. Корисний об'єм холод. камери: 171л. Корисний об'єм мороз. камери: 85л. Кількість ящиків в мороз.камері: 4шт. Дисплей: немає. Тип управління: Електромеханічне. No Frost (Frost Free): Є. Рівень шуму: 39 дБ. Габарити (ВхШхГ): 182.4х55х55.7см. Вага: 53кг. Колір: Сірий&lt;/p&gt;</description>
@@ -22614,7 +22614,7 @@
         <picture>https://usa1.tail3a617f.ts.net/img/katran/NRK6192AS4_1.jpg</picture>
         <vendor>Gorenje</vendor>
         <article>NRK6192AS4</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>11</stock_quantity>
         <name>Двокамерний холодильник Gorenje NRK6192AS4 (NRK6192AS4)</name>
         <name_ua>Двокамерний холодильник Gorenje NRK6192AS4 (NRK6192AS4)</name_ua>
         <description>&lt;p&gt;Двокамерний холодильник &lt;b&gt;Gorenje NRK6192AS4&lt;/b&gt; — це практичне рішення для родини, яка потребує надійного зберігання продуктів без зайвого клопоту. Завдяки системі &lt;strong&gt;No Frost Plus&lt;/strong&gt; в обох камерах вам не доведеться вручну розморожувати холодильник — технологія сама підтримує оптимальні умови. Загальний об'єм 304 л та корисний об'єм морозильної камери 97 л дозволяють зручно розподілити запаси, а нижнє розташування морозильника робить щоденний доступ до холодильного відділення максимально зручним.&lt;/p&gt;
@@ -22744,7 +22744,7 @@
         <picture>https://katran.vn.ua/assets/img/shop/products/media/f0/4f/f04f7d751d7479333dd79903316cbf8993ede0c3.jpg</picture>
         <vendor>Indesit</vendor>
         <article>I48RM112WUA</article>
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <name>Холодильник Indesit I48RM 112WUA (I48RM112WUA)</name>
         <name_ua>Холодильник Indesit I48RM 112WUA (I48RM112WUA)</name_ua>
         <description>&lt;p&gt;Холодильник Indesit I48RM112WUA — практичне рішення для щоденного зберігання продуктів на кухні. Завдяки одному компресору прилад працює стабільно та передбачувано, а продумана конструкція робить його зручним у побуті.&lt;/p&gt;

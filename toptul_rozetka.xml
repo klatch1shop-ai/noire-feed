@@ -5080,7 +5080,7 @@
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1013891909" available="true">
+      <offer id="1013891909" available="false">
         <price>70760</price>
         <currencyId>UAH</currencyId>
         <categoryId>31</categoryId>
@@ -5089,7 +5089,7 @@
         <picture>https://images.prom.ua/1925198851_traversa-pnevmogidravlicheskaya-usilennaya.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>Q-450TU</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Траверсу пневмогідравлічна посилена 4 5 тонн Airkraft (Q-450TU)</name_ua>
         <name>Траверсу пневмогідравлічна посилена 4 5 тонн Airkraft (Q-450TU)</name>
         <description>Пневмогідравлічна траверса AIRKRAFT Q-450TU&amp;nbsp;вантажністю 4.5 тонни використовується переважно на чотиристорінковому підіймачі (можливе використання на канаві) і призначена для вивішування коліс однієї з осі під час проведення процедури компенсації під час регулювання кутів встановлення коліс автомобіля або для інших загальнослюсарних цілей. Завдяки пневматичного приводу неабияк прискорюється підйом і спуск, а також спрощується робота майстра.</description>
@@ -13465,7 +13465,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013892869" available="true">
-        <price>970</price>
+        <price>888</price>
         <currencyId>UAH</currencyId>
         <categoryId>15</categoryId>
         <picture>https://images.prom.ua/7086624925_nabor-bit-dlya.jpg</picture>
@@ -20586,7 +20586,7 @@
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013893586" available="true">
-        <price>1330</price>
+        <price>1314</price>
         <currencyId>UAH</currencyId>
         <categoryId>71</categoryId>
         <picture>https://images.prom.ua/1923218201_ploskogubtsy-usilennye-200mm.jpg</picture>
@@ -24089,7 +24089,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013897540" available="true">
-        <price>7300</price>
+        <price>6935</price>
         <currencyId>UAH</currencyId>
         <categoryId>50</categoryId>
         <picture>https://images.prom.ua/1923224732_tiski-slesarnye-100mm.jpg</picture>
@@ -27753,7 +27753,7 @@
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013898094" available="true">
-        <price>1280</price>
+        <price>1259</price>
         <currencyId>UAH</currencyId>
         <categoryId>39</categoryId>
         <picture>https://images.prom.ua/1923244105_nabor-vykolotok-toptul.jpg</picture>
@@ -33624,7 +33624,7 @@
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013898720" available="true">
-        <price>1030</price>
+        <price>964</price>
         <currencyId>UAH</currencyId>
         <categoryId>71</categoryId>
         <picture>https://images.prom.ua/1923218197_ploskogubtsy-passatizhi-kombinirovannye-180.jpg</picture>
@@ -46368,7 +46368,7 @@ SQ</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013900815" available="true">
-        <price>1300</price>
+        <price>1277</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/7082563883_nabor-golovok-tortsevyh.jpg</picture>
@@ -46623,7 +46623,7 @@ SQ</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013900832" available="true">
-        <price>490</price>
+        <price>335</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1923338318_golovka-tortsevaya-12.jpg</picture>
@@ -46823,7 +46823,7 @@ SQ</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013900843" available="true">
-        <price>710</price>
+        <price>565</price>
         <currencyId>UAH</currencyId>
         <categoryId>57</categoryId>
         <picture>https://images.prom.ua/1923325501_pistolet-ruchnoj-dlya.jpg</picture>
@@ -48415,7 +48415,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013900935" available="true">
-        <price>3490</price>
+        <price>2870</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1923260357_nabor-dlinnyh-tortsevyh.jpg</picture>
@@ -51213,7 +51213,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013901396" available="true">
-        <price>890</price>
+        <price>785</price>
         <currencyId>UAH</currencyId>
         <categoryId>38</categoryId>
         <picture>https://images.prom.ua/1923224724_stripper-mnogofunktsionalnyj-toptul.jpg</picture>
@@ -56387,7 +56387,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1013901979" available="true">
-        <price>940</price>
+        <price>849</price>
         <currencyId>UAH</currencyId>
         <categoryId>13</categoryId>
         <picture>https://images.prom.ua/1923224078_bokorezy-toptul-6.jpg</picture>
@@ -70474,7 +70474,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013949912" available="true">
-        <price>970</price>
+        <price>885</price>
         <currencyId>UAH</currencyId>
         <categoryId>43</categoryId>
         <picture>https://images.prom.ua/7082357900_kleschi-zazhimnye-universalnye.jpg</picture>
@@ -71126,7 +71126,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1013949948" available="true">
-        <price>10870</price>
+        <price>10272</price>
         <currencyId>UAH</currencyId>
         <categoryId>50</categoryId>
         <picture>https://images.prom.ua/1923224732_tiski-slesarnye-povorotnye.jpg</picture>
@@ -88067,7 +88067,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1014004617" available="true">
-        <price>760</price>
+        <price>629</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/1923338915_golovka-udarnaya-toptul.jpg</picture>
@@ -93884,7 +93884,7 @@ Torx
         <param name="Бренд">Benetech</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1120632117" available="true">
+      <offer id="1120632117" available="false">
         <price>3000</price>
         <currencyId>UAH</currencyId>
         <categoryId>89</categoryId>
@@ -93893,7 +93893,7 @@ Torx
         <picture>https://images.prom.ua/2207230671_pirometr-termogigrometr-termopara.jpg</picture>
         <vendor>wintact</vendor>
         <article>WT323D</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Пірометр термогігрометр термопара — 50-850 °C wintact (WT323D)</name_ua>
         <name>Пірометр термогігрометр термопара — 50-850 °C wintact (WT323D)</name>
         <description>Безконтактний інфрачервоний термометр (пірометр) кв дисплей, термогігрометр, термопара — 50-850 °C, 12:1, EMS=0,1-1&amp;nbsp; WINTACT WT323D &amp;nbsp; Пірометр WT323D &amp;nbsp;належить до нової лінійки пірометрів компанії Wintact. Цей пірометр виготовлений у захищеному корпусі та обладнаний кольоровим дисплеєм і круговим лазером. Перевага нової моделі полягає в можливості в ручну налаштовувати коефіцієнт EMS у діапазоні від 0,1 до 1,00. Що дає змогу неабияк розширити сферу застосування (наприклад, тепер ви можете ефективно вимірювати матеріали з блискучими поверхнями — алюміній, бронзу, сталь і багато іншого). Перевагами цієї моделі є наявність функції УФ-лампи, можливість сигналізації різниці температур і сигналізація плісняви, можливість вимірювання температури та вологості довкілля. Також до пірометра є можливість під'єднати термопару К-типу. З пірометром постачається термопара К-типу з діапазоном вимірювання від 0 до 250 °C.</description>
@@ -97611,7 +97611,7 @@ Torx
         <param name="Бренд">Toptul</param>
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
-      <offer id="1183046293" available="true">
+      <offer id="1183046293" available="false">
         <price>10200</price>
         <currencyId>UAH</currencyId>
         <categoryId>31</categoryId>
@@ -97622,7 +97622,7 @@ Torx
         <picture>https://images.prom.ua/7076942174_pnevmaticheskij-domkrat-42.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>DPA-3C</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Пневматичний домкрат 4 2 т 4200 кг Airkraft (DPA-3C)</name_ua>
         <name>Пневматичний домкрат 4 2 т 4200 кг Airkraft (DPA-3C)</name>
         <description>Пневматичний домкрат DPA-3C Характеристики: Тип транспортного засобу: легковий Вантажопідйомність: 4200 кг Тип приводу: пневматичний Висота підйому: 475 мм Висота підкладки: 175 мм Вага: 17 кг Робочий хід: 310 мм Робочий тиск: 6 бар Конструкція домкрата DPA-3C дозволяє піднімати автомобілі з відносно низьким кліренсом. Завдяки максимальній висоті підйому домкрат підходить для більшості автомобілів масою до 4,2 тонни. Підйом автомобіля: Щоб підняти автомобіль, встановіть домкрат DPA-3C у потрібному місці під днищем, підключіть стиснене повітря та відкрийте клапан. Після досягнення потрібної висоти підйому закрийте клапан, щоб зафіксувати автомобіль. Опускання автомобіля: Щоб опустити автомобіль, обережно відкрийте клапан з протилежного боку від під&amp;rsquo;єднаного шланга. Завдяки точному контролю клапана процес опускання відбувається плавно та безпечно. Пневматичний домкрат DPA-3C &amp;mdash; універсальний інструмент, ідеальний для автосервісів, що забезпечує швидке та ефективне піднімання транспортних засобів. Під брендом AIRKRAFT виробляється широкий асортимент пневматичного обладнання та інструментів &amp;mdash; від повітряних компресорів до з&amp;rsquo;єднань. Продукція AIRKRAFT виготовляється в різних країнах залежно від типу асортименту, зокрема в Італії, Туреччині, Китаї та Україні. Продукція AIRKRAFT відзначається високою якістю, безпекою, комфортом використання та простотою в експлуатації. Надійність і довговічність виробів цього бренду високо оцінені нашими партнерами.</description>
@@ -97637,7 +97637,7 @@ Torx
         <param name="Вид" paramid="28840" valueid="31525">Пневматичні</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1183046294" available="true">
+      <offer id="1183046294" available="false">
         <price>10200</price>
         <currencyId>UAH</currencyId>
         <categoryId>31</categoryId>
@@ -97648,7 +97648,7 @@ Torx
         <picture>https://images.prom.ua/7076942175_pnevmaticheskij-domkrat-dlya.jpg</picture>
         <vendor>Airkraft</vendor>
         <article>DPA-3RK</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Пневматичний домкрат для авто 4 2т з короткою ручкою Airkraft (DPA-3RK)</name_ua>
         <name>Пневматичний домкрат для авто 4 2т з короткою ручкою Airkraft (DPA-3RK)</name>
         <description>Пневматичний домкрат з короткою ручкою 4,2 т DPA-3RK AIRKRAFT Характеристики: Тип транспортного засобу: легковий Вантажопідйомність: 4200 кг Тип приводу: пневматичний Висота підйому: 475 мм Висота підхвату: 175 мм Вага: 17 кг Робочий хід: 310 мм Робочий тиск: 6 бар Довжина ручки: 400 мм Пневматичний домкрат DPA-3RK AIRKRAFT спеціально розроблений для роботи в шиномонтажних майстернях. Завдяки своїй конструкції він дозволяє піднімати автомобілі з відносно низьким кліренсом, що робить його ідеальним вибором для більшості легкових автомобілів масою до 4,2 тонни. Укорочена ручка довжиною 400 мм робить домкрат більш компактним і зручним у використанні, особливо в обмеженому просторі. Піднімання автомобіля: Щоб підняти автомобіль, встановіть домкрат DPA-3RK у відповідному місці під днищем, підключіть стиснене повітря та відкрийте клапан. Після досягнення потрібної висоти закрийте клапан, щоб зафіксувати піднятий автомобіль. Опускання автомобіля: Щоб опустити автомобіль, обережно відкрийте клапан з протилежного боку від підключеного шланга. Завдяки цьому процес опускання відбувається плавно та безпечно. Домкрат DPA-3RK AIRKRAFT &amp;mdash; незамінний інструмент у будь-якому шиномонтажному сервісі, що забезпечує швидке, безпечне та зручне піднімання транспортних засобів. Під брендом AIRKRAFT виробляється широкий асортимент пневматичного обладнання та інструментів &amp;mdash; від повітряних компресорів до з&amp;rsquo;єднувальних елементів. Продукція AIRKRAFT виготовляється в різних країнах залежно від типу асортименту, зокрема в Італії, Туреччині, Китаї та Україні. Продукція AIRKRAFT відзначається високою якістю, безпекою, комфортом використання та простотою експлуатації. Надійність і довговічність виробів цього бренду високо оцінені нашими партнерами.</description>
@@ -99495,7 +99495,7 @@ Torx
         <param name="Країна-виробник товару">Китай</param>
       </offer>
       <offer id="1231860467" available="true">
-        <price>940</price>
+        <price>848</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/2562957312_nabor-dlinnyh-tortsevyh.jpg</picture>
@@ -103120,7 +103120,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1267767412" available="true">
-        <price>860</price>
+        <price>760</price>
         <currencyId>UAH</currencyId>
         <categoryId>117</categoryId>
         <picture>https://images.prom.ua/2651405695_golovka-tortsevaya-udarnaya.jpg</picture>
@@ -103984,7 +103984,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1294081433" available="true">
-        <price>4530</price>
+        <price>3754</price>
         <currencyId>UAH</currencyId>
         <categoryId>15</categoryId>
         <picture>https://images.prom.ua/7075753507_professionalnyj-nabor-bit.jpg</picture>
@@ -108824,7 +108824,7 @@ Torx
         <param name="Країна-виробник товару">Тайвань</param>
       </offer>
       <offer id="1466812664" available="true">
-        <price>1740</price>
+        <price>1390</price>
         <currencyId>UAH</currencyId>
         <categoryId>71</categoryId>
         <picture>https://images.prom.ua/3297587096_ploskogubtsy-elektrika-mnogofunktsionalnye.jpg</picture>
@@ -112605,14 +112605,14 @@ Torx
         <param name="Бренд">wintact</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="1627886523" available="true">
+      <offer id="1627886523" available="false">
         <price>1330</price>
         <currencyId>UAH</currencyId>
         <categoryId>89</categoryId>
         <picture>https://images.prom.ua/3941878542_beskontaktnyj-infrakrasnyj-termometr.jpg</picture>
         <vendor>Benetech</vendor>
         <article>GM300H</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Безконтактний інфрачервоний термометр пірометр — 50-420 °C 12 1 EMS = 0 1-1 Benetech (GM300H)</name_ua>
         <name>Безконтактний інфрачервоний термометр пірометр — 50-420 °C 12 1 EMS = 0 1-1 Benetech (GM300H)</name>
         <description>Безконтактний пірометр GM300H — це нова модель виробництва торгової марки BENETECH. Принцип роботи пірометра ґрунтується на вимірі інфрачервоного випромінювання, що виходить від поверхні тіла та перетворенні його на показання температури. Діапазон вимірювання пірометра GM300H становить від -50 до +420 °C, а точність вимірювання ±2%. Крім цього, GM300H має такі ключові особливості: роздільна здатність 0,1 °C; вибір одиниць вимірювання °C або °F; кольоровий РК-екран; оптична роздільна здатність 12:1; вибір коефіцієнта емісії (EMS) від 0,1 до 1; лазерний цілевказівник; швидкість вимірювання 0,5 с; визначення найбільших і найменших значень; визначення середнього значення температури, різниці температур; сигналізація перевищення верхньої та нижньої межі; режим автоматичного вимкнення; можливість безперервного визначення температури поверхні для перебування витоків тепла; Пірометри торгової марки Benetech добре зарекомендували себе за довгі роки експлуатації. Нова модель GM300H теж знайде своє застосування в різних галузях промисловості та в побуті. Придбати цей та інші пірометри ви можете в інтернет-магазині Protester, а кваліфіковані менеджери компанії з радістю допоможуть підібрати прилад із характеристиками, які повністю відповідатимуть Вашим вимогам.</description>
@@ -129913,7 +129913,7 @@ Torx
         <param name="Бренд">BRIGHT</param>
         <param name="Країна-виробник товару">Китай</param>
       </offer>
-      <offer id="2733806938" available="true">
+      <offer id="2733806938" available="false">
         <price>45970</price>
         <currencyId>UAH</currencyId>
         <categoryId>7</categoryId>
@@ -129921,7 +129921,7 @@ Torx
         <picture>https://images.prom.ua/6844549383_avtomobilnyj-multimarochnyj-skaner.jpg</picture>
         <vendor>Launch</vendor>
         <article>X-431 PRO SE LITE</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Автомобільний мультимарковий сканер Launch (X-431 PRO SE LITE)</name_ua>
         <name>Автомобільний мультимарковий сканер Launch (X-431 PRO SE LITE)</name>
         <description>Автомобільний мультимарочний сканер&amp;nbsp; LAUNCH X-431 PRO SE LITE &amp;nbsp;&amp;mdash; це сучасне професійне рішення для комплексної діагностики електронних систем автомобіля. Пристрій поєднує потужне апаратне забезпечення, широкий функціонал та інтуїтивно зрозумілий інтерфейс, що робить його ефективним інструментом для СТО та сервісних центрів. Основні технічні характеристики: процесор: 4-ядерний, 2.0 ГГц операційна система: Android 10.0 оперативна пам&amp;rsquo;ять: 4 ГБ вбудована пам&amp;rsquo;ять: 64 ГБ дисплей: 8&amp;quot; сенсорний, 1280&amp;times;800 камера: задня 8 МП акумулятор: 6300 мА&amp;middot;год (7.6 В, 47.88 Вт&amp;middot;год) інтерфейси: Wi-Fi 2.4/5 ГГц, Bluetooth, USB Type-A та Type-C габарити: 234 &amp;times; 166 &amp;times; 39.5 мм вага: 900 г Функціональні можливості: повна діагностика систем: двигун, трансмісія, ABS, SRS, іммобілайзер, кондиціонер, блоки кузова тощо зчитування та стирання кодів помилок (DTC) перегляд параметрів у реальному часі активація виконавчих механізмів адаптація та калібрування блоків кодування блоків управління спеціальні функції: скидання сервісу, програмування ключів (з X-PROG 3), адаптація дроселя та ін. Підтримка додаткових модулів: відеоендоскоп VSP-600 тестер акумуляторів BST-360 програматор TPMS X-431 TSGUN Комплектація: планшет X-431 PRO SE LITE діагностичний адаптер OBD-II кабелі та перехідники інструкція користувача захисний кейс для зберігання та транспортування Переваги: підтримка понад 95 марок авто регулярні оновлення ПЗ розширення функціоналу через додаткові модулі компактність та мобільність Сканер ідеально підходить для автосервісів, які потребують надійного, швидкого й універсального інструменту для щоденної роботи з різними автомобілями.</description>
