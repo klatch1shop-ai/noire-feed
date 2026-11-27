@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 07:30">
+<yml_catalog date="2026-11-28 07:30">
 <offers>
 <offer id="Q0003-F1" available="false">
     <price>1610.00</price>
@@ -38195,7 +38195,7 @@ KW-Series     Роз'єм для підключення автомагнітол
     <height>100</height>
     <length>200</length>
   </offer>
-<offer id="22-1513" available="true">
+<offer id="22-1513" available="false">
     <price>1680.00</price>
     <category code="8743">Перехідні рамки для автомагнітол</category>
     <attribute_set code="8743">Перехідні рамки для автомагнітол</attribute_set>
@@ -125536,7 +125536,7 @@ Excelle XT –  2013-2014&lt;/p&gt;
     <height>100</height>
     <length>200</length>
   </offer>
-<offer id="QTY285" available="true">
+<offer id="QTY285" available="false">
     <price>312.00</price>
     <category code="3729">Камери заднього огляду</category>
     <attribute_set code="3729">Камери заднього огляду</attribute_set>
@@ -135645,7 +135645,7 @@ Excelle XT –  2013-2014&lt;/p&gt;
     <height>100</height>
     <length>200</length>
   </offer>
-<offer id="QIV-Q1-10-PremPack" available="true">
+<offer id="QIV-Q1-10-PremPack" available="false">
     <price>5590.00</price>
     <category code="2866">Автомагнітоли</category>
     <attribute_set code="2866">Автомагнітоли</attribute_set>
@@ -416643,7 +416643,7 @@ Audi Q7&lt;/strong&gt;&lt;br&gt;
     <height>100</height>
     <length>200</length>
   </offer>
-<offer id="QBR-F 8026-76" available="true">
+<offer id="QBR-F 8026-76" available="false">
     <price>970.00</price>
     <category code="8743">Перехідні рамки для автомагнітол</category>
     <attribute_set code="8743">Перехідні рамки для автомагнітол</attribute_set>
